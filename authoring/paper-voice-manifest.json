@@ -1,0 +1,2432 @@
+{
+  "engine": "Kokoro 1.1 Mandarin",
+  "voice": "zf_001",
+  "speed": 0.92,
+  "clips": [
+    {
+      "path": "audio/paper/9504baeef99fc983.mp3",
+      "text": "每",
+      "phonemes": "ㄇㄟ3"
+    },
+    {
+      "path": "audio/paper/e4dbef06dab351e7.mp3",
+      "text": "药",
+      "phonemes": "要4"
+    },
+    {
+      "path": "audio/paper/e5250121967d0c3a.mp3",
+      "text": "米",
+      "phonemes": "ㄇㄧ3"
+    },
+    {
+      "path": "audio/paper/3e6119df005fd30f.mp3",
+      "text": "外",
+      "phonemes": "外4"
+    },
+    {
+      "path": "audio/paper/e62037d836703c78.mp3",
+      "text": "路",
+      "phonemes": "ㄌㄨ4"
+    },
+    {
+      "path": "audio/paper/d59b70a3b4f4098c.mp3",
+      "text": "错",
+      "phonemes": "ㄘ我4"
+    },
+    {
+      "path": "audio/paper/ffd1033ea5801a7d.mp3",
+      "text": "懂",
+      "phonemes": "ㄉ中3"
+    },
+    {
+      "path": "audio/paper/97fb9103857c9eb2.mp3",
+      "text": "男",
+      "phonemes": "ㄋㄢ2"
+    },
+    {
+      "path": "audio/paper/18129ffcdff8ffcd.mp3",
+      "text": "女",
+      "phonemes": "ㄋㄩ3"
+    },
+    {
+      "path": "audio/paper/9cd3f820ccb96cf9.mp3",
+      "text": "孩子",
+      "phonemes": "ㄏㄞ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/b6fe2c03a0a5443d.mp3",
+      "text": "雪",
+      "phonemes": "ㄒ月3"
+    },
+    {
+      "path": "audio/paper/d790ee92a345f987.mp3",
+      "text": "零",
+      "phonemes": "ㄌ应2"
+    },
+    {
+      "path": "audio/paper/06194eab2ffed1f4.mp3",
+      "text": "手",
+      "phonemes": "ㄕㄡ3"
+    },
+    {
+      "path": "audio/paper/a0ab127b5cd31171.mp3",
+      "text": "长",
+      "phonemes": "ㄓㄤ3"
+    },
+    {
+      "path": "audio/paper/08d9ad458e0ae1d6.mp3",
+      "text": "笑",
+      "phonemes": "ㄒ要4"
+    },
+    {
+      "path": "audio/paper/bd372678907526e2.mp3",
+      "text": "晴",
+      "phonemes": "ㄑ应2"
+    },
+    {
+      "path": "audio/paper/e9193fa5f583e896.mp3",
+      "text": "百",
+      "phonemes": "ㄅㄞ3"
+    },
+    {
+      "path": "audio/paper/25df033471644982.mp3",
+      "text": "票",
+      "phonemes": "ㄆ要4"
+    },
+    {
+      "path": "audio/paper/fad7634d4277b16e.mp3",
+      "text": "旅",
+      "phonemes": "ㄌㄩ3"
+    },
+    {
+      "path": "audio/paper/e44a563340e5318e.mp3",
+      "text": "游",
+      "phonemes": "又2"
+    },
+    {
+      "path": "audio/paper/bc2502860699d997.mp3",
+      "text": "觉",
+      "phonemes": "ㄐ月2"
+    },
+    {
+      "path": "audio/paper/c34ce3ce8b1671c2.mp3",
+      "text": "为",
+      "phonemes": "为4"
+    },
+    {
+      "path": "audio/paper/d8fb8f9b375a63f9.mp3",
+      "text": "什",
+      "phonemes": "ㄕㄣ2"
+    },
+    {
+      "path": "audio/paper/63df60bc7849b745.mp3",
+      "text": "么",
+      "phonemes": "ㄇㄜ5"
+    },
+    {
+      "path": "audio/paper/fbcf4edac3dd955d.mp3",
+      "text": "运",
+      "phonemes": "云4"
+    },
+    {
+      "path": "audio/paper/109ce02573bf508e.mp3",
+      "text": "动",
+      "phonemes": "ㄉ中4"
+    },
+    {
+      "path": "audio/paper/16f78bb3c4253f1e.mp3",
+      "text": "足",
+      "phonemes": "ㄗㄨ2"
+    },
+    {
+      "path": "audio/paper/bf68a9a65a3c1656.mp3",
+      "text": "球",
+      "phonemes": "ㄑ又2"
+    },
+    {
+      "path": "audio/paper/267df531c499b109.mp3",
+      "text": "起",
+      "phonemes": "ㄑㄧ3"
+    },
+    {
+      "path": "audio/paper/63ed9500a7a6f75f.mp3",
+      "text": "眼",
+      "phonemes": "言3"
+    },
+    {
+      "path": "audio/paper/dd279689926d6860.mp3",
+      "text": "睛",
+      "phonemes": "ㄐ应5"
+    },
+    {
+      "path": "audio/paper/f6fee4cfeeedf172.mp3",
+      "text": "生",
+      "phonemes": "ㄕㄥ1"
+    },
+    {
+      "path": "audio/paper/ca72b9648f329947.mp3",
+      "text": "上",
+      "phonemes": "ㄕㄤ5"
+    },
+    {
+      "path": "audio/paper/68a5d7b2023aed5d.mp3",
+      "text": "跑",
+      "phonemes": "ㄆㄠ3"
+    },
+    {
+      "path": "audio/paper/74babac4ae81420e.mp3",
+      "text": "步",
+      "phonemes": "ㄅㄨ4"
+    },
+    {
+      "path": "audio/paper/7157f25a3af2c20b.mp3",
+      "text": "床",
+      "phonemes": "ㄔ王2"
+    },
+    {
+      "path": "audio/paper/59ab25ca6882cb25.mp3",
+      "text": "身",
+      "phonemes": "ㄕㄣ1"
+    },
+    {
+      "path": "audio/paper/d2bc2fb72730b59a.mp3",
+      "text": "体",
+      "phonemes": "ㄊㄧ3"
+    },
+    {
+      "path": "audio/paper/0c15dcf815cf317a.mp3",
+      "text": "出",
+      "phonemes": "ㄔㄨ1"
+    },
+    {
+      "path": "audio/paper/8f0d841b612d04cd.mp3",
+      "text": "院",
+      "phonemes": "元4"
+    },
+    {
+      "path": "audio/paper/3dbfe8de54f4d4fa.mp3",
+      "text": "知",
+      "phonemes": "ㄓ十1"
+    },
+    {
+      "path": "audio/paper/f080f8521fde45e7.mp3",
+      "text": "道",
+      "phonemes": "ㄉㄠ5"
+    },
+    {
+      "path": "audio/paper/4a44a07236e349ff.mp3",
+      "text": "休",
+      "phonemes": "ㄒ又1"
+    },
+    {
+      "path": "audio/paper/19e86ac8e1a74527.mp3",
+      "text": "息",
+      "phonemes": "ㄒㄧ1"
+    },
+    {
+      "path": "audio/paper/a0a0a6e23809cf3e.mp3",
+      "text": "时",
+      "phonemes": "ㄕ十2"
+    },
+    {
+      "path": "audio/paper/cb43e6fe3090610f.mp3",
+      "text": "间",
+      "phonemes": "ㄐ言1"
+    },
+    {
+      "path": "audio/paper/634dac7281ef5fc7.mp3",
+      "text": "表",
+      "phonemes": "ㄅ要3"
+    },
+    {
+      "path": "audio/paper/d09076c76a755ef6.mp3",
+      "text": "报",
+      "phonemes": "ㄅㄠ4"
+    },
+    {
+      "path": "audio/paper/78de6be680d11c8c.mp3",
+      "text": "纸",
+      "phonemes": "ㄓ十3"
+    },
+    {
+      "path": "audio/paper/fab5d5fbd3d95db3.mp3",
+      "text": "牛",
+      "phonemes": "ㄋ又2"
+    },
+    {
+      "path": "audio/paper/ab53b24f42a91e52.mp3",
+      "text": "奶",
+      "phonemes": "ㄋㄞ3"
+    },
+    {
+      "path": "audio/paper/89346e4ba1073e04.mp3",
+      "text": "房",
+      "phonemes": "ㄈㄤ2"
+    },
+    {
+      "path": "audio/paper/03c0988910585aab.mp3",
+      "text": "丈",
+      "phonemes": "ㄓㄤ4"
+    },
+    {
+      "path": "audio/paper/4e18848511730275.mp3",
+      "text": "夫",
+      "phonemes": "ㄈㄨ5"
+    },
+    {
+      "path": "audio/paper/ecfa19875a507a67.mp3",
+      "text": "旁",
+      "phonemes": "ㄆㄤ2"
+    },
+    {
+      "path": "audio/paper/e34c2b4b1a285dbc.mp3",
+      "text": "边",
+      "phonemes": "ㄅ言1"
+    },
+    {
+      "path": "audio/paper/7e0bfce8e50e98dd.mp3",
+      "text": "粉",
+      "phonemes": "ㄈㄣ3"
+    },
+    {
+      "path": "audio/paper/56a730b6ebe65c3f.mp3",
+      "text": "色",
+      "phonemes": "ㄙㄜ4"
+    },
+    {
+      "path": "audio/paper/79249644776e656a.mp3",
+      "text": "颜",
+      "phonemes": "言2"
+    },
+    {
+      "path": "audio/paper/3fcbee5efe81cfa5.mp3",
+      "text": "左",
+      "phonemes": "ㄗ我3"
+    },
+    {
+      "path": "audio/paper/f1454e34ae249bd4.mp3",
+      "text": "乐",
+      "phonemes": "ㄌㄜ4"
+    },
+    {
+      "path": "audio/paper/1f95be7924c573b8.mp3",
+      "text": "晚",
+      "phonemes": "万3"
+    },
+    {
+      "path": "audio/paper/4f63311e28d6ef1f.mp3",
+      "text": "非",
+      "phonemes": "ㄈㄟ1"
+    },
+    {
+      "path": "audio/paper/dde09af2dcadc057.mp3",
+      "text": "常",
+      "phonemes": "ㄔㄤ2"
+    },
+    {
+      "path": "audio/paper/95b49912ca5051d7.mp3",
+      "text": "始",
+      "phonemes": "ㄕ十3"
+    },
+    {
+      "path": "audio/paper/d8bfca0785c5637c.mp3",
+      "text": "已",
+      "phonemes": "ㄧ3"
+    },
+    {
+      "path": "audio/paper/161d96c2a9e0a248.mp3",
+      "text": "经",
+      "phonemes": "ㄐ应1"
+    },
+    {
+      "path": "audio/paper/e037c477c7e4f426.mp3",
+      "text": "介",
+      "phonemes": "ㄐㄝ4"
+    },
+    {
+      "path": "audio/paper/111a6472b5b5e88b.mp3",
+      "text": "绍",
+      "phonemes": "ㄕㄠ4"
+    },
+    {
+      "path": "audio/paper/2355a969d67ff94b.mp3",
+      "text": "面",
+      "phonemes": "ㄇ言4"
+    },
+    {
+      "path": "audio/paper/96b63c5bbc8c4c39.mp3",
+      "text": "准",
+      "phonemes": "ㄓ文3"
+    },
+    {
+      "path": "audio/paper/297ef6bad7448547.mp3",
+      "text": "备",
+      "phonemes": "ㄅㄟ4"
+    },
+    {
+      "path": "audio/paper/cc7e46317e8556f4.mp3",
+      "text": "可",
+      "phonemes": "ㄎㄜ3"
+    },
+    {
+      "path": "audio/paper/1bb00576acc2845e.mp3",
+      "text": "以",
+      "phonemes": "ㄧ3"
+    },
+    {
+      "path": "audio/paper/3a9a7012652b870e.mp3",
+      "text": "考",
+      "phonemes": "ㄎㄠ3"
+    },
+    {
+      "path": "audio/paper/214d60a801044f34.mp3",
+      "text": "试",
+      "phonemes": "ㄕ十4"
+    },
+    {
+      "path": "audio/paper/f111eec2fab0090f.mp3",
+      "text": "意",
+      "phonemes": "ㄧ4"
+    },
+    {
+      "path": "audio/paper/4ed24952b4bd3aee.mp3",
+      "text": "思",
+      "phonemes": "ㄙㄭ5"
+    },
+    {
+      "path": "audio/paper/555579510e791929.mp3",
+      "text": "咖",
+      "phonemes": "ㄎㄚ1"
+    },
+    {
+      "path": "audio/paper/a1063e2ee1039dae.mp3",
+      "text": "啡",
+      "phonemes": "ㄈㄟ1"
+    },
+    {
+      "path": "audio/paper/f8503c5f45fe7f61.mp3",
+      "text": "自",
+      "phonemes": "ㄗㄭ4"
+    },
+    {
+      "path": "audio/paper/58d854ede27adfb3.mp3",
+      "text": "行",
+      "phonemes": "ㄒ应2"
+    },
+    {
+      "path": "audio/paper/13b1d97af27e7d84.mp3",
+      "text": "羊",
+      "phonemes": "阳2"
+    },
+    {
+      "path": "audio/paper/a9e42039a46525de.mp3",
+      "text": "肉",
+      "phonemes": "ㄖㄡ4"
+    },
+    {
+      "path": "audio/paper/9019fac09f788bff.mp3",
+      "text": "条",
+      "phonemes": "ㄊ要2"
+    },
+    {
+      "path": "audio/paper/ec1ce19a477a4781.mp3",
+      "text": "篮",
+      "phonemes": "ㄌㄢ2"
+    },
+    {
+      "path": "audio/paper/830fbe0df97873e2.mp3",
+      "text": "因",
+      "phonemes": "阴1"
+    },
+    {
+      "path": "audio/paper/61c58d9990a8c8cb.mp3",
+      "text": "所",
+      "phonemes": "ㄙ我3"
+    },
+    {
+      "path": "audio/paper/393638331154bebf.mp3",
+      "text": "泳",
+      "phonemes": "用3"
+    },
+    {
+      "path": "audio/paper/a2465ee0905e28f5.mp3",
+      "text": "公",
+      "phonemes": "ㄍ中1"
+    },
+    {
+      "path": "audio/paper/c0d309a81ef0bb19.mp3",
+      "text": "姐",
+      "phonemes": "ㄐㄝ3"
+    },
+    {
+      "path": "audio/paper/9e5a18ffae548f6a.mp3",
+      "text": "姐",
+      "phonemes": "ㄐㄝ5"
+    },
+    {
+      "path": "audio/paper/b3f788537707c96a.mp3",
+      "text": "教",
+      "phonemes": "ㄐ要4"
+    },
+    {
+      "path": "audio/paper/c6228778703a2374.mp3",
+      "text": "室",
+      "phonemes": "ㄕ十4"
+    },
+    {
+      "path": "audio/paper/da6d557a40ac4181.mp3",
+      "text": "机",
+      "phonemes": "ㄐㄧ1"
+    },
+    {
+      "path": "audio/paper/466256a1572a11f9.mp3",
+      "text": "场",
+      "phonemes": "ㄔㄤ3"
+    },
+    {
+      "path": "audio/paper/d5ed706c0b208c9e.mp3",
+      "text": "司",
+      "phonemes": "ㄙㄭ1"
+    },
+    {
+      "path": "audio/paper/a47b9ebbe73f6477.mp3",
+      "text": "共",
+      "phonemes": "ㄍ中4"
+    },
+    {
+      "path": "audio/paper/185dbad1eabddc98.mp3",
+      "text": "汽",
+      "phonemes": "ㄑㄧ4"
+    },
+    {
+      "path": "audio/paper/29c1e668d6b597e6.mp3",
+      "text": "告",
+      "phonemes": "ㄍㄠ4"
+    },
+    {
+      "path": "audio/paper/ba50564454b4bb24.mp3",
+      "text": "诉",
+      "phonemes": "ㄙㄨ5"
+    },
+    {
+      "path": "audio/paper/f122294ca48f5310.mp3",
+      "text": "事",
+      "phonemes": "ㄕ十4"
+    },
+    {
+      "path": "audio/paper/647218d9d49d3764.mp3",
+      "text": "情",
+      "phonemes": "ㄑ应2"
+    },
+    {
+      "path": "audio/paper/fdec34c5309d375d.mp3",
+      "text": "服",
+      "phonemes": "ㄈㄨ2"
+    },
+    {
+      "path": "audio/paper/a191846cb331513d.mp3",
+      "text": "务",
+      "phonemes": "ㄨ4"
+    },
+    {
+      "path": "audio/paper/c12cb4c740d697a6.mp3",
+      "text": "员",
+      "phonemes": "元2"
+    },
+    {
+      "path": "audio/paper/3bc3e47276e6389c.mp3",
+      "text": "跳",
+      "phonemes": "ㄊ要4"
+    },
+    {
+      "path": "audio/paper/ac2c1a11c39f747f.mp3",
+      "text": "舞",
+      "phonemes": "ㄨ3"
+    },
+    {
+      "path": "audio/paper/96e59d872df38144.mp3",
+      "text": "第",
+      "phonemes": "ㄉㄧ4"
+    },
+    {
+      "path": "audio/paper/5aceb821457157a6.mp3",
+      "text": "希",
+      "phonemes": "ㄒㄧ1"
+    },
+    {
+      "path": "audio/paper/941ccdcdc6547f7f.mp3",
+      "text": "望",
+      "phonemes": "王4"
+    },
+    {
+      "path": "audio/paper/bbfeef2570965f1f.mp3",
+      "text": "欢",
+      "phonemes": "ㄏ万1"
+    },
+    {
+      "path": "audio/paper/9dcfd6966985a26c.mp3",
+      "text": "迎",
+      "phonemes": "应2"
+    },
+    {
+      "path": "audio/paper/4a3b3422b4b7a351.mp3",
+      "text": "助",
+      "phonemes": "ㄓㄨ4"
+    },
+    {
+      "path": "audio/paper/43b962b28aa20421.mp3",
+      "text": "哥",
+      "phonemes": "ㄍㄜ1"
+    },
+    {
+      "path": "audio/paper/ea3572d4e79b3b4b.mp3",
+      "text": "哥",
+      "phonemes": "ㄍㄜ5"
+    },
+    {
+      "path": "audio/paper/35915ae172991845.mp3",
+      "text": "鸡",
+      "phonemes": "ㄐㄧ1"
+    },
+    {
+      "path": "audio/paper/275bdba97adca852.mp3",
+      "text": "蛋",
+      "phonemes": "ㄉㄢ4"
+    },
+    {
+      "path": "audio/paper/cc0f255de6877a26.mp3",
+      "text": "西",
+      "phonemes": "ㄒㄧ1"
+    },
+    {
+      "path": "audio/paper/f39ec71714be70f4.mp3",
+      "text": "瓜",
+      "phonemes": "ㄍ穵1"
+    },
+    {
+      "path": "audio/paper/59b0e99d13aacc57.mp3",
+      "text": "正",
+      "phonemes": "ㄓㄥ4"
+    },
+    {
+      "path": "audio/paper/baa700a3f7230e4c.mp3",
+      "text": "唱",
+      "phonemes": "ㄔㄤ4"
+    },
+    {
+      "path": "audio/paper/4c34faa448efd720.mp3",
+      "text": "歌",
+      "phonemes": "ㄍㄜ1"
+    },
+    {
+      "path": "audio/paper/e2421580c86ce76e.mp3",
+      "text": "孩",
+      "phonemes": "ㄏㄞ2"
+    },
+    {
+      "path": "audio/paper/493e53d9f37773fc.mp3",
+      "text": "子",
+      "phonemes": "ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/bc9235c64710ba28.mp3",
+      "text": "便",
+      "phonemes": "ㄆ言2"
+    },
+    {
+      "path": "audio/paper/e672a5f785a395d9.mp3",
+      "text": "宜",
+      "phonemes": "ㄧ5"
+    },
+    {
+      "path": "audio/paper/2ceaeb57578bd9d6.mp3",
+      "text": "话",
+      "phonemes": "ㄏ穵4"
+    },
+    {
+      "path": "audio/paper/f8d98d7d2d6974c8.mp3",
+      "text": "妻",
+      "phonemes": "ㄑㄧ1"
+    },
+    {
+      "path": "audio/paper/27790d0a6e34411c.mp3",
+      "text": "子",
+      "phonemes": "ㄗㄭ3"
+    },
+    {
+      "path": "audio/paper/8f7ea4b9e98cdc77.mp3",
+      "text": "弟",
+      "phonemes": "ㄉㄧ4"
+    },
+    {
+      "path": "audio/paper/c34304afbcf6337a.mp3",
+      "text": "弟",
+      "phonemes": "ㄉㄧ5"
+    },
+    {
+      "path": "audio/paper/29267eb616d977d2.mp3",
+      "text": "铅",
+      "phonemes": "ㄑ言1"
+    },
+    {
+      "path": "audio/paper/129b53f1c96b2658.mp3",
+      "text": "笔",
+      "phonemes": "ㄅㄧ3"
+    },
+    {
+      "path": "audio/paper/f4ab2971ef4ff525.mp3",
+      "text": "宾",
+      "phonemes": "ㄅ阴1"
+    },
+    {
+      "path": "audio/paper/94048db1fea314ff.mp3",
+      "text": "馆",
+      "phonemes": "ㄍ万3"
+    },
+    {
+      "path": "audio/paper/c85915390c05247a.mp3",
+      "text": "直",
+      "phonemes": "ㄓ十2"
+    },
+    {
+      "path": "audio/paper/332fab54b4f45879.mp3",
+      "text": "口",
+      "phonemes": "ㄎㄡ3"
+    },
+    {
+      "path": "audio/paper/c49fff904bc08071.mp3",
+      "text": "但",
+      "phonemes": "ㄉㄢ4"
+    },
+    {
+      "path": "audio/paper/1b43de1e7428141e.mp3",
+      "text": "虽",
+      "phonemes": "ㄙ为1"
+    },
+    {
+      "path": "audio/paper/d6301be6f28abc5c.mp3",
+      "text": "然",
+      "phonemes": "ㄖㄢ2"
+    },
+    {
+      "path": "audio/paper/47108e572b305b35.mp3",
+      "text": "玩",
+      "phonemes": "万2"
+    },
+    {
+      "path": "audio/paper/9c547c2875cecdfd.mp3",
+      "text": "儿",
+      "phonemes": "ㄦ2"
+    },
+    {
+      "path": "audio/paper/ecd7b8c527839304.mp3",
+      "text": "火",
+      "phonemes": "ㄏ我3"
+    },
+    {
+      "path": "audio/paper/18a966b92e35660b.mp3",
+      "text": "站",
+      "phonemes": "ㄓㄢ4"
+    },
+    {
+      "path": "audio/paper/561f52bdae37339f.mp3",
+      "text": "妹",
+      "phonemes": "ㄇㄟ4"
+    },
+    {
+      "path": "audio/paper/a0595b1d0981b6bd.mp3",
+      "text": "妹",
+      "phonemes": "ㄇㄟ5"
+    },
+    {
+      "path": "audio/paper/a2e9bd4d684e4ded.mp3",
+      "text": "我要去北京旅游",
+      "phonemes": "我3要4ㄑㄩ4ㄅㄟ3ㄐ应1ㄌㄩ3又2"
+    },
+    {
+      "path": "audio/paper/2cacf80f68036f3f.mp3",
+      "text": "你觉得什么时候去最好",
+      "phonemes": "ㄋㄧ3ㄐ月2ㄉㄜ5ㄕㄣ2ㄇㄜ5ㄕ十2ㄏㄡ4ㄑㄩ4ㄗ为4ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/173daf493f9bced0.mp3",
+      "text": "九月去北京旅游最好",
+      "phonemes": "ㄐ又3月4ㄑㄩ4ㄅㄟ3ㄐ应1ㄌㄩ3又2ㄗ为4ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/b6d8d4355c356f41.mp3",
+      "text": "九月的北京天气不冷也不热",
+      "phonemes": "ㄐ又3月4ㄉㄜ5ㄅㄟ3ㄐ应1ㄊ言1ㄑㄧ4ㄅㄨ4ㄌㄥ2ㄝ3ㄅㄨ2ㄖㄜ4"
+    },
+    {
+      "path": "audio/paper/32b2acdb8629b990.mp3",
+      "text": "你喜欢什么运动",
+      "phonemes": "ㄋㄧ2ㄒㄧ3ㄏ万5ㄕㄣ2ㄇㄜ5云4ㄉ中4"
+    },
+    {
+      "path": "audio/paper/2fde9f7a3cf56f62.mp3",
+      "text": "我最喜欢踢足球",
+      "phonemes": "我3ㄗ为4ㄒㄧ3ㄏ万5ㄊㄧ1ㄗㄨ2ㄑ又2"
+    },
+    {
+      "path": "audio/paper/d60e0bf683bb15ec.mp3",
+      "text": "下午我们一起去踢足球吧",
+      "phonemes": "ㄒ压4ㄨ2我3ㄇㄣ5ㄧ4ㄑㄧ3ㄑㄩ4ㄊㄧ1ㄗㄨ2ㄑ又2ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/8611a8c09b1af426.mp3",
+      "text": "我们要不要买几个新的椅子",
+      "phonemes": "我3ㄇㄣ5要4ㄅㄨ5要4ㄇㄞ2ㄐㄧ3ㄍㄜ4ㄒ阴1ㄉㄜ5ㄧ3ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/48b15d4c7c9f6071.mp3",
+      "text": "什么时候去买",
+      "phonemes": "ㄕㄣ2ㄇㄜ5ㄕ十2ㄏㄡ4ㄑㄩ4ㄇㄞ3"
+    },
+    {
+      "path": "audio/paper/5e2c9391978585a0.mp3",
+      "text": "明天下午怎么样",
+      "phonemes": "ㄇ应2ㄊ言1ㄒ压4ㄨ2ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/6b8d1fe3e998f78f.mp3",
+      "text": "你明天几点能回来",
+      "phonemes": "ㄋㄧ3ㄇ应2ㄊ言1ㄐㄧ2ㄉ言3ㄋㄥ2ㄏ为2ㄌㄞ2"
+    },
+    {
+      "path": "audio/paper/5a757ca49cbe93b7.mp3",
+      "text": "三点多",
+      "phonemes": "ㄙㄢ1ㄉ言3ㄉ我1"
+    },
+    {
+      "path": "audio/paper/966b5a9d9f1d5e97.mp3",
+      "text": "桌子下面有个猫",
+      "phonemes": "ㄓ我1ㄗㄭ5ㄒ压4ㄇ言4又3ㄍㄜ4ㄇㄠ1"
+    },
+    {
+      "path": "audio/paper/4eefeec57169a47e.mp3",
+      "text": "那是我的猫",
+      "phonemes": "ㄋㄚ4ㄕ十4我3ㄉㄜ5ㄇㄠ1"
+    },
+    {
+      "path": "audio/paper/d80d83149b2e77f8.mp3",
+      "text": "它叫花花",
+      "phonemes": "ㄊㄚ1ㄐ要4ㄏ穵1ㄏ穵5"
+    },
+    {
+      "path": "audio/paper/dd6d15b5a2418470.mp3",
+      "text": "它很漂亮",
+      "phonemes": "ㄊㄚ1ㄏㄣ3ㄆ要4ㄌ阳5"
+    },
+    {
+      "path": "audio/paper/f62372c783e7c0d6.mp3",
+      "text": "我觉得它的眼睛最漂亮",
+      "phonemes": "我3ㄐ月2ㄉㄜ5ㄊㄚ1ㄉㄜ5言3ㄐ应5ㄗ为4ㄆ要4ㄌ阳5"
+    },
+    {
+      "path": "audio/paper/23c47cb9b74e1f5b.mp3",
+      "text": "它多大了",
+      "phonemes": "ㄊㄚ1ㄉ我1ㄉㄚ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/4d63778fb1afc435.mp3",
+      "text": "六个多月",
+      "phonemes": "ㄌ又4ㄍㄜ4ㄉ我1月4"
+    },
+    {
+      "path": "audio/paper/84df7ff26f044543.mp3",
+      "text": "你很少生病",
+      "phonemes": "ㄋㄧ2ㄏㄣ2ㄕㄠ3ㄕㄥ1ㄅ应4"
+    },
+    {
+      "path": "audio/paper/8180094b9da62027.mp3",
+      "text": "是不是喜欢运动",
+      "phonemes": "ㄕ十4ㄅㄨ5ㄕ十4ㄒㄧ3ㄏ万5云4ㄉ中4"
+    },
+    {
+      "path": "audio/paper/5dc5e6c19e1d30d2.mp3",
+      "text": "我每天早上都要出去跑步",
+      "phonemes": "我2ㄇㄟ3ㄊ言1ㄗㄠ3ㄕㄤ5ㄉㄡ1要4ㄔㄨ1ㄑㄩ4ㄆㄠ3ㄅㄨ4"
+    },
+    {
+      "path": "audio/paper/f078d0f2271e24b4.mp3",
+      "text": "你每天几点起床",
+      "phonemes": "ㄋㄧ2ㄇㄟ3ㄊ言1ㄐㄧ2ㄉ言2ㄑㄧ3ㄔ王2"
+    },
+    {
+      "path": "audio/paper/b36af07c41999d1c.mp3",
+      "text": "我每天六点起床",
+      "phonemes": "我2ㄇㄟ3ㄊ言1ㄌ又4ㄉ言2ㄑㄧ3ㄔ王2"
+    },
+    {
+      "path": "audio/paper/d40dfb2dc73bcb54.mp3",
+      "text": "吃药了吗",
+      "phonemes": "ㄔ十1要4ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/c63f62ef6e31b697.mp3",
+      "text": "现在身体怎么样",
+      "phonemes": "ㄒ言4ㄗㄞ4ㄕㄣ1ㄊㄧ2ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/7e8fd470354c4845.mp3",
+      "text": "现在好多了",
+      "phonemes": "ㄒ言4ㄗㄞ4ㄏㄠ3ㄉ我1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/58af286cab59a151.mp3",
+      "text": "什么时候能出院",
+      "phonemes": "ㄕㄣ2ㄇㄜ5ㄕ十2ㄏㄡ4ㄋㄥ2ㄔㄨ1元4"
+    },
+    {
+      "path": "audio/paper/5dff1d2f472d535c.mp3",
+      "text": "医生说下个星期",
+      "phonemes": "ㄧ1ㄕㄥ1ㄕ我1ㄒ压4ㄍㄜ4ㄒ应1ㄑㄧ1"
+    },
+    {
+      "path": "audio/paper/8aeb49a6dfb0ec58.mp3",
+      "text": "大卫今年多大",
+      "phonemes": "ㄉㄚ4为4ㄐ阴1ㄋ言2ㄉ我1ㄉㄚ4"
+    },
+    {
+      "path": "audio/paper/3b64374750690faf.mp3",
+      "text": "他多高",
+      "phonemes": "ㄊㄚ1ㄉ我1ㄍㄠ1"
+    },
+    {
+      "path": "audio/paper/f208f64fdd935928.mp3",
+      "text": "一米八几",
+      "phonemes": "ㄧ4ㄇㄧ3ㄅㄚ1ㄐㄧ3"
+    },
+    {
+      "path": "audio/paper/2257bce8b71acb1b.mp3",
+      "text": "你怎么知道这么多啊",
+      "phonemes": "ㄋㄧ2ㄗㄣ3ㄇㄜ5ㄓ十1ㄉㄠ5ㄓㄜ4ㄇㄜ5ㄉ我1ㄚ5"
+    },
+    {
+      "path": "audio/paper/78b7a9ed3a0e9ea8.mp3",
+      "text": "他是我同学",
+      "phonemes": "ㄊㄚ1ㄕ十4我3ㄊ中2ㄒ月2"
+    },
+    {
+      "path": "audio/paper/fdd43166cf31e44d.mp3",
+      "text": "张老师星期六也不休息啊",
+      "phonemes": "ㄓㄤ1ㄌㄠ3ㄕ十1ㄒ应1ㄑㄧ1ㄌ又4ㄝ3ㄅㄨ4ㄒ又1ㄒㄧ1ㄚ5"
+    },
+    {
+      "path": "audio/paper/efd6baa200c347ab.mp3",
+      "text": "他这几天很忙",
+      "phonemes": "ㄊㄚ1ㄓㄜ4ㄐㄧ3ㄊ言1ㄏㄣ3ㄇㄤ2"
+    },
+    {
+      "path": "audio/paper/6ccd66d9c2cc46cc.mp3",
+      "text": "没有时间休息",
+      "phonemes": "ㄇㄟ2又3ㄕ十2ㄐ言1ㄒ又1ㄒㄧ5"
+    },
+    {
+      "path": "audio/paper/e03bb66aae0d1761.mp3",
+      "text": "那会很累吧",
+      "phonemes": "ㄋㄚ4ㄏ为4ㄏㄣ3ㄌㄟ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/5faade457d456fbe.mp3",
+      "text": "他每天回来都很累",
+      "phonemes": "ㄊㄚ1ㄇㄟ3ㄊ言1ㄏ为2ㄌㄞ2ㄉㄡ1ㄏㄣ3ㄌㄟ4"
+    },
+    {
+      "path": "audio/paper/bfd3bad8620d1a69.mp3",
+      "text": "这块手表是你的吗",
+      "phonemes": "ㄓㄜ4ㄎ外4ㄕㄡ2ㄅ要3ㄕ十4ㄋㄧ3ㄉㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/1e0a8300c12fff9c.mp3",
+      "text": "不是我的",
+      "phonemes": "ㄅㄨ2ㄕ十4我3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/3ba6a3705978a54f.mp3",
+      "text": "是我爸爸的",
+      "phonemes": "ㄕ十4我3ㄅㄚ4ㄅㄚ5ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/c3ceb7793316070e.mp3",
+      "text": "多少钱买的",
+      "phonemes": "ㄉ我1ㄕㄠ5ㄑ言2ㄇㄞ3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/9483878a76cb1135.mp3",
+      "text": "三千多块",
+      "phonemes": "ㄙㄢ1ㄑ言1ㄉ我1ㄎ外4"
+    },
+    {
+      "path": "audio/paper/85f720ccbdfac351.mp3",
+      "text": "这是今天早上的报纸吗",
+      "phonemes": "ㄓㄜ4ㄕ十4ㄐ阴1ㄊ言1ㄗㄠ3ㄕㄤ5ㄉㄜ5ㄅㄠ4ㄓ十3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/54bcc113b714f948.mp3",
+      "text": "是昨天的",
+      "phonemes": "ㄕ十4ㄗ我2ㄊ言1ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/0f92ab8a0e16ecc3.mp3",
+      "text": "是不是送报纸的来了",
+      "phonemes": "ㄕ十4ㄅㄨ5ㄕ十4ㄙ中4ㄅㄠ4ㄓ十3ㄉㄜ5ㄌㄞ2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/05f2acf25333d2ac.mp3",
+      "text": "我看一下",
+      "phonemes": "我3ㄎㄢ4ㄧ2ㄒ压4"
+    },
+    {
+      "path": "audio/paper/91b788e992a348f5.mp3",
+      "text": "是送牛奶的",
+      "phonemes": "ㄕ十4ㄙ中4ㄋ又2ㄋㄞ3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/c1e6502aa31de7a8.mp3",
+      "text": "这是谁的房间",
+      "phonemes": "ㄓㄜ4ㄕ十4ㄕㄟ2ㄉㄜ5ㄈㄤ2ㄐ言1"
+    },
+    {
+      "path": "audio/paper/0ada47496cfc14ff.mp3",
+      "text": "这是我和我丈夫的",
+      "phonemes": "ㄓㄜ4ㄕ十4我3ㄏㄜ2我3ㄓㄤ4ㄈㄨ5ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/3bb5cdc420935579.mp3",
+      "text": "旁边那个小的房间是我女儿的",
+      "phonemes": "ㄆㄤ2ㄅ言1ㄋㄚ4ㄍㄜ5ㄒ要3ㄉㄜ5ㄈㄤ2ㄐ言1ㄕ十4我2ㄋㄩ3ㄦ2ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/15c346bd5425a9a5.mp3",
+      "text": "你女儿的房间真漂亮",
+      "phonemes": "ㄋㄧ2ㄋㄩ3ㄦ2ㄉㄜ5ㄈㄤ2ㄐ言1ㄓㄣ1ㄆ要4ㄌ阳5"
+    },
+    {
+      "path": "audio/paper/1642a7d92d992334.mp3",
+      "text": "都是粉色的",
+      "phonemes": "ㄉㄡ1ㄕ十4ㄈㄣ3ㄙㄜ4ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/ae1619522547c283.mp3",
+      "text": "粉色是我女儿最喜欢的颜色",
+      "phonemes": "ㄈㄣ3ㄙㄜ4ㄕ十4我2ㄋㄩ3ㄦ2ㄗ为4ㄒㄧ3ㄏ万5ㄉㄜ5言2ㄙㄜ4"
+    },
+    {
+      "path": "audio/paper/15e8907ad149c80c.mp3",
+      "text": "你看见我的杯子了吗",
+      "phonemes": "ㄋㄧ3ㄎㄢ4ㄐ言4我3ㄉㄜ5ㄅㄟ1ㄗㄭ5ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/6b39fb1aef3bdc19.mp3",
+      "text": "这里有几个杯子",
+      "phonemes": "ㄓㄜ4ㄌㄧ2又2ㄐㄧ3ㄍㄜ4ㄅㄟ1ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/931ffa693253020b.mp3",
+      "text": "哪个是你的",
+      "phonemes": "ㄋㄚ3ㄍㄜ5ㄕ十4ㄋㄧ3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/8e9161e112e16a9b.mp3",
+      "text": "左边那个红色的是我的",
+      "phonemes": "ㄗ我3ㄅ言1ㄋㄚ4ㄍㄜ5ㄏ中2ㄙㄜ4ㄉㄜ5ㄕ十4我3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/09f4e925fc681df2.mp3",
+      "text": "生日快乐",
+      "phonemes": "ㄕㄥ1ㄖ十4ㄎ外4ㄌㄜ4"
+    },
+    {
+      "path": "audio/paper/320169d84c290f2b.mp3",
+      "text": "这是送给你的",
+      "phonemes": "ㄓㄜ4ㄕ十4ㄙ中4ㄍㄟ2ㄋㄧ3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/6c84e09a83242c48.mp3",
+      "text": "是什么",
+      "phonemes": "ㄕ十4ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/paper/28142253025087e5.mp3",
+      "text": "是一本书吗",
+      "phonemes": "ㄕ十4ㄧ4ㄅㄣ3ㄕㄨ1ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/4c42d6c7c784eac7.mp3",
+      "text": "这本书是我写的",
+      "phonemes": "ㄓㄜ4ㄅㄣ3ㄕㄨ1ㄕ十4我2ㄒㄝ3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/6ce9fe31e4c91d00.mp3",
+      "text": "太谢谢你了",
+      "phonemes": "ㄊㄞ4ㄒㄝ4ㄒㄝ4ㄋㄧ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/3e08bec4ff1b94fa.mp3",
+      "text": "早上有你一个电话",
+      "phonemes": "ㄗㄠ3ㄕㄤ5又2ㄋㄧ3ㄧ2ㄍㄜ4ㄉ言4ㄏ穵4"
+    },
+    {
+      "path": "audio/paper/91bf902c7eb7c919.mp3",
+      "text": "电话是谁打的",
+      "phonemes": "ㄉ言4ㄏ穵4ㄕ十4ㄕ为2ㄉㄚ3ㄉㄧ1"
+    },
+    {
+      "path": "audio/paper/dc62db484263db2d.mp3",
+      "text": "不知道",
+      "phonemes": "ㄅㄨ4ㄓ十1ㄉㄠ5"
+    },
+    {
+      "path": "audio/paper/c9ed813d62966564.mp3",
+      "text": "是儿子接的",
+      "phonemes": "ㄕ十4ㄦ2ㄗㄭ5ㄐㄝ1ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/b6114c5f63d1d06c.mp3",
+      "text": "晚上我问一下儿子",
+      "phonemes": "万3ㄕㄤ5我3文4ㄧ2ㄒ压4ㄦ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/d7fb4a0919244cad.mp3",
+      "text": "你喜欢踢足球吗",
+      "phonemes": "ㄋㄧ2ㄒㄧ3ㄏ万5ㄊㄧ1ㄗㄨ2ㄑ又2ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/f13e858aeb7996e3.mp3",
+      "text": "非常喜欢",
+      "phonemes": "ㄈㄟ1ㄔㄤ2ㄒㄧ3ㄏ万5"
+    },
+    {
+      "path": "audio/paper/8ad9413f062a8f0f.mp3",
+      "text": "你是什么时候开始踢足球的",
+      "phonemes": "ㄋㄧ3ㄕ十4ㄕㄣ2ㄇㄜ5ㄕ十2ㄏㄡ4ㄎㄞ1ㄕ十3ㄊㄧ1ㄗㄨ2ㄑ又2ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/8fa213c52390362a.mp3",
+      "text": "我十一岁的时候开始踢足球",
+      "phonemes": "我3ㄕ十2ㄧ1ㄙ为4ㄉㄜ5ㄕ十2ㄏㄡ5ㄎㄞ1ㄕ十3ㄊㄧ1ㄗㄨ2ㄑ又2"
+    },
+    {
+      "path": "audio/paper/f244b02fe47f6f96.mp3",
+      "text": "已经踢了十年了",
+      "phonemes": "ㄧ3ㄐ应1ㄊㄧ1ㄌㄜ5ㄕ十2ㄋ言2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/cbd0871db737f008.mp3",
+      "text": "你在这儿工作多长时间了",
+      "phonemes": "ㄋㄧ3ㄗㄞ4ㄓㄜR4ㄍ中1ㄗ我4ㄉ我1ㄔㄤ2ㄕ十2ㄐ言1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/60844a6568640385.mp3",
+      "text": "已经两年多了",
+      "phonemes": "ㄧ3ㄐ应1ㄌ阳3ㄋ言2ㄉ我1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/3bb31d7412047e91.mp3",
+      "text": "年来的",
+      "phonemes": "ㄋ言2ㄌㄞ2ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/769eb08e2b97c534.mp3",
+      "text": "你认识谢先生吗",
+      "phonemes": "ㄋㄧ3ㄖㄣ4ㄕ十5ㄒㄝ4ㄒ言1ㄕㄥ1ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/c52d79d434cc016b.mp3",
+      "text": "我们是大学同学",
+      "phonemes": "我3ㄇㄣ5ㄕ十4ㄉㄚ4ㄒ月2ㄊ中2ㄒ月2"
+    },
+    {
+      "path": "audio/paper/56f07b77a0a25c06.mp3",
+      "text": "这个工作是他帮我介绍的",
+      "phonemes": "ㄓㄜ4ㄍㄜ5ㄍ中1ㄗ我4ㄕ十4ㄊㄚ1ㄅㄤ1我3ㄐㄝ4ㄕㄠ4ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/41959edd701ce50a.mp3",
+      "text": "晚上我们去饭馆吃饭",
+      "phonemes": "万3ㄕㄤ5我3ㄇㄣ5ㄑㄩ4ㄈㄢ4ㄍ万3ㄔ十1ㄈㄢ4"
+    },
+    {
+      "path": "audio/paper/a2895c7e02b20081.mp3",
+      "text": "我不想去外面吃",
+      "phonemes": "我3ㄅㄨ4ㄒ阳3ㄑㄩ4外4ㄇ言4ㄔ十1"
+    },
+    {
+      "path": "audio/paper/cac1d6fe15b2f140.mp3",
+      "text": "我想在家吃",
+      "phonemes": "我2ㄒ阳3ㄗㄞ4ㄐ压1ㄔ十1"
+    },
+    {
+      "path": "audio/paper/be95cf68619a0697.mp3",
+      "text": "那你准备做什么呢",
+      "phonemes": "ㄋㄚ4ㄋㄧ2ㄓ文3ㄅㄟ4ㄗ我4ㄕㄣ2ㄇㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/af951123979cb212.mp3",
+      "text": "就做你爱吃的鱼吧",
+      "phonemes": "ㄐ又4ㄗ我4ㄋㄧ3ㄞ4ㄔ十1ㄉㄜ5ㄩ2ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/b26cd5a15343f002.mp3",
+      "text": "帮我看一下这件衣服怎么样",
+      "phonemes": "ㄅㄤ1我3ㄎㄢ4ㄧ2ㄒ压4ㄓㄜ4ㄐ言4ㄧ1ㄈㄨ5ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/c15c380d5175e16d.mp3",
+      "text": "颜色还可以",
+      "phonemes": "言2ㄙㄜ4ㄏㄞ2ㄎㄜ2ㄧ3"
+    },
+    {
+      "path": "audio/paper/29098a44732604fb.mp3",
+      "text": "就是有点儿大",
+      "phonemes": "ㄐ又4ㄕ十4又2ㄉ言R3ㄉㄚ4"
+    },
+    {
+      "path": "audio/paper/b3cc5af866cfd02d.mp3",
+      "text": "这件小的怎么样",
+      "phonemes": "ㄓㄜ4ㄐ言4ㄒ要3ㄉㄜ5ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/adbedb8233221071.mp3",
+      "text": "这件不错",
+      "phonemes": "ㄓㄜ4ㄐ言4ㄅㄨ2ㄘ我4"
+    },
+    {
+      "path": "audio/paper/4b523ca1d4d881e8.mp3",
+      "text": "就买这件吧",
+      "phonemes": "ㄐ又4ㄇㄞ3ㄓㄜ4ㄐ言4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/2c07b08be5b88880.mp3",
+      "text": "今天去不去打球",
+      "phonemes": "ㄐ阴1ㄊ言1ㄑㄩ4ㄅㄨ5ㄑㄩ4ㄉㄚ3ㄑ又2"
+    },
+    {
+      "path": "audio/paper/425bd0c0fb8eca53.mp3",
+      "text": "这两天有点儿累",
+      "phonemes": "ㄓㄜ4ㄌ阳3ㄊ言1又2ㄉ言R3ㄌㄟ4"
+    },
+    {
+      "path": "audio/paper/cf509515b35c230d.mp3",
+      "text": "不去打球了",
+      "phonemes": "ㄅㄨ2ㄑㄩ4ㄉㄚ3ㄑ又2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/682314c2ed08bc65.mp3",
+      "text": "你在做什么呢",
+      "phonemes": "ㄋㄧ3ㄗㄞ4ㄗ我4ㄕㄣ2ㄇㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/b42d166ca1df948e.mp3",
+      "text": "是在想昨天的考试吗",
+      "phonemes": "ㄕ十4ㄗㄞ4ㄒ阳3ㄗ我2ㄊ言1ㄉㄜ5ㄎㄠ3ㄕ十4ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/dea16f72348456c9.mp3",
+      "text": "我觉得听和说还可以",
+      "phonemes": "我3ㄐ月2ㄉㄜ5ㄊ应1ㄏㄜ2ㄕ我1ㄏㄞ2ㄎㄜ2ㄧ3"
+    },
+    {
+      "path": "audio/paper/c24859acd62bbf80.mp3",
+      "text": "读和写不好",
+      "phonemes": "ㄉㄨ2ㄏㄜ2ㄒㄝ3ㄅㄨ4ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/1ce2554b05724403.mp3",
+      "text": "很多字我都不知道是什么意思",
+      "phonemes": "ㄏㄣ3ㄉ我1ㄗㄭ4我3ㄉㄡ1ㄅㄨ4ㄓ十1ㄉㄠ5ㄕ十4ㄕㄣ2ㄇㄜ5ㄧ4ㄙㄭ5"
+    },
+    {
+      "path": "audio/paper/319bf98a843c9d95.mp3",
+      "text": "休息一下吧",
+      "phonemes": "ㄒ又1ㄒㄧ5ㄧ2ㄒ压4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/2c7665d4f4edbc4f.mp3",
+      "text": "喝咖啡吗",
+      "phonemes": "ㄏㄜ1ㄎㄚ1ㄈㄟ1ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/89d9ee18d30c57d8.mp3",
+      "text": "不喝了",
+      "phonemes": "ㄅㄨ4ㄏㄜ1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/60a47ae7d9dd6c48.mp3",
+      "text": "我已经喝两杯了",
+      "phonemes": "我2ㄧ3ㄐ应1ㄏㄜ1ㄌ阳3ㄅㄟ1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/2be3652229b21665.mp3",
+      "text": "咖啡喝多了对身体不好",
+      "phonemes": "ㄎㄚ1ㄈㄟ1ㄏㄜ1ㄉ我1ㄌㄜ5ㄉ为4ㄕㄣ1ㄊㄧ3ㄅㄨ4ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/e2184a9547cde10e.mp3",
+      "text": "以后我少喝一点儿",
+      "phonemes": "ㄧ3ㄏㄡ4我2ㄕㄠ3ㄏㄜ1ㄧ4ㄉ言R3"
+    },
+    {
+      "path": "audio/paper/e3d32117ad7e3616.mp3",
+      "text": "每天喝一杯",
+      "phonemes": "ㄇㄟ3ㄊ言1ㄏㄜ1ㄧ4ㄅㄟ1"
+    },
+    {
+      "path": "audio/paper/817d0e937d497b08.mp3",
+      "text": "他已经来了",
+      "phonemes": "ㄊㄚ1ㄧ3ㄐ应1ㄌㄞ2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/63dd5d0838903570.mp3",
+      "text": "你怎么知道他来了",
+      "phonemes": "ㄋㄧ2ㄗㄣ3ㄇㄜ5ㄓ十1ㄉㄠ5ㄊㄚ1ㄌㄞ2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/68262a55334cd7d1.mp3",
+      "text": "我在门外看见他的自行车了",
+      "phonemes": "我3ㄗㄞ4ㄇㄣ2外4ㄎㄢ4ㄐ言4ㄊㄚ1ㄉㄜ5ㄗㄭ4ㄒ应2ㄔㄜ1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/9b2517e490c0c756.mp3",
+      "text": "今天的羊肉很好吃",
+      "phonemes": "ㄐ阴1ㄊ言1ㄉㄜ5阳2ㄖㄡ4ㄏㄣ2ㄏㄠ3ㄔ十1"
+    },
+    {
+      "path": "audio/paper/1b49a888ed7b5af7.mp3",
+      "text": "你怎么不吃了",
+      "phonemes": "ㄋㄧ2ㄗㄣ3ㄇㄜ5ㄅㄨ4ㄔ十1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/eeece4b14a801495.mp3",
+      "text": "这个星期天天都吃羊肉",
+      "phonemes": "ㄓㄜ4ㄍㄜ5ㄒ应1ㄑㄧ1ㄊ言1ㄊ言1ㄉㄡ1ㄔ十1阳2ㄖㄡ4"
+    },
+    {
+      "path": "audio/paper/6c470e364acf70ae.mp3",
+      "text": "不想吃了",
+      "phonemes": "ㄅㄨ4ㄒ阳3ㄔ十1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/4426cf95b523c020.mp3",
+      "text": "那你还想吃什么",
+      "phonemes": "ㄋㄚ4ㄋㄧ3ㄏㄞ2ㄒ阳3ㄔ十1ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/paper/074d31802d18d929.mp3",
+      "text": "来一点儿面条吧",
+      "phonemes": "ㄌㄞ2ㄧ4ㄉ言R3ㄇ言4ㄊ要2ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/7221f442e753cd55.mp3",
+      "text": "昨天你们怎么都没去打篮球",
+      "phonemes": "ㄗ我2ㄊ言1ㄋㄧ3ㄇㄣ5ㄗㄣ3ㄇㄜ5ㄉㄡ1ㄇㄟ2ㄑㄩ4ㄉㄚ3ㄌㄢ2ㄑ又2"
+    },
+    {
+      "path": "audio/paper/aa74954a3eb37d83.mp3",
+      "text": "因为昨天下雨",
+      "phonemes": "阴1为4ㄗ我2ㄊ言1ㄒ压4ㄩ3"
+    },
+    {
+      "path": "audio/paper/eab8805753be6ed2.mp3",
+      "text": "所以我们都没去",
+      "phonemes": "ㄙ我2ㄧ2我3ㄇㄣ5ㄉㄡ1ㄇㄟ2ㄑㄩ4"
+    },
+    {
+      "path": "audio/paper/5a7ab1e9cd139a5e.mp3",
+      "text": "我去游泳了",
+      "phonemes": "我3ㄑㄩ4又2用3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/7b908b4bf63aa7f8.mp3",
+      "text": "你经常游泳吗",
+      "phonemes": "ㄋㄧ3ㄐ应1ㄔㄤ2又2用3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/fdfc150aa9bb65a7.mp3",
+      "text": "这个月我天天游泳",
+      "phonemes": "ㄓㄜ4ㄍㄜ5月4我3ㄊ言1ㄊ言1又2用3"
+    },
+    {
+      "path": "audio/paper/73d0dd197708b3d6.mp3",
+      "text": "我现在七十公斤了",
+      "phonemes": "我3ㄒ言4ㄗㄞ4ㄑㄧ1ㄕ十2ㄍ中1ㄐ阴1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/47145b35c9b967e1.mp3",
+      "text": "这两天怎么没看见小张",
+      "phonemes": "ㄓㄜ4ㄌ阳3ㄊ言1ㄗㄣ3ㄇㄜ5ㄇㄟ2ㄎㄢ4ㄐ言4ㄒ要3ㄓㄤ1"
+    },
+    {
+      "path": "audio/paper/913a3bf3fa4effb8.mp3",
+      "text": "他去北京了",
+      "phonemes": "ㄊㄚ1ㄑㄩ4ㄅㄟ3ㄐ应1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/0a3ccaed219ed12c.mp3",
+      "text": "去北京了",
+      "phonemes": "ㄑㄩ4ㄅㄟ3ㄐ应1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/e61859148d1d5ba5.mp3",
+      "text": "是去旅游吗",
+      "phonemes": "ㄕ十4ㄑㄩ4ㄌㄩ3又2ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/a2bd2d12050e2f03.mp3",
+      "text": "听说是去看他姐姐",
+      "phonemes": "ㄊ应1ㄕ我1ㄕ十4ㄑㄩ4ㄎㄢ4ㄊㄚ1ㄐㄝ3ㄐㄝ5"
+    },
+    {
+      "path": "audio/paper/32f7aaf45c712798.mp3",
+      "text": "大卫回来了吗",
+      "phonemes": "ㄉㄚ4为4ㄏ为2ㄌㄞ2ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/ad66537b2faea286.mp3",
+      "text": "他还在教室学习呢",
+      "phonemes": "ㄊㄚ1ㄏㄞ2ㄗㄞ4ㄐ要4ㄕ十4ㄒ月2ㄒㄧ2ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/c7a58d6e7956a942.mp3",
+      "text": "点多了",
+      "phonemes": "ㄉ言3ㄉ我1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/9870927892180576.mp3",
+      "text": "他怎么还在学习",
+      "phonemes": "ㄊㄚ1ㄗㄣ3ㄇㄜ5ㄏㄞ2ㄗㄞ4ㄒ月2ㄒㄧ2"
+    },
+    {
+      "path": "audio/paper/04d252e74778fe4c.mp3",
+      "text": "明天有考试",
+      "phonemes": "ㄇ应2ㄊ言1又2ㄎㄠ3ㄕ十4"
+    },
+    {
+      "path": "audio/paper/e4336447255513c0.mp3",
+      "text": "他说今天要好好准备",
+      "phonemes": "ㄊㄚ1ㄕ我1ㄐ阴1ㄊ言1要4ㄏㄠ2ㄏㄠ2ㄓ文3ㄅㄟ4"
+    },
+    {
+      "path": "audio/paper/34146210aec2b715.mp3",
+      "text": "你现在在哪儿呢",
+      "phonemes": "ㄋㄧ3ㄒ言4ㄗㄞ4ㄗㄞ4ㄋㄚR3ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/3ebf46a13d7d9832.mp3",
+      "text": "在去机场的路上",
+      "phonemes": "ㄗㄞ4ㄑㄩ4ㄐㄧ1ㄔㄤ3ㄉㄜ5ㄌㄨ4ㄕㄤ4"
+    },
+    {
+      "path": "audio/paper/f413370f16cc6c66.mp3",
+      "text": "你已经到了吗",
+      "phonemes": "ㄋㄧ2ㄧ3ㄐ应1ㄉㄠ4ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/a2ef1b0ed408b4d7.mp3",
+      "text": "我下飞机了",
+      "phonemes": "我3ㄒ压4ㄈㄟ1ㄐㄧ1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/fcb204a3ded940bc.mp3",
+      "text": "你还有多长时间能到这儿",
+      "phonemes": "ㄋㄧ3ㄏㄞ2又3ㄉ我1ㄔㄤ2ㄕ十2ㄐ言1ㄋㄥ2ㄉㄠ4ㄓㄜR4"
+    },
+    {
+      "path": "audio/paper/404ae45a01cbcc9c.mp3",
+      "text": "二十分钟就到",
+      "phonemes": "ㄦ4ㄕ十2ㄈㄣ1ㄓ中1ㄐ又4ㄉㄠ4"
+    },
+    {
+      "path": "audio/paper/21b97ac76d979f4c.mp3",
+      "text": "你家离公司远吗",
+      "phonemes": "ㄋㄧ3ㄐ压1ㄌㄧ2ㄍ中1ㄙㄭ1元3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/498e2617ede4e209.mp3",
+      "text": "坐公共汽车要一个多小时呢",
+      "phonemes": "ㄗ我4ㄍ中1ㄍ中4ㄑㄧ4ㄔㄜ1要4ㄧ2ㄍㄜ4ㄉ我1ㄒ要3ㄕ十2ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/ac62a6323d2ef308.mp3",
+      "text": "坐公共汽车太慢了",
+      "phonemes": "ㄗ我4ㄍ中1ㄍ中4ㄑㄧ4ㄔㄜ1ㄊㄞ4ㄇㄢ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/61bf6d481e906195.mp3",
+      "text": "你怎么不开车",
+      "phonemes": "ㄋㄧ2ㄗㄣ3ㄇㄜ5ㄅㄨ4ㄎㄞ1ㄔㄜ1"
+    },
+    {
+      "path": "audio/paper/505c13efb3d3cfe4.mp3",
+      "text": "开车也不快",
+      "phonemes": "ㄎㄞ1ㄔㄜ1ㄝ3ㄅㄨ2ㄎ外4"
+    },
+    {
+      "path": "audio/paper/0b8bf2e8cd591fce.mp3",
+      "text": "路上车太多了",
+      "phonemes": "ㄌㄨ4ㄕㄤ4ㄔㄜ1ㄊㄞ4ㄉ我1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/fd16307312707210.mp3",
+      "text": "今天晚上我们一起吃饭吧",
+      "phonemes": "ㄐ阴1ㄊ言1万3ㄕㄤ5我3ㄇㄣ5ㄧ4ㄑㄧ3ㄔ十1ㄈㄢ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/275a9d92976c57b5.mp3",
+      "text": "给你过生日",
+      "phonemes": "ㄍㄟ2ㄋㄧ3ㄍ我4ㄕㄥ1ㄖ十4"
+    },
+    {
+      "path": "audio/paper/7c5d02c2b067beca.mp3",
+      "text": "离我的生日还有一个多星期呢",
+      "phonemes": "ㄌㄧ2我3ㄉㄜ5ㄕㄥ1ㄖ十4ㄏㄞ2又3ㄧ2ㄍㄜ4ㄉ我1ㄒ应1ㄑㄧ1ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/907b31b6ac9eb163.mp3",
+      "text": "下个星期我要去北京",
+      "phonemes": "ㄒ压4ㄍㄜ4ㄒ应1ㄑㄧ1我3要4ㄑㄩ4ㄅㄟ3ㄐ应1"
+    },
+    {
+      "path": "audio/paper/73bc2543e7770a5d.mp3",
+      "text": "今天过吧",
+      "phonemes": "ㄐ阴1ㄊ言1ㄍ我4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/0e3363e22b9aa574.mp3",
+      "text": "离这儿不远有一个中国饭馆",
+      "phonemes": "ㄌㄧ2ㄓㄜR4ㄅㄨ4元2又3ㄧ2ㄍㄜ4ㄓ中1ㄍ我2ㄈㄢ4ㄍ万3"
+    },
+    {
+      "path": "audio/paper/0a98188656f44b1f.mp3",
+      "text": "走几分钟就到了",
+      "phonemes": "ㄗㄡ2ㄐㄧ3ㄈㄣ1ㄓ中1ㄐ又4ㄉㄠ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/9f44987c54648f99.mp3",
+      "text": "我们下午去看电影",
+      "phonemes": "我3ㄇㄣ5ㄒ压4ㄨ3ㄑㄩ4ㄎㄢ4ㄉ言4应3"
+    },
+    {
+      "path": "audio/paper/ccb045aa4357d479.mp3",
+      "text": "今天下午我没有时间",
+      "phonemes": "ㄐ阴1ㄊ言1ㄒ压4ㄨ2我3ㄇㄟ2又3ㄕ十2ㄐ言1"
+    },
+    {
+      "path": "audio/paper/f88efb455ebf4c79.mp3",
+      "text": "明天下午再去吧",
+      "phonemes": "ㄇ应2ㄊ言1ㄒ压4ㄨ3ㄗㄞ4ㄑㄩ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/5a4a1816434741b2.mp3",
+      "text": "你想看什么电影",
+      "phonemes": "ㄋㄧ2ㄒ阳3ㄎㄢ4ㄕㄣ2ㄇㄜ5ㄉ言4应3"
+    },
+    {
+      "path": "audio/paper/6bd5f7a665f9cc29.mp3",
+      "text": "让我想想再告诉你",
+      "phonemes": "ㄖㄤ4我2ㄒ阳2ㄒ阳3ㄗㄞ4ㄍㄠ4ㄙㄨ5ㄋㄧ3"
+    },
+    {
+      "path": "audio/paper/750986e3a68bff8a.mp3",
+      "text": "外边天气很好",
+      "phonemes": "外4ㄅ言1ㄊ言1ㄑㄧ4ㄏㄣ2ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/2d8c41be87884ecb.mp3",
+      "text": "我们出去运动运动吧",
+      "phonemes": "我3ㄇㄣ5ㄔㄨ1ㄑㄩ4云4ㄉ中4云4ㄉ中4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/1bc3d1403e4b7b88.mp3",
+      "text": "你等等我",
+      "phonemes": "ㄋㄧ2ㄉㄥ2ㄉㄥ2我3"
+    },
+    {
+      "path": "audio/paper/1b9e32a0ac268a6a.mp3",
+      "text": "王老师让我给大卫打个电话",
+      "phonemes": "王2ㄌㄠ3ㄕ十1ㄖㄤ4我2ㄍㄟ3ㄉㄚ4为4ㄉㄚ3ㄍㄜ4ㄉ言4ㄏ穵4"
+    },
+    {
+      "path": "audio/paper/55a42dca2ce1096f.mp3",
+      "text": "回来再打吧",
+      "phonemes": "ㄏ为2ㄌㄞ2ㄗㄞ4ㄉㄚ3ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/5fb69b7c98cac102.mp3",
+      "text": "找大卫有什么事情吗",
+      "phonemes": "ㄓㄠ3ㄉㄚ4为4又3ㄕㄣ2ㄇㄜ5ㄕ十4ㄑ应2ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/5a0a6c93119c7006.mp3",
+      "text": "听说大卫病了",
+      "phonemes": "ㄊ应1ㄕ我1ㄉㄚ4为4ㄅ应4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/5e4099d4ecc1e41d.mp3",
+      "text": "我想找时间去看看他",
+      "phonemes": "我2ㄒ阳2ㄓㄠ3ㄕ十2ㄐ言1ㄑㄩ4ㄎㄢ4ㄎㄢ4ㄊㄚ1"
+    },
+    {
+      "path": "audio/paper/7111a34c178116f4.mp3",
+      "text": "我房间的门打不开了",
+      "phonemes": "我3ㄈㄤ2ㄐ言1ㄉㄜ5ㄇㄣ2ㄉㄚ3ㄅㄨ4ㄎㄞ1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/01f3edaf35969ec6.mp3",
+      "text": "您住哪个房间",
+      "phonemes": "ㄋ阴2ㄓㄨ4ㄋㄚ3ㄍㄜ5ㄈㄤ2ㄐ言1"
+    },
+    {
+      "path": "audio/paper/18a0ce68ac4f756d.mp3",
+      "text": "我叫人去看看",
+      "phonemes": "我3ㄐ要4ㄖㄣ2ㄑㄩ4ㄎㄢ4ㄎㄢ4"
+    },
+    {
+      "path": "audio/paper/e2b5fa311a3bab15.mp3",
+      "text": "你看看这几件衣服怎么样",
+      "phonemes": "ㄋㄧ3ㄎㄢ4ㄎㄢ4ㄓㄜ4ㄐㄧ3ㄐ言4ㄧ1ㄈㄨ5ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/b9c282a52af31106.mp3",
+      "text": "这件白的有点儿长",
+      "phonemes": "ㄓㄜ4ㄐ言4ㄅㄞ2ㄉㄜ5又2ㄉ言R3ㄔㄤ2"
+    },
+    {
+      "path": "audio/paper/04321ab9f3d52261.mp3",
+      "text": "那件黑的有点儿贵",
+      "phonemes": "ㄋㄚ4ㄐ言4ㄏㄟ1ㄉㄜ5又2ㄉ言R3ㄍ为4"
+    },
+    {
+      "path": "audio/paper/d8b922f79bfa9828.mp3",
+      "text": "这件红的呢",
+      "phonemes": "ㄓㄜ4ㄐ言4ㄏ中2ㄉㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/5fe099da9cb13ad7.mp3",
+      "text": "这是今天新来的",
+      "phonemes": "ㄓㄜ4ㄕ十4ㄐ阴1ㄊ言1ㄒ阴1ㄌㄞ2ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/12bf0db683346051.mp3",
+      "text": "让我再看看",
+      "phonemes": "ㄖㄤ4我3ㄗㄞ4ㄎㄢ4ㄎㄢ4"
+    },
+    {
+      "path": "audio/paper/d025558b0b13a979.mp3",
+      "text": "请问张欢在吗",
+      "phonemes": "ㄑ应3文4ㄓㄤ1ㄏ万1ㄗㄞ4ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/e373e8e4b0bc761b.mp3",
+      "text": "你打错了",
+      "phonemes": "ㄋㄧ2ㄉㄚ3ㄘ我4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/b89e400c235b6344.mp3",
+      "text": "我们这儿没有叫张欢的",
+      "phonemes": "我3ㄇㄣ5ㄓㄜR4ㄇㄟ2又3ㄐ要4ㄓㄤ1ㄏ万1ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/7ddf33d1ac2bfa03.mp3",
+      "text": "您从几岁开始学习跳舞",
+      "phonemes": "ㄋ阴2ㄘ中2ㄐㄧ3ㄙ为4ㄎㄞ1ㄕ十3ㄒ月2ㄒㄧ2ㄊ要4ㄨ3"
+    },
+    {
+      "path": "audio/paper/9632040f3e3c3fc6.mp3",
+      "text": "我第一次跳舞是在七岁的时候",
+      "phonemes": "我3ㄉㄧ4ㄧ1ㄘㄭ4ㄊ要4ㄨ3ㄕ十4ㄗㄞ4ㄑㄧ1ㄙ为4ㄉㄜ5ㄕ十2ㄏㄡ5"
+    },
+    {
+      "path": "audio/paper/7f2e51a480603bd4.mp3",
+      "text": "我女儿今年也七岁了",
+      "phonemes": "我2ㄋㄩ3ㄦ2ㄐ阴1ㄋ言2ㄝ3ㄑㄧ1ㄙ为4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/dd63a419f8fe7b47.mp3",
+      "text": "我希望她能跟您学跳舞",
+      "phonemes": "我3ㄒㄧ1王4ㄊㄚ1ㄋㄥ2ㄍㄣ1ㄋ阴2ㄒ月2ㄊ要4ㄨ3"
+    },
+    {
+      "path": "audio/paper/2d3dd1674a3d18d4.mp3",
+      "text": "可以吗",
+      "phonemes": "ㄎㄜ2ㄧ3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/0f8f227ccb93ab67.mp3",
+      "text": "没问题",
+      "phonemes": "ㄇㄟ2文4ㄊㄧ2"
+    },
+    {
+      "path": "audio/paper/02efce27b1d7f4ba.mp3",
+      "text": "非常欢迎",
+      "phonemes": "ㄈㄟ1ㄔㄤ2ㄏ万1应2"
+    },
+    {
+      "path": "audio/paper/1c3f77feb757ca3c.mp3",
+      "text": "你知道吗",
+      "phonemes": "ㄋㄧ3ㄓ十1ㄉㄠ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/506aff5411f73ca1.mp3",
+      "text": "大卫找到工作了",
+      "phonemes": "ㄉㄚ4为4ㄓㄠ3ㄉㄠ4ㄍ中1ㄗ我4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/db3cbdb9101f74cd.mp3",
+      "text": "他从什么时候开始上班",
+      "phonemes": "ㄊㄚ1ㄘ中2ㄕㄣ2ㄇㄜ5ㄕ十2ㄏㄡ4ㄎㄞ1ㄕ十3ㄕㄤ4ㄅㄢ1"
+    },
+    {
+      "path": "audio/paper/f8f0de5b7772e9d4.mp3",
+      "text": "从下个星期一开始",
+      "phonemes": "ㄘ中2ㄒ压4ㄍㄜ4ㄒ应1ㄑㄧ1ㄧ4ㄎㄞ1ㄕ十3"
+    },
+    {
+      "path": "audio/paper/9a42854df6fe1f87.mp3",
+      "text": "这是他的第一个工作",
+      "phonemes": "ㄓㄜ4ㄕ十4ㄊㄚ1ㄉㄜ5ㄉㄧ4ㄧ2ㄍㄜ4ㄍ中1ㄗ我4"
+    },
+    {
+      "path": "audio/paper/0cd315252f5a37be.mp3",
+      "text": "希望他能喜欢",
+      "phonemes": "ㄒㄧ1王4ㄊㄚ1ㄋㄥ2ㄒㄧ3ㄏ万5"
+    },
+    {
+      "path": "audio/paper/4874bf9196ea1110.mp3",
+      "text": "昨天的考试怎么样",
+      "phonemes": "ㄗ我2ㄊ言1ㄉㄜ5ㄎㄠ3ㄕ十4ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/33c478dcde8abd61.mp3",
+      "text": "你都听懂了吗",
+      "phonemes": "ㄋㄧ3ㄉㄡ1ㄊ应1ㄉ中3ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/81ac26e0bc5fe620.mp3",
+      "text": "听懂了",
+      "phonemes": "ㄊ应1ㄉ中3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/015cb3efff5a4cb5.mp3",
+      "text": "你都做完了没有",
+      "phonemes": "ㄋㄧ3ㄉㄡ1ㄗ我4万2ㄌㄜ5ㄇㄟ2又3"
+    },
+    {
+      "path": "audio/paper/b8d19da166c0816a.mp3",
+      "text": "题太多",
+      "phonemes": "ㄊㄧ2ㄊㄞ4ㄉ我1"
+    },
+    {
+      "path": "audio/paper/abe0326f5cf9e170.mp3",
+      "text": "我没做完",
+      "phonemes": "我3ㄇㄟ2ㄗ我4万2"
+    },
+    {
+      "path": "audio/paper/2bc877cd326834f6.mp3",
+      "text": "不要看电视了",
+      "phonemes": "ㄅㄨ2要4ㄎㄢ4ㄉ言4ㄕ十4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/0c3d39c7374bc5a9.mp3",
+      "text": "明天上午还有汉语课呢",
+      "phonemes": "ㄇ应2ㄊ言1ㄕㄤ4ㄨ3ㄏㄞ2又3ㄏㄢ4ㄩ3ㄎㄜ4ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/194c0d4b49e69537.mp3",
+      "text": "看电视对学汉语有帮助",
+      "phonemes": "ㄎㄢ4ㄉ言4ㄕ十4ㄉ为4ㄒ月2ㄏㄢ4ㄩ2又3ㄅㄤ1ㄓㄨ4"
+    },
+    {
+      "path": "audio/paper/379289b2343465e0.mp3",
+      "text": "明天的课你都准备好了吗",
+      "phonemes": "ㄇ应2ㄊ言1ㄉㄜ5ㄎㄜ4ㄋㄧ3ㄉㄡ1ㄓ文3ㄅㄟ4ㄏㄠ3ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/39b6e5aad2ff682d.mp3",
+      "text": "都准备好了",
+      "phonemes": "ㄉㄡ1ㄓ文3ㄅㄟ4ㄏㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/e8742f120eb080ab.mp3",
+      "text": "别看报纸了",
+      "phonemes": "ㄅㄝ2ㄎㄢ4ㄅㄠ4ㄓ十3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/07b2e4de6f0bad6b.mp3",
+      "text": "医生说你要多休息",
+      "phonemes": "ㄧ1ㄕㄥ1ㄕ我1ㄋㄧ3要4ㄉ我1ㄒ又1ㄒㄧ5"
+    },
+    {
+      "path": "audio/paper/31e510684acf9a8f.mp3",
+      "text": "不看了",
+      "phonemes": "ㄅㄨ2ㄎㄢ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/90d8e5378efc24a0.mp3",
+      "text": "给我一杯茶吧",
+      "phonemes": "ㄍㄟ2我3ㄧ4ㄅㄟ1ㄔㄚ2ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/9d61a099faaf6711.mp3",
+      "text": "医生说吃药后两个小时不要喝茶",
+      "phonemes": "ㄧ1ㄕㄥ1ㄕ我1ㄔ十1要4ㄏㄡ4ㄌ阳3ㄍㄜ4ㄒ要3ㄕ十2ㄅㄨ2要4ㄏㄜ1ㄔㄚ2"
+    },
+    {
+      "path": "audio/paper/94c8acbbe8d6267b.mp3",
+      "text": "医生还说什么了",
+      "phonemes": "ㄧ1ㄕㄥ1ㄏㄞ2ㄕ我1ㄕㄣ2ㄇㄜ5ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/e2ff2112fe960295.mp3",
+      "text": "医生让你听我的",
+      "phonemes": "ㄧ1ㄕㄥ1ㄖㄤ4ㄋㄧ3ㄊ应1我3ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/0fb923b80667aec0.mp3",
+      "text": "你怎么买了这么多东西啊",
+      "phonemes": "ㄋㄧ2ㄗㄣ3ㄇㄜ5ㄇㄞ3ㄌㄜ5ㄓㄜ4ㄇㄜ5ㄉ我1ㄉ中1ㄒㄧ1ㄚ5"
+    },
+    {
+      "path": "audio/paper/70bb50ceffc94b5b.mp3",
+      "text": "哥哥今天中午回来吃饭",
+      "phonemes": "ㄍㄜ1ㄍㄜ5ㄐ阴1ㄊ言1ㄓ中1ㄨ3ㄏ为2ㄌㄞ2ㄔ十1ㄈㄢ4"
+    },
+    {
+      "path": "audio/paper/8e0681082e6da24c.mp3",
+      "text": "我看看买什么了",
+      "phonemes": "我3ㄎㄢ4ㄎㄢ4ㄇㄞ3ㄕㄣ2ㄇㄜ5ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/0444538d055e7136.mp3",
+      "text": "真不少",
+      "phonemes": "ㄓㄣ1ㄅㄨ4ㄕㄠ3"
+    },
+    {
+      "path": "audio/paper/99ed1f7dfea76cb2.mp3",
+      "text": "妈妈呢",
+      "phonemes": "ㄇㄚ1ㄇㄚ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/6ef59744ab96520a.mp3",
+      "text": "正在准备午饭呢",
+      "phonemes": "ㄓㄥ4ㄗㄞ4ㄓ文3ㄅㄟ4ㄨ3ㄈㄢ4ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/dc0815f03b6cd6be.mp3",
+      "text": "你在找什么",
+      "phonemes": "ㄋㄧ3ㄗㄞ4ㄓㄠ3ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/paper/45014eec34a70be7.mp3",
+      "text": "你看见我的手机了吗",
+      "phonemes": "ㄋㄧ3ㄎㄢ4ㄐ言4我3ㄉㄜ5ㄕㄡ3ㄐㄧ1ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/545450fba9020f41.mp3",
+      "text": "白色的",
+      "phonemes": "ㄅㄞ2ㄙㄜ4ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/bc38048a99bafb24.mp3",
+      "text": "别找了",
+      "phonemes": "ㄅㄝ2ㄓㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/5b05a5b2c9932a5c.mp3",
+      "text": "手机在桌子上呢",
+      "phonemes": "ㄕㄡ3ㄐㄧ1ㄗㄞ4ㄓ我1ㄗㄭ5ㄕㄤ4ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/d32df308b9048110.mp3",
+      "text": "电脑旁边",
+      "phonemes": "ㄉ言4ㄋㄠ3ㄆㄤ2ㄅ言1"
+    },
+    {
+      "path": "audio/paper/7f7f549d4960229d.mp3",
+      "text": "你看见我的衣服了吗",
+      "phonemes": "ㄋㄧ3ㄎㄢ4ㄐ言4我3ㄉㄜ5ㄧ1ㄈㄨ5ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/5c22d91ec3ad37b2.mp3",
+      "text": "红色的那件",
+      "phonemes": "ㄏ中2ㄙㄜ4ㄉㄜ5ㄋㄚ4ㄐ言4"
+    },
+    {
+      "path": "audio/paper/7bd4737747578b4b.mp3",
+      "text": "那件衣服我帮你洗了",
+      "phonemes": "ㄋㄚ4ㄐ言4ㄧ1ㄈㄨ5我3ㄅㄤ1ㄋㄧ2ㄒㄧ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/bc09a32119a7a537.mp3",
+      "text": "在外边呢",
+      "phonemes": "ㄗㄞ4外4ㄅ言1ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/4e24987ff893c834.mp3",
+      "text": "昨天和你一起唱歌的人是谁",
+      "phonemes": "ㄗ我2ㄊ言1ㄏㄜ2ㄋㄧ3ㄧ4ㄑㄧ3ㄔㄤ4ㄍㄜ1ㄉㄜ5ㄖㄣ2ㄕ十4ㄕ为2"
+    },
+    {
+      "path": "audio/paper/84bdcc248a5c1664.mp3",
+      "text": "一个朋友",
+      "phonemes": "ㄧ2ㄍㄜ4ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/paper/54ab6464959c22f2.mp3",
+      "text": "什么朋友",
+      "phonemes": "ㄕㄣ2ㄇㄜ5ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/paper/0eca81730e5bd6ae.mp3",
+      "text": "是不是男朋友",
+      "phonemes": "ㄕ十4ㄅㄨ5ㄕ十4ㄋㄢ2ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/paper/345911baf18016ce.mp3",
+      "text": "不是不是",
+      "phonemes": "ㄅㄨ2ㄕ十4ㄅㄨ5ㄕ十4"
+    },
+    {
+      "path": "audio/paper/ed4f73936e8b6197.mp3",
+      "text": "我同学介绍的",
+      "phonemes": "我3ㄊ中2ㄒ月2ㄐㄝ4ㄕㄠ4ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/36fca3b798aa0378.mp3",
+      "text": "昨天第一次见",
+      "phonemes": "ㄗ我2ㄊ言1ㄉㄧ4ㄧ1ㄘㄭ4ㄐ言4"
+    },
+    {
+      "path": "audio/paper/95bc04cb74f84151.mp3",
+      "text": "右边写字的那个人是我哥哥",
+      "phonemes": "又4ㄅ言1ㄒㄝ3ㄗㄭ4ㄉㄜ5ㄋㄚ4ㄍㄜ5ㄖㄣ2ㄕ十4我3ㄍㄜ1ㄍㄜ5"
+    },
+    {
+      "path": "audio/paper/be7c43a6291ab681.mp3",
+      "text": "你哥哥多大",
+      "phonemes": "ㄋㄧ3ㄍㄜ1ㄍㄜ5ㄉ我1ㄉㄚ4"
+    },
+    {
+      "path": "audio/paper/cd17c717e9b330cc.mp3",
+      "text": "他比我大三岁",
+      "phonemes": "ㄊㄚ1ㄅㄧ2我3ㄉㄚ4ㄙㄢ1ㄙ为4"
+    },
+    {
+      "path": "audio/paper/7159c878ad4179ee.mp3",
+      "text": "今天的西瓜怎么卖",
+      "phonemes": "ㄐ阴1ㄊ言1ㄉㄜ5ㄒㄧ1ㄍ穵1ㄗㄣ3ㄇㄜ5ㄇㄞ4"
+    },
+    {
+      "path": "audio/paper/974e34f43f57219c.mp3",
+      "text": "三块五一斤",
+      "phonemes": "ㄙㄢ1ㄎ外4ㄨ3ㄧ1ㄐ阴1"
+    },
+    {
+      "path": "audio/paper/20eb5fab163d9621.mp3",
+      "text": "比昨天便宜",
+      "phonemes": "ㄅㄧ3ㄗ我2ㄊ言1ㄆ言2ㄧ5"
+    },
+    {
+      "path": "audio/paper/864125c112ec2ee4.mp3",
+      "text": "苹果也比昨天便宜一些",
+      "phonemes": "ㄆ应2ㄍ我2ㄝ2ㄅㄧ3ㄗ我2ㄊ言1ㄆ言2ㄧ5ㄧ4ㄒㄝ1"
+    },
+    {
+      "path": "audio/paper/ccbc629f8ad8a02e.mp3",
+      "text": "您来点儿吧",
+      "phonemes": "ㄋ阴2ㄌㄞ2ㄉ言R3ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/be0d54b3f21a6226.mp3",
+      "text": "你可能不认识她",
+      "phonemes": "ㄋㄧ2ㄎㄜ3ㄋㄥ2ㄅㄨ2ㄖㄣ4ㄕ十5ㄊㄚ1"
+    },
+    {
+      "path": "audio/paper/01bb91374618c65b.mp3",
+      "text": "是新来的汉语老师吗",
+      "phonemes": "ㄕ十4ㄒ阴1ㄌㄞ2ㄉㄜ5ㄏㄢ4ㄩ2ㄌㄠ3ㄕ十1ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/23ad84570e58fd63.mp3",
+      "text": "是去年来的",
+      "phonemes": "ㄕ十4ㄑㄩ4ㄋ言2ㄌㄞ2ㄉㄜ5"
+    },
+    {
+      "path": "audio/paper/d860951a743e25dc.mp3",
+      "text": "她姓王",
+      "phonemes": "ㄊㄚ1ㄒ应4王2"
+    },
+    {
+      "path": "audio/paper/18c5375af0bfc0a5.mp3",
+      "text": "她比我们老师小两岁",
+      "phonemes": "ㄊㄚ1ㄅㄧ2我3ㄇㄣ5ㄌㄠ3ㄕ十1ㄒ要2ㄌ阳3ㄙ为4"
+    },
+    {
+      "path": "audio/paper/7dbeb122035c09bc.mp3",
+      "text": "你每天早上几点起床",
+      "phonemes": "ㄋㄧ2ㄇㄟ3ㄊ言1ㄗㄠ3ㄕㄤ5ㄐㄧ2ㄉ言2ㄑㄧ3ㄔ王2"
+    },
+    {
+      "path": "audio/paper/a605adee39240eb8.mp3",
+      "text": "六点多",
+      "phonemes": "ㄌ又4ㄉ言3ㄉ我1"
+    },
+    {
+      "path": "audio/paper/50144e56436d75d4.mp3",
+      "text": "你比我早起一个小时",
+      "phonemes": "ㄋㄧ2ㄅㄧ2我2ㄗㄠ2ㄑㄧ3ㄧ2ㄍㄜ4ㄒ要3ㄕ十2"
+    },
+    {
+      "path": "audio/paper/b12820cd5033c442.mp3",
+      "text": "我睡得也早",
+      "phonemes": "我3ㄕ为4ㄉㄜ5ㄝ2ㄗㄠ3"
+    },
+    {
+      "path": "audio/paper/2424dfec96c7b40f.mp3",
+      "text": "我每天晚上十点就睡觉",
+      "phonemes": "我2ㄇㄟ3ㄊ言1万3ㄕㄤ5ㄕ十2ㄉ言3ㄐ又4ㄕ为4ㄐ要4"
+    },
+    {
+      "path": "audio/paper/857898ca8b3cb668.mp3",
+      "text": "早睡早起身体好",
+      "phonemes": "ㄗㄠ3ㄕ为4ㄗㄠ2ㄑㄧ3ㄕㄣ1ㄊㄧ2ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/feb14b9ad9666de4.mp3",
+      "text": "再来点儿米饭吧",
+      "phonemes": "ㄗㄞ4ㄌㄞ2ㄉ言R3ㄇㄧ3ㄈㄢ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/91a918891449789b.mp3",
+      "text": "你吃得太少了",
+      "phonemes": "ㄋㄧ3ㄔ十1ㄉㄜ5ㄊㄞ4ㄕㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/60321c014f248fdc.mp3",
+      "text": "不少了",
+      "phonemes": "ㄅㄨ4ㄕㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/a9930116c5c4b25a.mp3",
+      "text": "今天吃得很好",
+      "phonemes": "ㄐ阴1ㄊ言1ㄔ十1ㄉㄜ5ㄏㄣ2ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/2f319be85097d4f9.mp3",
+      "text": "你做饭做得怎么样",
+      "phonemes": "ㄋㄧ3ㄗ我4ㄈㄢ4ㄗ我4ㄉㄜ5ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/6ede1542fe6a06ef.mp3",
+      "text": "我妻子比我做得好",
+      "phonemes": "我3ㄑㄧ1ㄗㄭ2ㄅㄧ2我3ㄗ我4ㄉㄜ5ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/428f472dd3618148.mp3",
+      "text": "下雪了",
+      "phonemes": "ㄒ压4ㄒ月3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/1c71236a67f41448.mp3",
+      "text": "今天真冷",
+      "phonemes": "ㄐ阴1ㄊ言1ㄓㄣ1ㄌㄥ3"
+    },
+    {
+      "path": "audio/paper/2e1bf3431904c4e8.mp3",
+      "text": "有零下",
+      "phonemes": "又3ㄌ应2ㄒ压4"
+    },
+    {
+      "path": "audio/paper/34c17f9a92b4b685.mp3",
+      "text": "你穿得太少了",
+      "phonemes": "ㄋㄧ3ㄔ万1ㄉㄜ5ㄊㄞ4ㄕㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/0dca7c8ea337aa17.mp3",
+      "text": "我们进房间吧",
+      "phonemes": "我3ㄇㄣ5ㄐ阴4ㄈㄤ2ㄐ言1ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/dd51722cac779826.mp3",
+      "text": "你在忙什么呢",
+      "phonemes": "ㄋㄧ3ㄗㄞ4ㄇㄤ2ㄕㄣ2ㄇㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/ba7bc8be968286c6.mp3",
+      "text": "我弟弟让我帮他找个房子",
+      "phonemes": "我3ㄉㄧ4ㄉㄧ5ㄖㄤ4我3ㄅㄤ1ㄊㄚ1ㄓㄠ3ㄍㄜ4ㄈㄤ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/20a52d91a7a87410.mp3",
+      "text": "现在他家离公司有点儿远",
+      "phonemes": "ㄒ言4ㄗㄞ4ㄊㄚ1ㄐ压1ㄌㄧ2ㄍ中1ㄙㄭ1又2ㄉ言R3元3"
+    },
+    {
+      "path": "audio/paper/940cc1f03000c911.mp3",
+      "text": "住得远真的很累",
+      "phonemes": "ㄓㄨ4ㄉㄜ5元3ㄓㄣ1ㄉㄜ5ㄏㄣ3ㄌㄟ4"
+    },
+    {
+      "path": "audio/paper/af71ec9e29dad956.mp3",
+      "text": "他也希望能住得近一点儿",
+      "phonemes": "ㄊㄚ1ㄝ3ㄒㄧ1王4ㄋㄥ2ㄓㄨ4ㄉㄜ5ㄐ阴4ㄧ4ㄉ言R3"
+    },
+    {
+      "path": "audio/paper/5314b0507d58ab49.mp3",
+      "text": "门开着呢",
+      "phonemes": "ㄇㄣ2ㄎㄞ1ㄓㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/3cec943469478bed.mp3",
+      "text": "张先生在吗",
+      "phonemes": "ㄓㄤ1ㄒ言1ㄕㄥ1ㄗㄞ4ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/5587428b1c8f2555.mp3",
+      "text": "他出去了",
+      "phonemes": "ㄊㄚ1ㄔㄨ1ㄑㄩ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/de7039c5e69aaf1b.mp3",
+      "text": "你下午再来吧",
+      "phonemes": "ㄋㄧ3ㄒ压4ㄨ3ㄗㄞ4ㄌㄞ2ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/6666ae587ddd5cbf.mp3",
+      "text": "那个正在说话的女孩儿是谁",
+      "phonemes": "ㄋㄚ4ㄍㄜ5ㄓㄥ4ㄗㄞ4ㄕ我1ㄏ穵4ㄉㄜ5ㄋㄩ3ㄏㄞR2ㄕ十4ㄕ为2"
+    },
+    {
+      "path": "audio/paper/bcee03faf35ef36c.mp3",
+      "text": "我知道她的名字",
+      "phonemes": "我3ㄓ十1ㄉㄠ5ㄊㄚ1ㄉㄜ5ㄇ应2ㄗㄭ5"
+    },
+    {
+      "path": "audio/paper/bcfe567bacfb846f.mp3",
+      "text": "她姓杨",
+      "phonemes": "ㄊㄚ1ㄒ应4阳2"
+    },
+    {
+      "path": "audio/paper/c072f4ed21aaea6d.mp3",
+      "text": "叫杨笑笑",
+      "phonemes": "ㄐ要4阳2ㄒ要4ㄒ要4"
+    },
+    {
+      "path": "audio/paper/7cb230382a1fda83.mp3",
+      "text": "她姐姐是我同学",
+      "phonemes": "ㄊㄚ1ㄐㄝ3ㄐㄝ5ㄕ十4我3ㄊ中2ㄒ月2"
+    },
+    {
+      "path": "audio/paper/d475eb371127bbce.mp3",
+      "text": "那个手里拿着铅笔的呢",
+      "phonemes": "ㄋㄚ4ㄍㄜ5ㄕㄡ2ㄌㄧ3ㄋㄚ2ㄓㄜ5ㄑ言1ㄅㄧ3ㄉㄜ5ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/b601f3026f4177f3.mp3",
+      "text": "我不认识",
+      "phonemes": "我3ㄅㄨ2ㄖㄣ4ㄕ十5"
+    },
+    {
+      "path": "audio/paper/3433928f268f1537.mp3",
+      "text": "听说你有女朋友了",
+      "phonemes": "ㄊ应1ㄕ我1ㄋㄧ2又2ㄋㄩ3ㄆㄥ2又5ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/c7bef61708f4fe4a.mp3",
+      "text": "我认识她吗",
+      "phonemes": "我3ㄖㄣ4ㄕ十5ㄊㄚ1ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/73879559ebd0ad7f.mp3",
+      "text": "就是我们班那个长着两个大眼睛",
+      "phonemes": "ㄐ又4ㄕ十4我3ㄇㄣ5ㄅㄢ1ㄋㄚ4ㄍㄜ5ㄓㄤ3ㄓㄜ5ㄌ阳3ㄍㄜ4ㄉㄚ4言3ㄐ应5"
+    },
+    {
+      "path": "audio/paper/1e6941193fa04ad7.mp3",
+      "text": "非常爱笑的女孩儿",
+      "phonemes": "ㄈㄟ1ㄔㄤ2ㄞ4ㄒ要4ㄉㄜ5ㄋㄩ3ㄏㄞR2"
+    },
+    {
+      "path": "audio/paper/ad8632bb011dfc1f.mp3",
+      "text": "她不是有男朋友吗",
+      "phonemes": "ㄊㄚ1ㄅㄨ2ㄕ十4又3ㄋㄢ2ㄆㄥ2又5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/760348d88d8a7970.mp3",
+      "text": "那个已经是她的前男友了",
+      "phonemes": "ㄋㄚ4ㄍㄜ5ㄧ3ㄐ应1ㄕ十4ㄊㄚ1ㄉㄜ5ㄑ言2ㄋㄢ2又3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/0e9086852733ffad.mp3",
+      "text": "这儿离新京宾馆远吗",
+      "phonemes": "ㄓㄜR4ㄌㄧ2ㄒ阴1ㄐ应1ㄅ阴1ㄍ万2元3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/252d51a7278f7567.mp3",
+      "text": "走路二十分钟就到",
+      "phonemes": "ㄗㄡ3ㄌㄨ4ㄦ4ㄕ十2ㄈㄣ1ㄓ中1ㄐ又4ㄉㄠ4"
+    },
+    {
+      "path": "audio/paper/13536f3a3fed2505.mp3",
+      "text": "你能告诉我怎么走吗",
+      "phonemes": "ㄋㄧ3ㄋㄥ2ㄍㄠ4ㄙㄨ5我2ㄗㄣ3ㄇㄜ5ㄗㄡ3ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/e699124858c2db78.mp3",
+      "text": "从这儿一直往前走",
+      "phonemes": "ㄘ中2ㄓㄜR4ㄧ4ㄓ十2王3ㄑ言2ㄗㄡ3"
+    },
+    {
+      "path": "audio/paper/e8098cf9194a0a69.mp3",
+      "text": "到了前面的路口再往右走",
+      "phonemes": "ㄉㄠ4ㄌㄜ5ㄑ言2ㄇ言4ㄉㄜ5ㄌㄨ4ㄎㄡ3ㄗㄞ4王3又4ㄗㄡ3"
+    },
+    {
+      "path": "audio/paper/e5cadc417e372669.mp3",
+      "text": "你看过那个电影没有",
+      "phonemes": "ㄋㄧ3ㄎㄢ4ㄍ我4ㄋㄚ4ㄍㄜ5ㄉ言4应3ㄇㄟ2又3"
+    },
+    {
+      "path": "audio/paper/abdd09c8900774ae.mp3",
+      "text": "没看过",
+      "phonemes": "ㄇㄟ2ㄎㄢ4ㄍ我4"
+    },
+    {
+      "path": "audio/paper/b590679378c12eee.mp3",
+      "text": "听说很有意思",
+      "phonemes": "ㄊ应1ㄕ我1ㄏㄣ2又3ㄧ4ㄙㄭ5"
+    },
+    {
+      "path": "audio/paper/69d63128815d9b72.mp3",
+      "text": "那我们下个星期一起去看吧",
+      "phonemes": "ㄋㄚ4我3ㄇㄣ5ㄒ压4ㄍㄜ4ㄒ应1ㄑㄧ1ㄧ4ㄑㄧ3ㄑㄩ4ㄎㄢ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/bc712a9c32049fc9.mp3",
+      "text": "但是我女朋友也想去",
+      "phonemes": "ㄉㄢ4ㄕ十4我2ㄋㄩ3ㄆㄥ2又5ㄝ2ㄒ阳3ㄑㄩ4"
+    },
+    {
+      "path": "audio/paper/69a1539ea6fade64.mp3",
+      "text": "听说你去过中国",
+      "phonemes": "ㄊ应1ㄕ我1ㄋㄧ3ㄑㄩ4ㄍ我4ㄓ中1ㄍ我2"
+    },
+    {
+      "path": "audio/paper/8bc457dc4f8e5a1f.mp3",
+      "text": "还想去吗",
+      "phonemes": "ㄏㄞ2ㄒ阳3ㄑㄩ4ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/3f05c7f8be0d65ac.mp3",
+      "text": "我虽然去过好几次",
+      "phonemes": "我3ㄙ为1ㄖㄢ2ㄑㄩ4ㄍ我4ㄏㄠ2ㄐㄧ3ㄘㄭ4"
+    },
+    {
+      "path": "audio/paper/2c1d69459c7486f0.mp3",
+      "text": "但是还想再去玩儿玩儿",
+      "phonemes": "ㄉㄢ4ㄕ十4ㄏㄞ2ㄒ阳3ㄗㄞ4ㄑㄩ4万R2万R2"
+    },
+    {
+      "path": "audio/paper/f4aafa187d7e7f9e.mp3",
+      "text": "那我们一起去吧",
+      "phonemes": "ㄋㄚ4我3ㄇㄣ5ㄧ4ㄑㄧ3ㄑㄩ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/9309de7a88791752.mp3",
+      "text": "到时候我给你打电话",
+      "phonemes": "ㄉㄠ4ㄕ十2ㄏㄡ5我2ㄍㄟ2ㄋㄧ2ㄉㄚ3ㄉ言4ㄏ穵4"
+    },
+    {
+      "path": "audio/paper/62b14d66afcf1f99.mp3",
+      "text": "明天天气怎么样",
+      "phonemes": "ㄇ应2ㄊ言1ㄊ言1ㄑㄧ4ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/paper/1143fdf5fa16deba.mp3",
+      "text": "虽然是晴天",
+      "phonemes": "ㄙ为1ㄖㄢ2ㄕ十4ㄑ应2ㄊ言1"
+    },
+    {
+      "path": "audio/paper/55bda54095877ed4.mp3",
+      "text": "但是很冷",
+      "phonemes": "ㄉㄢ4ㄕ十4ㄏㄣ2ㄌㄥ3"
+    },
+    {
+      "path": "audio/paper/e454ecdf4c1feaa1.mp3",
+      "text": "那还能去跑步吗",
+      "phonemes": "ㄋㄚ4ㄏㄞ2ㄋㄥ2ㄑㄩ4ㄆㄠ3ㄅㄨ4ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/e3a151aca233b5d0.mp3",
+      "text": "但是你自己去吧",
+      "phonemes": "ㄉㄢ4ㄕ十4ㄋㄧ3ㄗㄭ4ㄐㄧ3ㄑㄩ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/8d2788cb329cf36c.mp3",
+      "text": "我还有很多事情要做",
+      "phonemes": "我3ㄏㄞ2又2ㄏㄣ3ㄉ我1ㄕ十4ㄑ应5要4ㄗ我4"
+    },
+    {
+      "path": "audio/paper/43e284364644c5d1.mp3",
+      "text": "你在这个商店买过东西没有",
+      "phonemes": "ㄋㄧ3ㄗㄞ4ㄓㄜ4ㄍㄜ5ㄕㄤ1ㄉ言4ㄇㄞ3ㄍ我4ㄉ中1ㄒㄧ1ㄇㄟ2又3"
+    },
+    {
+      "path": "audio/paper/70d377e6d12e31f2.mp3",
+      "text": "买过一次",
+      "phonemes": "ㄇㄞ3ㄍ我4ㄧ2ㄘㄭ4"
+    },
+    {
+      "path": "audio/paper/5df04205643c9ea0.mp3",
+      "text": "这儿的东西还可以",
+      "phonemes": "ㄓㄜR4ㄉㄜ5ㄉ中1ㄒㄧ1ㄏㄞ2ㄎㄜ2ㄧ3"
+    },
+    {
+      "path": "audio/paper/deeeea8b2f5dcdfb.mp3",
+      "text": "就是不便宜",
+      "phonemes": "ㄐ又4ㄕ十4ㄅㄨ2ㄅ言4ㄧ2"
+    },
+    {
+      "path": "audio/paper/7b64e0341ab5beb6.mp3",
+      "text": "我喜欢这件衣服",
+      "phonemes": "我2ㄒㄧ3ㄏ万5ㄓㄜ4ㄐ言4ㄧ1ㄈㄨ5"
+    },
+    {
+      "path": "audio/paper/08c75ebf045304e2.mp3",
+      "text": "但是觉得有点儿贵",
+      "phonemes": "ㄉㄢ4ㄕ十4ㄐ月2ㄉㄜ5又2ㄉ言R3ㄍ为4"
+    },
+    {
+      "path": "audio/paper/990f7c0b7f75ea91.mp3",
+      "text": "两百块还可以",
+      "phonemes": "ㄌ阳2ㄅㄞ3ㄎ外4ㄏㄞ2ㄎㄜ2ㄧ3"
+    },
+    {
+      "path": "audio/paper/f9086227beaf8ef9.mp3",
+      "text": "喜欢就买吧",
+      "phonemes": "ㄒㄧ3ㄏ万5ㄐ又4ㄇㄞ3ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/92a58d0d3b839516.mp3",
+      "text": "今天是",
+      "phonemes": "ㄐ阴1ㄊ言1ㄕ十4"
+    },
+    {
+      "path": "audio/paper/6bb7d461e0b2941b.mp3",
+      "text": "新年就要到了",
+      "phonemes": "ㄒ阴1ㄋ言2ㄐ又4要4ㄉㄠ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/f818a983a6c94b22.mp3",
+      "text": "新年你准备做什么",
+      "phonemes": "ㄒ阴1ㄋ言2ㄋㄧ2ㄓ文3ㄅㄟ4ㄗ我4ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/paper/6dfa686334dac01e.mp3",
+      "text": "我想去北京旅游",
+      "phonemes": "我2ㄒ阳3ㄑㄩ4ㄅㄟ3ㄐ应1ㄌㄩ3又2"
+    },
+    {
+      "path": "audio/paper/b4d9f7153f87a4ff.mp3",
+      "text": "北京很不错",
+      "phonemes": "ㄅㄟ3ㄐ应1ㄏㄣ3ㄅㄨ2ㄘ我4"
+    },
+    {
+      "path": "audio/paper/e24f644b8c049d1e.mp3",
+      "text": "我去过一次",
+      "phonemes": "我3ㄑㄩ4ㄍ我4ㄧ2ㄘㄭ4"
+    },
+    {
+      "path": "audio/paper/3e024123df441576.mp3",
+      "text": "你买票了吗",
+      "phonemes": "ㄋㄧ2ㄇㄞ3ㄆ要4ㄌㄜ5ㄇㄚ5"
+    },
+    {
+      "path": "audio/paper/4874ef55afe810b3.mp3",
+      "text": "还没有呢",
+      "phonemes": "ㄏㄞ2ㄇㄟ2又3ㄋㄜ5"
+    },
+    {
+      "path": "audio/paper/ad3adbe6fc28c03a.mp3",
+      "text": "明天就去火车站买票",
+      "phonemes": "ㄇ应2ㄊ言1ㄐ又4ㄑㄩ4ㄏ我3ㄔㄜ1ㄓㄢ4ㄇㄞ3ㄆ要4"
+    },
+    {
+      "path": "audio/paper/ab847642cb9eea66.mp3",
+      "text": "时间过得真快",
+      "phonemes": "ㄕ十2ㄐ言1ㄍ我4ㄉㄜ5ㄓㄣ1ㄎ外4"
+    },
+    {
+      "path": "audio/paper/4a63f028a8983c23.mp3",
+      "text": "新的一年快要到了",
+      "phonemes": "ㄒ阴1ㄉㄜ5ㄧ4ㄋ言2ㄎ外4要4ㄉㄠ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/36923c7bbe33b614.mp3",
+      "text": "谢谢大家这一年对我的帮助",
+      "phonemes": "ㄒㄝ4ㄒㄝ4ㄉㄚ4ㄐ压1ㄓㄜ4ㄧ4ㄋ言2ㄉ为4我3ㄉㄜ5ㄅㄤ1ㄓㄨ4"
+    },
+    {
+      "path": "audio/paper/25e1c6bd3087403d.mp3",
+      "text": "希望我们的公司明年更好",
+      "phonemes": "ㄒㄧ1王4我3ㄇㄣ5ㄉㄜ5ㄍ中1ㄙㄭ1ㄇ应2ㄋ言2ㄍㄥ4ㄏㄠ3"
+    },
+    {
+      "path": "audio/paper/e50a9c7aa0aeba28.mp3",
+      "text": "你妹妹怎么还没来",
+      "phonemes": "ㄋㄧ3ㄇㄟ4ㄇㄟ5ㄗㄣ3ㄇㄜ5ㄏㄞ2ㄇㄟ2ㄌㄞ2"
+    },
+    {
+      "path": "audio/paper/28be0e1d88dd8332.mp3",
+      "text": "都八点四十了",
+      "phonemes": "ㄉㄡ1ㄅㄚ1ㄉ言3ㄙㄭ4ㄕ十2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/4d33adc836038191.mp3",
+      "text": "我们再等她几分钟吧",
+      "phonemes": "我3ㄇㄣ5ㄗㄞ4ㄉㄥ3ㄊㄚ1ㄐㄧ3ㄈㄣ1ㄓ中1ㄅㄚ5"
+    },
+    {
+      "path": "audio/paper/acaae7066c9246ca.mp3",
+      "text": "都等她半个小时了",
+      "phonemes": "ㄉㄡ1ㄉㄥ3ㄊㄚ1ㄅㄢ4ㄍㄜ4ㄒ要3ㄕ十2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/7cff8cc8a2d71f67.mp3",
+      "text": "她来了",
+      "phonemes": "ㄊㄚ1ㄌㄞ2ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/cdef2ba6dd647c2f.mp3",
+      "text": "我听见她说话了",
+      "phonemes": "我3ㄊ应1ㄐ言4ㄊㄚ1ㄕ我1ㄏ穵4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/7b0cc8c4e8248b0d.mp3",
+      "text": "天阴了",
+      "phonemes": "ㄊ言1阴1ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/02ffafbda2dea941.mp3",
+      "text": "我要回去了",
+      "phonemes": "我3要4ㄏ为2ㄑㄩ4ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/4af8d332657ec511.mp3",
+      "text": "快要下雨了",
+      "phonemes": "ㄎ外4要4ㄒ压4ㄩ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/paper/9f247f8b5e2b4ebe.mp3",
+      "text": "你路上慢点儿",
+      "phonemes": "ㄋㄧ3ㄌㄨ4ㄕㄤ4ㄇㄢ4ㄉ言R3"
+    },
+    {
+      "path": "audio/paper/eaa62ac1f82e756f.mp3",
+      "text": "我坐公共汽车",
+      "phonemes": "我3ㄗ我4ㄍ中1ㄍ中4ㄑㄧ4ㄔㄜ1"
+    }
+  ]
+}

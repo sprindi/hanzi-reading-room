@@ -1,0 +1,3560 @@
+{
+  "engine": "Kokoro 1.1 Mandarin",
+  "voice": "zf_001",
+  "speed": 0.92,
+  "source": "https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh",
+  "dialogues": {
+    "1-1": "audio/kokoro/264231dbf08920bf.mp3",
+    "1-2": "audio/kokoro/00d7ba745b074356.mp3",
+    "1-3": "audio/kokoro/8e3cad0dd254b296.mp3",
+    "1-4": "audio/kokoro/5836ee64cee45154.mp3",
+    "2-1": "audio/kokoro/7fc2bf8f2f44d395.mp3",
+    "2-2": "audio/kokoro/f1f6802eaa94c0ef.mp3",
+    "2-3": "audio/kokoro/2745b8f991605450.mp3",
+    "2-4": "audio/kokoro/5ccaa3befa7fd6ac.mp3",
+    "3-1": "audio/kokoro/e7700350f8730fe9.mp3",
+    "3-2": "audio/kokoro/294f923f7766639a.mp3",
+    "3-3": "audio/kokoro/9e57136dda21019a.mp3",
+    "3-4": "audio/kokoro/0bf727830c147593.mp3",
+    "4-1": "audio/kokoro/e95cbc5552152e0f.mp3",
+    "4-2": "audio/kokoro/b7d76b4c168e341b.mp3",
+    "4-3": "audio/kokoro/875c66b28d435ca2.mp3",
+    "4-4": "audio/kokoro/3176fd0ca6314f2d.mp3",
+    "5-1": "audio/kokoro/dcaef4b4fa9a7523.mp3",
+    "5-2": "audio/kokoro/a1571f31d0f6569a.mp3",
+    "5-3": "audio/kokoro/8a5ad60b6252a60d.mp3",
+    "5-4": "audio/kokoro/532ded68339dda2b.mp3",
+    "6-1": "audio/kokoro/78700e58436afca3.mp3",
+    "6-2": "audio/kokoro/91c9e3dd279ae35b.mp3",
+    "6-3": "audio/kokoro/9740cd14799e08d3.mp3",
+    "6-4": "audio/kokoro/89b2922ddda356ad.mp3",
+    "7-1": "audio/kokoro/8871be1d25ba2d95.mp3",
+    "7-2": "audio/kokoro/58d5f2e1aa6f008f.mp3",
+    "7-3": "audio/kokoro/240564c5f1e7faae.mp3",
+    "7-4": "audio/kokoro/5922c545a6c84898.mp3",
+    "8-1": "audio/kokoro/1ebba72ef199d016.mp3",
+    "8-2": "audio/kokoro/e4b576b265e57dd2.mp3",
+    "8-3": "audio/kokoro/7460de58ee9a0659.mp3",
+    "8-4": "audio/kokoro/1ff606fc43280f20.mp3",
+    "9-1": "audio/kokoro/19a9ff68cd3a5da3.mp3",
+    "9-2": "audio/kokoro/ffe7f3c941eb766e.mp3",
+    "9-3": "audio/kokoro/350a9bf14f9dce7b.mp3",
+    "9-4": "audio/kokoro/9d01d470c4041d67.mp3",
+    "10-1": "audio/kokoro/c9791d909200c7dc.mp3",
+    "10-2": "audio/kokoro/285f8589cc3f49cc.mp3",
+    "10-3": "audio/kokoro/26e1e0303eb5a4de.mp3",
+    "10-4": "audio/kokoro/6124d51c5ea22fd0.mp3",
+    "11-1": "audio/kokoro/450d2ab3303cc4e8.mp3",
+    "11-2": "audio/kokoro/9ee6384d2316e1a0.mp3",
+    "11-3": "audio/kokoro/c7bf1b27bf6c8d0c.mp3",
+    "11-4": "audio/kokoro/3fce7ac90861a3fe.mp3",
+    "12-1": "audio/kokoro/2a3263dd08fc33f8.mp3",
+    "12-2": "audio/kokoro/e22ae43c33c71e11.mp3",
+    "12-3": "audio/kokoro/aa7641bf6138ba90.mp3",
+    "12-4": "audio/kokoro/25b6342a095aa56a.mp3",
+    "13-1": "audio/kokoro/8a0dce80d20b4703.mp3",
+    "13-2": "audio/kokoro/af93f94a67269c41.mp3",
+    "13-3": "audio/kokoro/08dac90f300fddeb.mp3",
+    "13-4": "audio/kokoro/826bace6612a8855.mp3",
+    "14-1": "audio/kokoro/fb6c6e3d6b35a419.mp3",
+    "14-2": "audio/kokoro/721cbf534ff2ca75.mp3",
+    "14-3": "audio/kokoro/86b5035c88a32fa1.mp3",
+    "14-4": "audio/kokoro/f049337d591c7581.mp3",
+    "15-1": "audio/kokoro/02576e5922047cdc.mp3",
+    "15-2": "audio/kokoro/86263bbb609b2830.mp3",
+    "15-3": "audio/kokoro/4c8a8ecf29869303.mp3",
+    "15-4": "audio/kokoro/f533ef5008092a2c.mp3"
+  },
+  "clips": [
+    {
+      "path": "audio/kokoro/a97c54f255f40a6b.mp3",
+      "text": "我",
+      "phonemes": "我3"
+    },
+    {
+      "path": "audio/kokoro/f9d8b57595af45a9.mp3",
+      "text": "我要去北京旅游，你觉得什么时候去最好？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d9998114de3da4ac.mp3",
+      "text": "要",
+      "phonemes": "要4"
+    },
+    {
+      "path": "audio/kokoro/570e5f57b98f4222.mp3",
+      "text": "去",
+      "phonemes": "ㄑㄩ4"
+    },
+    {
+      "path": "audio/kokoro/3d0b402e85ad8d3f.mp3",
+      "text": "北京",
+      "phonemes": "ㄅㄟ3ㄐ应1"
+    },
+    {
+      "path": "audio/kokoro/0ca24127ead82496.mp3",
+      "text": "旅游",
+      "phonemes": "ㄌㄩ3又2"
+    },
+    {
+      "path": "audio/kokoro/21153323bf430b18.mp3",
+      "text": "你",
+      "phonemes": "ㄋㄧ3"
+    },
+    {
+      "path": "audio/kokoro/76be265b4dd40ff0.mp3",
+      "text": "觉得",
+      "phonemes": "ㄐ月2ㄉㄜ5"
+    },
+    {
+      "path": "audio/kokoro/de857003e80221de.mp3",
+      "text": "什么",
+      "phonemes": "ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/kokoro/dd387b048c9d79fe.mp3",
+      "text": "时候",
+      "phonemes": "ㄕ十2ㄏㄡ4"
+    },
+    {
+      "path": "audio/kokoro/f640c5e7186f4145.mp3",
+      "text": "最好",
+      "phonemes": "ㄗ为4ㄏㄠ3"
+    },
+    {
+      "path": "audio/kokoro/c0da0cfa091e123c.mp3",
+      "text": "九月",
+      "phonemes": "ㄐ又3月4"
+    },
+    {
+      "path": "audio/kokoro/d94c3cdcfecdea37.mp3",
+      "text": "九月去北京旅游最好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/39812f0b3a18d74e.mp3",
+      "text": "为什么",
+      "phonemes": "为4ㄕㄣ2ㄇㄜ5"
+    },
+    {
+      "path": "audio/kokoro/daed505d8622827d.mp3",
+      "text": "为什么？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/171c900aa938afe5.mp3",
+      "text": "的",
+      "phonemes": "ㄉㄜ5"
+    },
+    {
+      "path": "audio/kokoro/0e089f619576fd9b.mp3",
+      "text": "九月的北京天气不冷也不热。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/770e77b21623ecda.mp3",
+      "text": "天气",
+      "phonemes": "ㄊ言1ㄑㄧ4"
+    },
+    {
+      "path": "audio/kokoro/9b40d335251b009b.mp3",
+      "text": "不",
+      "phonemes": "ㄅㄨ4"
+    },
+    {
+      "path": "audio/kokoro/5168c6517e48cca5.mp3",
+      "text": "冷",
+      "phonemes": "ㄌㄥ3"
+    },
+    {
+      "path": "audio/kokoro/acdc4bdfcbfec79d.mp3",
+      "text": "也",
+      "phonemes": "ㄝ3"
+    },
+    {
+      "path": "audio/kokoro/f14836369ad2a4a8.mp3",
+      "text": "不",
+      "phonemes": "ㄅㄨ2"
+    },
+    {
+      "path": "audio/kokoro/94a82e35d46b26ed.mp3",
+      "text": "热",
+      "phonemes": "ㄖㄜ4"
+    },
+    {
+      "path": "audio/kokoro/efdccb965b6524f2.mp3",
+      "text": "喜欢",
+      "phonemes": "ㄒㄧ3ㄏ万5"
+    },
+    {
+      "path": "audio/kokoro/0ed1b92e215a732a.mp3",
+      "text": "你喜欢什么运动？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/debb27733d0adf92.mp3",
+      "text": "运动",
+      "phonemes": "云4ㄉ中4"
+    },
+    {
+      "path": "audio/kokoro/48d32fc0efd479f4.mp3",
+      "text": "最",
+      "phonemes": "ㄗ为4"
+    },
+    {
+      "path": "audio/kokoro/e69073374e1c16a8.mp3",
+      "text": "我最喜欢踢足球。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ff6bf269b96144a2.mp3",
+      "text": "踢足球",
+      "phonemes": "ㄊㄧ1ㄗㄨ2ㄑ又2"
+    },
+    {
+      "path": "audio/kokoro/0fba06b93b93ce14.mp3",
+      "text": "下午",
+      "phonemes": "ㄒ压4ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/796757793a4c4894.mp3",
+      "text": "下午我们一起去踢足球吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/fa865acca9948822.mp3",
+      "text": "我们",
+      "phonemes": "我3ㄇㄣ5"
+    },
+    {
+      "path": "audio/kokoro/5f916239cd3f7d7e.mp3",
+      "text": "一起",
+      "phonemes": "ㄧ4ㄑㄧ3"
+    },
+    {
+      "path": "audio/kokoro/54f35e4eb8f85706.mp3",
+      "text": "吧",
+      "phonemes": "ㄅㄚ5"
+    },
+    {
+      "path": "audio/kokoro/270dee69cc323265.mp3",
+      "text": "好",
+      "phonemes": "ㄏㄠ3"
+    },
+    {
+      "path": "audio/kokoro/b1da3e7b7521dbaa.mp3",
+      "text": "好啊！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/572d0a27c4fdefb0.mp3",
+      "text": "啊",
+      "phonemes": "ㄚ5"
+    },
+    {
+      "path": "audio/kokoro/88eba16affcd1822.mp3",
+      "text": "不要",
+      "phonemes": "ㄅㄨ5要4"
+    },
+    {
+      "path": "audio/kokoro/ea6ca7aef8ac2b7d.mp3",
+      "text": "我们要不要买几个新的椅子？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4580f9d2e25a3d12.mp3",
+      "text": "买",
+      "phonemes": "ㄇㄞ3"
+    },
+    {
+      "path": "audio/kokoro/24d03a093f302c98.mp3",
+      "text": "几个",
+      "phonemes": "ㄐㄧ3ㄍㄜ4"
+    },
+    {
+      "path": "audio/kokoro/d51a628f40fd59ff.mp3",
+      "text": "新",
+      "phonemes": "ㄒ阴1"
+    },
+    {
+      "path": "audio/kokoro/2b2d70f721b8980b.mp3",
+      "text": "椅子",
+      "phonemes": "ㄧ3ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/cc84975d6c811971.mp3",
+      "text": "明天",
+      "phonemes": "ㄇ应2ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/7ab0cd163a1501e2.mp3",
+      "text": "明天下午怎么样？你明天几点能回来？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8baa26651bc910fb.mp3",
+      "text": "怎么样",
+      "phonemes": "ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/kokoro/7fd144c2ab28108a.mp3",
+      "text": "几点",
+      "phonemes": "ㄐㄧ2ㄉ言3"
+    },
+    {
+      "path": "audio/kokoro/40ba708d1565952f.mp3",
+      "text": "能",
+      "phonemes": "ㄋㄥ2"
+    },
+    {
+      "path": "audio/kokoro/9505d28261ad5ec1.mp3",
+      "text": "回来",
+      "phonemes": "ㄏ为2ㄌㄞ2"
+    },
+    {
+      "path": "audio/kokoro/3dda14f05ca36fd9.mp3",
+      "text": "三",
+      "phonemes": "ㄙㄢ1"
+    },
+    {
+      "path": "audio/kokoro/76fb320a4fd0d447.mp3",
+      "text": "三点多。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/55bd31cf3fd56526.mp3",
+      "text": "点",
+      "phonemes": "ㄉ言3"
+    },
+    {
+      "path": "audio/kokoro/69d0b949c0f64958.mp3",
+      "text": "多",
+      "phonemes": "ㄉ我1"
+    },
+    {
+      "path": "audio/kokoro/db06922fb147a578.mp3",
+      "text": "桌子",
+      "phonemes": "ㄓ我1ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/6bb903f2610ae194.mp3",
+      "text": "桌子下面有个猫。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/84e4dc525869f129.mp3",
+      "text": "下面",
+      "phonemes": "ㄒ压4ㄇ言4"
+    },
+    {
+      "path": "audio/kokoro/3cf135eab66811dc.mp3",
+      "text": "有",
+      "phonemes": "又3"
+    },
+    {
+      "path": "audio/kokoro/9c8992229cd7cceb.mp3",
+      "text": "个",
+      "phonemes": "ㄍㄜ4"
+    },
+    {
+      "path": "audio/kokoro/abc3fbf0c2700550.mp3",
+      "text": "猫",
+      "phonemes": "ㄇㄠ1"
+    },
+    {
+      "path": "audio/kokoro/dd3da9d9c8b085f0.mp3",
+      "text": "那",
+      "phonemes": "ㄋㄚ4"
+    },
+    {
+      "path": "audio/kokoro/50cb6dd7cf78d291.mp3",
+      "text": "那是我的猫，它叫花花。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e54b20211f1ea371.mp3",
+      "text": "是",
+      "phonemes": "ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/f9942dbb4f6a55ce.mp3",
+      "text": "它",
+      "phonemes": "ㄊㄚ1"
+    },
+    {
+      "path": "audio/kokoro/563fb9c90a8d862e.mp3",
+      "text": "叫",
+      "phonemes": "ㄐ要4"
+    },
+    {
+      "path": "audio/kokoro/c5a38079a9aaed93.mp3",
+      "text": "花花",
+      "phonemes": "ㄏ穵1ㄏ穵5"
+    },
+    {
+      "path": "audio/kokoro/0c3651c969d5fd2f.mp3",
+      "text": "很",
+      "phonemes": "ㄏㄣ3"
+    },
+    {
+      "path": "audio/kokoro/847e8868a2ac5f5f.mp3",
+      "text": "它很漂亮。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2f6e56efa6a0368e.mp3",
+      "text": "漂亮",
+      "phonemes": "ㄆ要4ㄌ阳5"
+    },
+    {
+      "path": "audio/kokoro/b3315dbe6a489ba1.mp3",
+      "text": "眼睛",
+      "phonemes": "言3ㄐ应5"
+    },
+    {
+      "path": "audio/kokoro/c9991f526acc571f.mp3",
+      "text": "是啊，我觉得它的眼睛最漂亮。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9e1772dd4884b4b6.mp3",
+      "text": "大",
+      "phonemes": "ㄉㄚ4"
+    },
+    {
+      "path": "audio/kokoro/6a456158bfb844d2.mp3",
+      "text": "它多大了？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0e8b67423be5316f.mp3",
+      "text": "了",
+      "phonemes": "ㄌㄜ5"
+    },
+    {
+      "path": "audio/kokoro/4258b477b8a0497d.mp3",
+      "text": "六",
+      "phonemes": "ㄌ又4"
+    },
+    {
+      "path": "audio/kokoro/77c02c6db3c7a181.mp3",
+      "text": "六个多月。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/cfedcb66be17990e.mp3",
+      "text": "月",
+      "phonemes": "月4"
+    },
+    {
+      "path": "audio/kokoro/5d1b6b000b5d5fd3.mp3",
+      "text": "很少",
+      "phonemes": "ㄏㄣ2ㄕㄠ3"
+    },
+    {
+      "path": "audio/kokoro/a4f8d90940f94d12.mp3",
+      "text": "你很少生病，是不是喜欢运动？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9134f185e4dc56f8.mp3",
+      "text": "生病",
+      "phonemes": "ㄕㄥ1ㄅ应4"
+    },
+    {
+      "path": "audio/kokoro/c67cb3bcaa84227b.mp3",
+      "text": "是不是",
+      "phonemes": "ㄕ十4ㄅㄨ5ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/cd07f27ca825919e.mp3",
+      "text": "每天",
+      "phonemes": "ㄇㄟ3ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/878d7df7577c6fec.mp3",
+      "text": "是啊，我每天早上都要出去跑步。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3aa84c48568361f4.mp3",
+      "text": "早上",
+      "phonemes": "ㄗㄠ3ㄕㄤ5"
+    },
+    {
+      "path": "audio/kokoro/0e98c90d31365912.mp3",
+      "text": "都",
+      "phonemes": "ㄉㄡ1"
+    },
+    {
+      "path": "audio/kokoro/fba1834d772ebd72.mp3",
+      "text": "出去",
+      "phonemes": "ㄔㄨ1ㄑㄩ4"
+    },
+    {
+      "path": "audio/kokoro/3c063f6837662cd4.mp3",
+      "text": "跑步",
+      "phonemes": "ㄆㄠ3ㄅㄨ4"
+    },
+    {
+      "path": "audio/kokoro/c11a78a2d4472a64.mp3",
+      "text": "起床",
+      "phonemes": "ㄑㄧ3ㄔ王2"
+    },
+    {
+      "path": "audio/kokoro/bc6da5aae661f105.mp3",
+      "text": "你每天几点起床？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9650b6f19e473693.mp3",
+      "text": "吃药",
+      "phonemes": "ㄔ十1要4"
+    },
+    {
+      "path": "audio/kokoro/44e8245a758840b1.mp3",
+      "text": "吃药了吗？现在身体怎么样？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a065142fe318e04b.mp3",
+      "text": "吗",
+      "phonemes": "ㄇㄚ5"
+    },
+    {
+      "path": "audio/kokoro/7d0d78113ad31b53.mp3",
+      "text": "现在",
+      "phonemes": "ㄒ言4ㄗㄞ4"
+    },
+    {
+      "path": "audio/kokoro/29635c2476a1d420.mp3",
+      "text": "身体",
+      "phonemes": "ㄕㄣ1ㄊㄧ3"
+    },
+    {
+      "path": "audio/kokoro/a5454a97c98e4dc8.mp3",
+      "text": "吃",
+      "phonemes": "ㄔ十1"
+    },
+    {
+      "path": "audio/kokoro/10bbd7e784f3ed79.mp3",
+      "text": "吃了。现在好多了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/81c32959be2d0885.mp3",
+      "text": "好多",
+      "phonemes": "ㄏㄠ3ㄉ我1"
+    },
+    {
+      "path": "audio/kokoro/bb274cbcfce4b343.mp3",
+      "text": "出院",
+      "phonemes": "ㄔㄨ1元4"
+    },
+    {
+      "path": "audio/kokoro/369752206eeb6c71.mp3",
+      "text": "什么时候能出院？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9bde013a47d9a99b.mp3",
+      "text": "医生",
+      "phonemes": "ㄧ1ㄕㄥ1"
+    },
+    {
+      "path": "audio/kokoro/033e4e7ae93ab9bb.mp3",
+      "text": "医生说下个星期。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4df1f1b20def4469.mp3",
+      "text": "说",
+      "phonemes": "ㄕ我1"
+    },
+    {
+      "path": "audio/kokoro/614629fc17cf77d9.mp3",
+      "text": "下个星期",
+      "phonemes": "ㄒ压4ㄍㄜ4ㄒ应1ㄑㄧ1"
+    },
+    {
+      "path": "audio/kokoro/0d0eeac04ca1258c.mp3",
+      "text": "大卫",
+      "phonemes": "ㄉㄚ4为4"
+    },
+    {
+      "path": "audio/kokoro/77ca866b07e288bf.mp3",
+      "text": "大卫今年多大？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/26c849d5d2079497.mp3",
+      "text": "今年",
+      "phonemes": "ㄐ阴1ㄋ言2"
+    },
+    {
+      "path": "audio/kokoro/9ad1a60e5bfe0752.mp3",
+      "text": "多大",
+      "phonemes": "ㄉ我1ㄉㄚ4"
+    },
+    {
+      "path": "audio/kokoro/890059c721493371.mp3",
+      "text": "二十多岁",
+      "phonemes": "ㄦ4ㄕ十2ㄉ我1ㄙ为4"
+    },
+    {
+      "path": "audio/kokoro/72feb6bf237d1a00.mp3",
+      "text": "二十多岁。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1b64474284002393.mp3",
+      "text": "他",
+      "phonemes": "ㄊㄚ1"
+    },
+    {
+      "path": "audio/kokoro/830c9590f049bef3.mp3",
+      "text": "他多高？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/076807c07986e7e5.mp3",
+      "text": "高",
+      "phonemes": "ㄍㄠ1"
+    },
+    {
+      "path": "audio/kokoro/2c1f0b4bbf7ca069.mp3",
+      "text": "一米",
+      "phonemes": "ㄧ4ㄇㄧ3"
+    },
+    {
+      "path": "audio/kokoro/79b823d0684be933.mp3",
+      "text": "一米八几。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/df9f2252f1e5e799.mp3",
+      "text": "八",
+      "phonemes": "ㄅㄚ1"
+    },
+    {
+      "path": "audio/kokoro/d646cec0891a9798.mp3",
+      "text": "几",
+      "phonemes": "ㄐㄧ3"
+    },
+    {
+      "path": "audio/kokoro/636dea05c33d10b7.mp3",
+      "text": "怎么",
+      "phonemes": "ㄗㄣ3ㄇㄜ5"
+    },
+    {
+      "path": "audio/kokoro/35c030ed3415e01d.mp3",
+      "text": "你怎么知道这么多啊？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c3b7c10b756a99b3.mp3",
+      "text": "知道",
+      "phonemes": "ㄓ十1ㄉㄠ5"
+    },
+    {
+      "path": "audio/kokoro/144cd7b8d8e48b89.mp3",
+      "text": "这么",
+      "phonemes": "ㄓㄜ4ㄇㄜ5"
+    },
+    {
+      "path": "audio/kokoro/ab6bf6593d4e9bcf.mp3",
+      "text": "同学",
+      "phonemes": "ㄊ中2ㄒ月2"
+    },
+    {
+      "path": "audio/kokoro/7f5f88952cd570a5.mp3",
+      "text": "他是我同学。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1fe4ddb888dc67a4.mp3",
+      "text": "张老师",
+      "phonemes": "ㄓㄤ1ㄌㄠ3ㄕ十1"
+    },
+    {
+      "path": "audio/kokoro/fed6624f36c6e61d.mp3",
+      "text": "张老师星期六也不休息啊？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/572b09b68369aaf5.mp3",
+      "text": "星期六",
+      "phonemes": "ㄒ应1ㄑㄧ1ㄌ又4"
+    },
+    {
+      "path": "audio/kokoro/499e762634fcb893.mp3",
+      "text": "休息",
+      "phonemes": "ㄒ又1ㄒㄧ1"
+    },
+    {
+      "path": "audio/kokoro/de31d039e30b6550.mp3",
+      "text": "这",
+      "phonemes": "ㄓㄜ4"
+    },
+    {
+      "path": "audio/kokoro/ed4164e2ac7e7c6e.mp3",
+      "text": "是啊，他这几天很忙，没有时间休息。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f6f9a2ee4778a561.mp3",
+      "text": "天",
+      "phonemes": "ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/9934c68cf862fd92.mp3",
+      "text": "忙",
+      "phonemes": "ㄇㄤ2"
+    },
+    {
+      "path": "audio/kokoro/63453919098db340.mp3",
+      "text": "没有",
+      "phonemes": "ㄇㄟ2又3"
+    },
+    {
+      "path": "audio/kokoro/7e5871e4231534c3.mp3",
+      "text": "时间",
+      "phonemes": "ㄕ十2ㄐ言1"
+    },
+    {
+      "path": "audio/kokoro/20d76f31c0e736d4.mp3",
+      "text": "休息",
+      "phonemes": "ㄒ又1ㄒㄧ5"
+    },
+    {
+      "path": "audio/kokoro/9631943020e5502f.mp3",
+      "text": "会",
+      "phonemes": "ㄏ为4"
+    },
+    {
+      "path": "audio/kokoro/d48b18531745ba3f.mp3",
+      "text": "那会很累吧？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b351d40b80e4b542.mp3",
+      "text": "累",
+      "phonemes": "ㄌㄟ4"
+    },
+    {
+      "path": "audio/kokoro/8241bbdbba469049.mp3",
+      "text": "块",
+      "phonemes": "ㄎ外4"
+    },
+    {
+      "path": "audio/kokoro/683005e44054bda5.mp3",
+      "text": "这块手表是你的吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a746f36fcd97847d.mp3",
+      "text": "手表",
+      "phonemes": "ㄕㄡ2ㄅ要3"
+    },
+    {
+      "path": "audio/kokoro/495ccdb24b938d77.mp3",
+      "text": "不是",
+      "phonemes": "ㄅㄨ2ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/73cef48a7ddcbfa7.mp3",
+      "text": "不是我的。是我爸爸的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/68b6bb2c4f402d93.mp3",
+      "text": "爸爸",
+      "phonemes": "ㄅㄚ4ㄅㄚ5"
+    },
+    {
+      "path": "audio/kokoro/57054dbde1bf9cb6.mp3",
+      "text": "多少钱",
+      "phonemes": "ㄉ我1ㄕㄠ5ㄑ言2"
+    },
+    {
+      "path": "audio/kokoro/a5e603d0910156c1.mp3",
+      "text": "多少钱买的？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f4aa4fbac812edae.mp3",
+      "text": "千",
+      "phonemes": "ㄑ言1"
+    },
+    {
+      "path": "audio/kokoro/44e5e175d911ca31.mp3",
+      "text": "三千多块。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/224164999c106ce8.mp3",
+      "text": "今天",
+      "phonemes": "ㄐ阴1ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/a133f5230b798b09.mp3",
+      "text": "这是今天早上的报纸吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5e5e054e0348e0f6.mp3",
+      "text": "报纸",
+      "phonemes": "ㄅㄠ4ㄓ十3"
+    },
+    {
+      "path": "audio/kokoro/cb927cd3ed3b6c76.mp3",
+      "text": "昨天",
+      "phonemes": "ㄗ我2ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/d62bba928ae66dfa.mp3",
+      "text": "不是，是昨天的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/88f7eb4cabe6e18b.mp3",
+      "text": "听",
+      "phonemes": "ㄊ应1"
+    },
+    {
+      "path": "audio/kokoro/e141bfa569c21d7d.mp3",
+      "text": "你听，是不是送报纸的来了？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/bcd58950c98b6a9b.mp3",
+      "text": "送",
+      "phonemes": "ㄙ中4"
+    },
+    {
+      "path": "audio/kokoro/1ad9b136d557170f.mp3",
+      "text": "来",
+      "phonemes": "ㄌㄞ2"
+    },
+    {
+      "path": "audio/kokoro/c8843db51d732c9a.mp3",
+      "text": "看",
+      "phonemes": "ㄎㄢ4"
+    },
+    {
+      "path": "audio/kokoro/c43a404b95188c1f.mp3",
+      "text": "我看一下。不是，是送牛奶的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/46b57647def46ea0.mp3",
+      "text": "一下",
+      "phonemes": "ㄧ2ㄒ压4"
+    },
+    {
+      "path": "audio/kokoro/49e243d94d993814.mp3",
+      "text": "牛奶",
+      "phonemes": "ㄋ又2ㄋㄞ3"
+    },
+    {
+      "path": "audio/kokoro/b54300233f4826c5.mp3",
+      "text": "谁",
+      "phonemes": "ㄕㄟ2"
+    },
+    {
+      "path": "audio/kokoro/7708cc7f389c284e.mp3",
+      "text": "这是谁的房间？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f661b5b92683b061.mp3",
+      "text": "房间",
+      "phonemes": "ㄈㄤ2ㄐ言1"
+    },
+    {
+      "path": "audio/kokoro/541c8b774ba9cf7f.mp3",
+      "text": "和",
+      "phonemes": "ㄏㄜ2"
+    },
+    {
+      "path": "audio/kokoro/205351737efdfe86.mp3",
+      "text": "这是我和我丈夫的，旁边那个小的房间是我女儿的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7928a7bb9ba6c348.mp3",
+      "text": "丈夫",
+      "phonemes": "ㄓㄤ4ㄈㄨ5"
+    },
+    {
+      "path": "audio/kokoro/c38292d508b77ace.mp3",
+      "text": "旁边",
+      "phonemes": "ㄆㄤ2ㄅ言1"
+    },
+    {
+      "path": "audio/kokoro/4a852d8d1fbd9322.mp3",
+      "text": "那个",
+      "phonemes": "ㄋㄚ4ㄍㄜ5"
+    },
+    {
+      "path": "audio/kokoro/9e733d3167957ebb.mp3",
+      "text": "小",
+      "phonemes": "ㄒ要3"
+    },
+    {
+      "path": "audio/kokoro/6a899129c43b435e.mp3",
+      "text": "女儿",
+      "phonemes": "ㄋㄩ3ㄦ2"
+    },
+    {
+      "path": "audio/kokoro/26c47686cb465ade.mp3",
+      "text": "真",
+      "phonemes": "ㄓㄣ1"
+    },
+    {
+      "path": "audio/kokoro/2cc96586c7b0d8b5.mp3",
+      "text": "你女儿的房间真漂亮！都是粉色的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e61eb493b2e02f05.mp3",
+      "text": "粉色",
+      "phonemes": "ㄈㄣ3ㄙㄜ4"
+    },
+    {
+      "path": "audio/kokoro/9970578395e645c1.mp3",
+      "text": "颜色",
+      "phonemes": "言2ㄙㄜ4"
+    },
+    {
+      "path": "audio/kokoro/debf7ee12071f27f.mp3",
+      "text": "是啊，粉色是我女儿最喜欢的颜色。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/68806c678c7a291b.mp3",
+      "text": "看见",
+      "phonemes": "ㄎㄢ4ㄐ言4"
+    },
+    {
+      "path": "audio/kokoro/bbcea973205f011a.mp3",
+      "text": "你看见我的杯子了吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4017a308986d3670.mp3",
+      "text": "杯子",
+      "phonemes": "ㄅㄟ1ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/16371c4026eb8e84.mp3",
+      "text": "这里",
+      "phonemes": "ㄓㄜ4ㄌㄧ3"
+    },
+    {
+      "path": "audio/kokoro/88c6dc45f26898b2.mp3",
+      "text": "这里有几个杯子，哪个是你的？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/921054b75405a26b.mp3",
+      "text": "哪个",
+      "phonemes": "ㄋㄚ3ㄍㄜ5"
+    },
+    {
+      "path": "audio/kokoro/006908aa4580fcc2.mp3",
+      "text": "左边",
+      "phonemes": "ㄗ我3ㄅ言1"
+    },
+    {
+      "path": "audio/kokoro/db557ee436644fb8.mp3",
+      "text": "左边那个红色的是我的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/898e176d562c2770.mp3",
+      "text": "红色",
+      "phonemes": "ㄏ中2ㄙㄜ4"
+    },
+    {
+      "path": "audio/kokoro/2a756cb716171f7d.mp3",
+      "text": "给",
+      "phonemes": "ㄍㄟ3"
+    },
+    {
+      "path": "audio/kokoro/9e338540ec62cc7e.mp3",
+      "text": "给你。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/eb1e6fedb009b048.mp3",
+      "text": "生日",
+      "phonemes": "ㄕㄥ1ㄖ十4"
+    },
+    {
+      "path": "audio/kokoro/98371a9fdcf3ce7e.mp3",
+      "text": "生日快乐！这是送给你的！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/92a09b5b55b2a1eb.mp3",
+      "text": "快乐",
+      "phonemes": "ㄎ外4ㄌㄜ4"
+    },
+    {
+      "path": "audio/kokoro/7cef1243219e015a.mp3",
+      "text": "送给",
+      "phonemes": "ㄙ中4ㄍㄟ3"
+    },
+    {
+      "path": "audio/kokoro/5c00787690de74ca.mp3",
+      "text": "一",
+      "phonemes": "ㄧ4"
+    },
+    {
+      "path": "audio/kokoro/a08577a6418cbd3e.mp3",
+      "text": "是什么？是一本书吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3c3cfa6114196572.mp3",
+      "text": "本",
+      "phonemes": "ㄅㄣ3"
+    },
+    {
+      "path": "audio/kokoro/24d9f9d36be6ca75.mp3",
+      "text": "书",
+      "phonemes": "ㄕㄨ1"
+    },
+    {
+      "path": "audio/kokoro/ba5ff9b6cfa00bb8.mp3",
+      "text": "对",
+      "phonemes": "ㄉ为4"
+    },
+    {
+      "path": "audio/kokoro/d4bbb91f30baac22.mp3",
+      "text": "对，这本书是我写的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2f30e4d310a8b4f1.mp3",
+      "text": "写",
+      "phonemes": "ㄒㄝ3"
+    },
+    {
+      "path": "audio/kokoro/adeee36f05d91c85.mp3",
+      "text": "太",
+      "phonemes": "ㄊㄞ4"
+    },
+    {
+      "path": "audio/kokoro/5b3946d62eaad95d.mp3",
+      "text": "太谢谢你了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d234e3666f26880e.mp3",
+      "text": "谢谢",
+      "phonemes": "ㄒㄝ4ㄒㄝ4"
+    },
+    {
+      "path": "audio/kokoro/28d0824d98353013.mp3",
+      "text": "一个",
+      "phonemes": "ㄧ2ㄍㄜ4"
+    },
+    {
+      "path": "audio/kokoro/c47438da49b95711.mp3",
+      "text": "早上有你一个电话。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c6ce92610cb30a8f.mp3",
+      "text": "电话",
+      "phonemes": "ㄉ言4ㄏ穵4"
+    },
+    {
+      "path": "audio/kokoro/6bb8dc3a3ca539b1.mp3",
+      "text": "谁",
+      "phonemes": "ㄕ为2"
+    },
+    {
+      "path": "audio/kokoro/c0e84c669b210ff3.mp3",
+      "text": "电话是谁打的？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e42975f089fdcd5e.mp3",
+      "text": "打",
+      "phonemes": "ㄉㄚ3"
+    },
+    {
+      "path": "audio/kokoro/58c4cfcbc5c0db6f.mp3",
+      "text": "的",
+      "phonemes": "ㄉㄧ1"
+    },
+    {
+      "path": "audio/kokoro/551fd73c1fbd1146.mp3",
+      "text": "儿子",
+      "phonemes": "ㄦ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/e83f261eb3806b44.mp3",
+      "text": "不知道，是儿子接的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ee300da0a2a7f045.mp3",
+      "text": "接",
+      "phonemes": "ㄐㄝ1"
+    },
+    {
+      "path": "audio/kokoro/029a8126c45a570d.mp3",
+      "text": "晚上",
+      "phonemes": "万3ㄕㄤ5"
+    },
+    {
+      "path": "audio/kokoro/1eaaa3616b49a8c6.mp3",
+      "text": "好，晚上我问一下儿子。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/dc0812ec42efd383.mp3",
+      "text": "问",
+      "phonemes": "文4"
+    },
+    {
+      "path": "audio/kokoro/04e3265b9e6b9d41.mp3",
+      "text": "非常",
+      "phonemes": "ㄈㄟ1ㄔㄤ2"
+    },
+    {
+      "path": "audio/kokoro/62a7c21d0d057473.mp3",
+      "text": "非常喜欢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/54023b674a9cdee2.mp3",
+      "text": "开始",
+      "phonemes": "ㄎㄞ1ㄕ十3"
+    },
+    {
+      "path": "audio/kokoro/54910e1bd1be9be0.mp3",
+      "text": "你是什么时候开始踢足球的？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/52f4b472b0ca6641.mp3",
+      "text": "十一",
+      "phonemes": "ㄕ十2ㄧ1"
+    },
+    {
+      "path": "audio/kokoro/4bd90d38b02d8008.mp3",
+      "text": "我十一岁的时候开始踢足球，已经踢了十年了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4f5baab4f54c89d5.mp3",
+      "text": "岁",
+      "phonemes": "ㄙ为4"
+    },
+    {
+      "path": "audio/kokoro/2870c2cf4b9f54ee.mp3",
+      "text": "时候",
+      "phonemes": "ㄕ十2ㄏㄡ5"
+    },
+    {
+      "path": "audio/kokoro/ae5197cd0fa29ae7.mp3",
+      "text": "已经",
+      "phonemes": "ㄧ3ㄐ应1"
+    },
+    {
+      "path": "audio/kokoro/33658226e886bdbd.mp3",
+      "text": "踢",
+      "phonemes": "ㄊㄧ1"
+    },
+    {
+      "path": "audio/kokoro/a5dd700ca795be33.mp3",
+      "text": "十",
+      "phonemes": "ㄕ十2"
+    },
+    {
+      "path": "audio/kokoro/347a26994e7b1ba1.mp3",
+      "text": "年",
+      "phonemes": "ㄋ言2"
+    },
+    {
+      "path": "audio/kokoro/b9d6c4d0be40cc9d.mp3",
+      "text": "在",
+      "phonemes": "ㄗㄞ4"
+    },
+    {
+      "path": "audio/kokoro/d919fd43eeeb772f.mp3",
+      "text": "你在这儿工作多长时间了？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7083af0412d02f7e.mp3",
+      "text": "这儿",
+      "phonemes": "ㄓㄜR4"
+    },
+    {
+      "path": "audio/kokoro/ea9d820a81b0174f.mp3",
+      "text": "工作",
+      "phonemes": "ㄍ中1ㄗ我4"
+    },
+    {
+      "path": "audio/kokoro/57422df2a3a4688a.mp3",
+      "text": "多长时间",
+      "phonemes": "ㄉ我1ㄔㄤ2ㄕ十2ㄐ言1"
+    },
+    {
+      "path": "audio/kokoro/b52a07d63bc20cc4.mp3",
+      "text": "两",
+      "phonemes": "ㄌ阳3"
+    },
+    {
+      "path": "audio/kokoro/9c1cd2d058b076cd.mp3",
+      "text": "已经两年多了，我是2011年来的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6432e9e9b71ca36c.mp3",
+      "text": "认识",
+      "phonemes": "ㄖㄣ4ㄕ十5"
+    },
+    {
+      "path": "audio/kokoro/7f537feefd69190b.mp3",
+      "text": "你认识谢先生吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c86c51f3e77e50c5.mp3",
+      "text": "谢先生",
+      "phonemes": "ㄒㄝ4ㄒ言1ㄕㄥ1"
+    },
+    {
+      "path": "audio/kokoro/505c9ad2c6ad0930.mp3",
+      "text": "大学",
+      "phonemes": "ㄉㄚ4ㄒ月2"
+    },
+    {
+      "path": "audio/kokoro/157b953a75c17a51.mp3",
+      "text": "认识，我们是大学同学，这个工作是他帮我介绍的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a4df9dc7d72e78f8.mp3",
+      "text": "这个",
+      "phonemes": "ㄓㄜ4ㄍㄜ5"
+    },
+    {
+      "path": "audio/kokoro/08725eef43345095.mp3",
+      "text": "帮",
+      "phonemes": "ㄅㄤ1"
+    },
+    {
+      "path": "audio/kokoro/186d1cd83f7ab07d.mp3",
+      "text": "介绍",
+      "phonemes": "ㄐㄝ4ㄕㄠ4"
+    },
+    {
+      "path": "audio/kokoro/55fddae1d5548c9d.mp3",
+      "text": "饭馆",
+      "phonemes": "ㄈㄢ4ㄍ万3"
+    },
+    {
+      "path": "audio/kokoro/d4d945015db917df.mp3",
+      "text": "晚上我们去饭馆吃饭，怎么样？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/fdfa7a0992e08ba8.mp3",
+      "text": "吃饭",
+      "phonemes": "ㄔ十1ㄈㄢ4"
+    },
+    {
+      "path": "audio/kokoro/67e438f8a073d177.mp3",
+      "text": "不想",
+      "phonemes": "ㄅㄨ4ㄒ阳3"
+    },
+    {
+      "path": "audio/kokoro/a25ebf152f058511.mp3",
+      "text": "我不想去外面吃，我想在家吃。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d3923950a961ab3b.mp3",
+      "text": "外面",
+      "phonemes": "外4ㄇ言4"
+    },
+    {
+      "path": "audio/kokoro/f05739c7e418249b.mp3",
+      "text": "想",
+      "phonemes": "ㄒ阳3"
+    },
+    {
+      "path": "audio/kokoro/4f515e0827f64f21.mp3",
+      "text": "在家",
+      "phonemes": "ㄗㄞ4ㄐ压1"
+    },
+    {
+      "path": "audio/kokoro/28a4f9a38d0a58c9.mp3",
+      "text": "准备",
+      "phonemes": "ㄓ文3ㄅㄟ4"
+    },
+    {
+      "path": "audio/kokoro/cc6c79798ba23f38.mp3",
+      "text": "那你准备做什么呢？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/07e96c8bf06d83d2.mp3",
+      "text": "做",
+      "phonemes": "ㄗ我4"
+    },
+    {
+      "path": "audio/kokoro/ffc41a9fc6d23714.mp3",
+      "text": "呢",
+      "phonemes": "ㄋㄜ5"
+    },
+    {
+      "path": "audio/kokoro/3c03a73edb004567.mp3",
+      "text": "就",
+      "phonemes": "ㄐ又4"
+    },
+    {
+      "path": "audio/kokoro/e1f8aac2059fde4f.mp3",
+      "text": "就做你爱吃的鱼吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e804471cb894860d.mp3",
+      "text": "爱",
+      "phonemes": "ㄞ4"
+    },
+    {
+      "path": "audio/kokoro/e3396e21a2f15fb5.mp3",
+      "text": "鱼",
+      "phonemes": "ㄩ2"
+    },
+    {
+      "path": "audio/kokoro/a4f3e841af2ad1d4.mp3",
+      "text": "件",
+      "phonemes": "ㄐ言4"
+    },
+    {
+      "path": "audio/kokoro/e6df3897ddf31a0c.mp3",
+      "text": "帮我看一下这件衣服怎么样。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/dee1fc957d2374ec.mp3",
+      "text": "衣服",
+      "phonemes": "ㄧ1ㄈㄨ5"
+    },
+    {
+      "path": "audio/kokoro/d48033e79dcc9aa1.mp3",
+      "text": "还",
+      "phonemes": "ㄏㄞ2"
+    },
+    {
+      "path": "audio/kokoro/2558be72538f4ca6.mp3",
+      "text": "颜色还可以，就是有点儿大。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b1f099f02d201156.mp3",
+      "text": "可以",
+      "phonemes": "ㄎㄜ2ㄧ3"
+    },
+    {
+      "path": "audio/kokoro/c11c268f06432275.mp3",
+      "text": "就是",
+      "phonemes": "ㄐ又4ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/f67aee4cf1b04c34.mp3",
+      "text": "有点儿",
+      "phonemes": "又2ㄉ言R3"
+    },
+    {
+      "path": "audio/kokoro/f25b778f29f9a38d.mp3",
+      "text": "不错",
+      "phonemes": "ㄅㄨ2ㄘ我4"
+    },
+    {
+      "path": "audio/kokoro/1ab835fb0873bc3b.mp3",
+      "text": "这件不错，就买这件吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/37db6888958c9bbd.mp3",
+      "text": "去不去",
+      "phonemes": "ㄑㄩ4ㄅㄨ5ㄑㄩ4"
+    },
+    {
+      "path": "audio/kokoro/dd4648557860cb11.mp3",
+      "text": "今天去不去打球？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f54e4660a73b9b4c.mp3",
+      "text": "打球",
+      "phonemes": "ㄉㄚ3ㄑ又2"
+    },
+    {
+      "path": "audio/kokoro/e46b15cd7e8f4637.mp3",
+      "text": "两天",
+      "phonemes": "ㄌ阳3ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/bf390de49d8576e3.mp3",
+      "text": "这两天有点儿累，不去打球了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ccd2f567b3471d6f.mp3",
+      "text": "不去",
+      "phonemes": "ㄅㄨ2ㄑㄩ4"
+    },
+    {
+      "path": "audio/kokoro/2906407029889d1a.mp3",
+      "text": "考试",
+      "phonemes": "ㄎㄠ3ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/5df1aa74f30ba45c.mp3",
+      "text": "你在做什么呢？是在想昨天的考试吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7ce78825de21d9b1.mp3",
+      "text": "读",
+      "phonemes": "ㄉㄨ2"
+    },
+    {
+      "path": "audio/kokoro/e5a5d3af746da96d.mp3",
+      "text": "是啊，我觉得听和说还可以，读和写不好，很多字我都不知道是什么意思。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1da012511c95b5eb.mp3",
+      "text": "不好",
+      "phonemes": "ㄅㄨ4ㄏㄠ3"
+    },
+    {
+      "path": "audio/kokoro/6cf2b33256844c7c.mp3",
+      "text": "很多",
+      "phonemes": "ㄏㄣ3ㄉ我1"
+    },
+    {
+      "path": "audio/kokoro/eefe4ed8275ee62b.mp3",
+      "text": "字",
+      "phonemes": "ㄗㄭ4"
+    },
+    {
+      "path": "audio/kokoro/a8fb50a17e56066e.mp3",
+      "text": "意思",
+      "phonemes": "ㄧ4ㄙㄭ5"
+    },
+    {
+      "path": "audio/kokoro/a009b1a4cec3e695.mp3",
+      "text": "喝",
+      "phonemes": "ㄏㄜ1"
+    },
+    {
+      "path": "audio/kokoro/0d3db39d7e40f203.mp3",
+      "text": "休息一下吧，喝咖啡吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/53f757beeebf5347.mp3",
+      "text": "咖啡",
+      "phonemes": "ㄎㄚ1ㄈㄟ1"
+    },
+    {
+      "path": "audio/kokoro/db08d314805d79d7.mp3",
+      "text": "杯",
+      "phonemes": "ㄅㄟ1"
+    },
+    {
+      "path": "audio/kokoro/6bd3b7e63638b5ae.mp3",
+      "text": "不喝了，我已经喝两杯了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/534e116930540b56.mp3",
+      "text": "喝多",
+      "phonemes": "ㄏㄜ1ㄉ我1"
+    },
+    {
+      "path": "audio/kokoro/a7c5d7a9c66f7797.mp3",
+      "text": "是啊，咖啡喝多了对身体不好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/31ba5879f1621083.mp3",
+      "text": "以后",
+      "phonemes": "ㄧ3ㄏㄡ4"
+    },
+    {
+      "path": "audio/kokoro/dbb0f566a7aac0a6.mp3",
+      "text": "以后我少喝一点儿，每天喝一杯。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/89f76b0397c0d2d0.mp3",
+      "text": "少",
+      "phonemes": "ㄕㄠ3"
+    },
+    {
+      "path": "audio/kokoro/8b0a5cae0ce9df92.mp3",
+      "text": "一点儿",
+      "phonemes": "ㄧ4ㄉ言R3"
+    },
+    {
+      "path": "audio/kokoro/e0e7e04a85ee5a6c.mp3",
+      "text": "小王",
+      "phonemes": "ㄒ要3王2"
+    },
+    {
+      "path": "audio/kokoro/f364aff103328676.mp3",
+      "text": "你知道小王今天什么时候来学校吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/01bd815169eacdfc.mp3",
+      "text": "学校",
+      "phonemes": "ㄒ月2ㄒ要4"
+    },
+    {
+      "path": "audio/kokoro/2509414942961a24.mp3",
+      "text": "门外",
+      "phonemes": "ㄇㄣ2外4"
+    },
+    {
+      "path": "audio/kokoro/aa5f8900f96d0df2.mp3",
+      "text": "我在门外看见他的自行车了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1a486795137e0b7b.mp3",
+      "text": "自行车",
+      "phonemes": "ㄗㄭ4ㄒ应2ㄔㄜ1"
+    },
+    {
+      "path": "audio/kokoro/86733746ca060e64.mp3",
+      "text": "羊肉",
+      "phonemes": "阳2ㄖㄡ4"
+    },
+    {
+      "path": "audio/kokoro/1b6df2f354882ab8.mp3",
+      "text": "今天的羊肉很好吃，你怎么不吃了？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2db487b014c3a505.mp3",
+      "text": "好吃",
+      "phonemes": "ㄏㄠ3ㄔ十1"
+    },
+    {
+      "path": "audio/kokoro/7efb47a72decf6d6.mp3",
+      "text": "不吃",
+      "phonemes": "ㄅㄨ4ㄔ十1"
+    },
+    {
+      "path": "audio/kokoro/94d9fee4bb8c9540.mp3",
+      "text": "星期天",
+      "phonemes": "ㄒ应1ㄑㄧ1ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/b66a79db64045769.mp3",
+      "text": "这个星期天天都吃羊肉，不想吃了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/fa9d362ab73f46fa.mp3",
+      "text": "面条",
+      "phonemes": "ㄇ言4ㄊ要2"
+    },
+    {
+      "path": "audio/kokoro/c28e27fcc1f2ff08.mp3",
+      "text": "来一点儿面条吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c9ab42920b6656d9.mp3",
+      "text": "你们",
+      "phonemes": "ㄋㄧ3ㄇㄣ5"
+    },
+    {
+      "path": "audio/kokoro/6463d93973991882.mp3",
+      "text": "昨天你们怎么都没去打篮球？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/dd59cc0d6653f609.mp3",
+      "text": "没",
+      "phonemes": "ㄇㄟ2"
+    },
+    {
+      "path": "audio/kokoro/2d98c00e40e4bd44.mp3",
+      "text": "打篮球",
+      "phonemes": "ㄉㄚ3ㄌㄢ2ㄑ又2"
+    },
+    {
+      "path": "audio/kokoro/7f3aa58663ff6869.mp3",
+      "text": "因为",
+      "phonemes": "阴1为4"
+    },
+    {
+      "path": "audio/kokoro/f9a01c32fae7e30d.mp3",
+      "text": "因为昨天下雨，所以我们都没去。我去游泳了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/09c61b5e4547a7c3.mp3",
+      "text": "下雨",
+      "phonemes": "ㄒ压4ㄩ3"
+    },
+    {
+      "path": "audio/kokoro/f73499ad336939fb.mp3",
+      "text": "所以",
+      "phonemes": "ㄙ我2ㄧ3"
+    },
+    {
+      "path": "audio/kokoro/5e821d34abe6f55d.mp3",
+      "text": "游泳",
+      "phonemes": "又2用3"
+    },
+    {
+      "path": "audio/kokoro/e66bbc3479aa5843.mp3",
+      "text": "经常",
+      "phonemes": "ㄐ应1ㄔㄤ2"
+    },
+    {
+      "path": "audio/kokoro/b3a8b184c8beea6c.mp3",
+      "text": "你经常游泳吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c801daf8adb22bca.mp3",
+      "text": "天天",
+      "phonemes": "ㄊ言1ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/dd29ac436d6ed21c.mp3",
+      "text": "这个月我天天游泳，我现在七十公斤了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/040cbda593dbcbab.mp3",
+      "text": "七十",
+      "phonemes": "ㄑㄧ1ㄕ十2"
+    },
+    {
+      "path": "audio/kokoro/b92644c3f8a3bcf0.mp3",
+      "text": "公斤",
+      "phonemes": "ㄍ中1ㄐ阴1"
+    },
+    {
+      "path": "audio/kokoro/91e8cdc1a90d8725.mp3",
+      "text": "小张",
+      "phonemes": "ㄒ要3ㄓㄤ1"
+    },
+    {
+      "path": "audio/kokoro/646e6f628c586179.mp3",
+      "text": "这两天怎么没看见小张？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4beac890924599cb.mp3",
+      "text": "听说",
+      "phonemes": "ㄊ应1ㄕ我1"
+    },
+    {
+      "path": "audio/kokoro/5472c4313c70cd49.mp3",
+      "text": "不是，听说是去看他姐姐。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/79d6dfd1e375e93a.mp3",
+      "text": "姐姐",
+      "phonemes": "ㄐㄝ3ㄐㄝ5"
+    },
+    {
+      "path": "audio/kokoro/4c0d436ac594a9b9.mp3",
+      "text": "教室",
+      "phonemes": "ㄐ要4ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/3c4ad6246c245d2f.mp3",
+      "text": "没有，他还在教室学习呢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9d26ac1cfbd17a7f.mp3",
+      "text": "学习",
+      "phonemes": "ㄒ月2ㄒㄧ2"
+    },
+    {
+      "path": "audio/kokoro/1a97180cbb9c8a77.mp3",
+      "text": "好好",
+      "phonemes": "ㄏㄠ2ㄏㄠ3"
+    },
+    {
+      "path": "audio/kokoro/7c159602c5a07dab.mp3",
+      "text": "明天有考试，他说今天要好好准备。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a3d513ccb6c34a2b.mp3",
+      "text": "哪儿",
+      "phonemes": "ㄋㄚR3"
+    },
+    {
+      "path": "audio/kokoro/2caeb607347b1959.mp3",
+      "text": "你现在在哪儿呢？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/69a627174a55cc05.mp3",
+      "text": "机场",
+      "phonemes": "ㄐㄧ1ㄔㄤ3"
+    },
+    {
+      "path": "audio/kokoro/1c14fca3c50fc02c.mp3",
+      "text": "在去机场的路上。你已经到了吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7382a3f0f030fdf4.mp3",
+      "text": "路上",
+      "phonemes": "ㄌㄨ4ㄕㄤ4"
+    },
+    {
+      "path": "audio/kokoro/6b881e6f362d3888.mp3",
+      "text": "到",
+      "phonemes": "ㄉㄠ4"
+    },
+    {
+      "path": "audio/kokoro/e2c0f1b0a9212e89.mp3",
+      "text": "下",
+      "phonemes": "ㄒ压4"
+    },
+    {
+      "path": "audio/kokoro/b3a6d0f3135118fe.mp3",
+      "text": "我下飞机了。你还有多长时间能到这儿？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f7ee5a7488641005.mp3",
+      "text": "飞机",
+      "phonemes": "ㄈㄟ1ㄐㄧ1"
+    },
+    {
+      "path": "audio/kokoro/b50cf07fc83ba67a.mp3",
+      "text": "还有",
+      "phonemes": "ㄏㄞ2又3"
+    },
+    {
+      "path": "audio/kokoro/82e03c258cc12921.mp3",
+      "text": "二十",
+      "phonemes": "ㄦ4ㄕ十2"
+    },
+    {
+      "path": "audio/kokoro/feb11467d40ede16.mp3",
+      "text": "二十分钟就到。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b3a28b2d017016a2.mp3",
+      "text": "分钟",
+      "phonemes": "ㄈㄣ1ㄓ中1"
+    },
+    {
+      "path": "audio/kokoro/d079acc97b5163f6.mp3",
+      "text": "家",
+      "phonemes": "ㄐ压1"
+    },
+    {
+      "path": "audio/kokoro/8c66d0cc6dd1c157.mp3",
+      "text": "你家离公司远吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9737b4408434d2a3.mp3",
+      "text": "离",
+      "phonemes": "ㄌㄧ2"
+    },
+    {
+      "path": "audio/kokoro/803c0cbe6d3a3ceb.mp3",
+      "text": "公司",
+      "phonemes": "ㄍ中1ㄙㄭ1"
+    },
+    {
+      "path": "audio/kokoro/cdf4faad62d1eea8.mp3",
+      "text": "远",
+      "phonemes": "元3"
+    },
+    {
+      "path": "audio/kokoro/2e0674fc350c45aa.mp3",
+      "text": "坐",
+      "phonemes": "ㄗ我4"
+    },
+    {
+      "path": "audio/kokoro/e8b5abdba54f3acc.mp3",
+      "text": "很远，坐公共汽车要一个多小时呢！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/fb09adf3f3d029d1.mp3",
+      "text": "公共汽车",
+      "phonemes": "ㄍ中1ㄍ中4ㄑㄧ4ㄔㄜ1"
+    },
+    {
+      "path": "audio/kokoro/0513eda8910c05f6.mp3",
+      "text": "一",
+      "phonemes": "ㄧ2"
+    },
+    {
+      "path": "audio/kokoro/34a77002e78ce416.mp3",
+      "text": "小时",
+      "phonemes": "ㄒ要3ㄕ十2"
+    },
+    {
+      "path": "audio/kokoro/98a5b4f0abdb89b5.mp3",
+      "text": "慢",
+      "phonemes": "ㄇㄢ4"
+    },
+    {
+      "path": "audio/kokoro/91d317e2d82f9891.mp3",
+      "text": "坐公共汽车太慢了，你怎么不开车？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ac35ea38fa0d922d.mp3",
+      "text": "开车",
+      "phonemes": "ㄎㄞ1ㄔㄜ1"
+    },
+    {
+      "path": "audio/kokoro/966f80c0e51a1498.mp3",
+      "text": "快",
+      "phonemes": "ㄎ外4"
+    },
+    {
+      "path": "audio/kokoro/d16d29c440fb408f.mp3",
+      "text": "开车也不快，路上车太多了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/69fd7f66fbf7bb72.mp3",
+      "text": "车",
+      "phonemes": "ㄔㄜ1"
+    },
+    {
+      "path": "audio/kokoro/baca8f7e4ec8148e.mp3",
+      "text": "过",
+      "phonemes": "ㄍ我4"
+    },
+    {
+      "path": "audio/kokoro/228bcbdfa6a63629.mp3",
+      "text": "今天晚上我们一起吃饭吧，给你过生日。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8e5419a27e49da5e.mp3",
+      "text": "星期",
+      "phonemes": "ㄒ应1ㄑㄧ1"
+    },
+    {
+      "path": "audio/kokoro/ec62c12ff1f85836.mp3",
+      "text": "今天？离我的生日还有一个多星期呢！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c68b0c855e3f7d52.mp3",
+      "text": "中国",
+      "phonemes": "ㄓ中1ㄍ我2"
+    },
+    {
+      "path": "audio/kokoro/7be585a05ec0a02d.mp3",
+      "text": "好吧，离这儿不远有一个中国饭馆，走几分钟就到了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/53038ca21de432e4.mp3",
+      "text": "走",
+      "phonemes": "ㄗㄡ3"
+    },
+    {
+      "path": "audio/kokoro/5de727fe8f707569.mp3",
+      "text": "电影",
+      "phonemes": "ㄉ言4应3"
+    },
+    {
+      "path": "audio/kokoro/9ca349e47ff9a80a.mp3",
+      "text": "我们下午去看电影，好吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a17a99cbef8b660e.mp3",
+      "text": "今天下午",
+      "phonemes": "ㄐ阴1ㄊ言1ㄒ压4ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/67b733c87a8e1554.mp3",
+      "text": "今天下午我没有时间，明天下午再去吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f44e5d5003f8e3d7.mp3",
+      "text": "再",
+      "phonemes": "ㄗㄞ4"
+    },
+    {
+      "path": "audio/kokoro/1486a154b4489710.mp3",
+      "text": "让",
+      "phonemes": "ㄖㄤ4"
+    },
+    {
+      "path": "audio/kokoro/fbf35ee78afa135b.mp3",
+      "text": "让我想想再告诉你。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/370c52e9267bf944.mp3",
+      "text": "想想",
+      "phonemes": "ㄒ阳2ㄒ阳3"
+    },
+    {
+      "path": "audio/kokoro/034c17986fb10bd8.mp3",
+      "text": "告诉",
+      "phonemes": "ㄍㄠ4ㄙㄨ5"
+    },
+    {
+      "path": "audio/kokoro/68c69ade74a73a60.mp3",
+      "text": "外边",
+      "phonemes": "外4ㄅ言1"
+    },
+    {
+      "path": "audio/kokoro/0701a79526f6b3d9.mp3",
+      "text": "外边天气很好，我们出去运动运动吧！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f7ec767fe0faecc2.mp3",
+      "text": "等等",
+      "phonemes": "ㄉㄥ2ㄉㄥ3"
+    },
+    {
+      "path": "audio/kokoro/4db4161bf7b2b1c8.mp3",
+      "text": "你等等我，好吗？王老师让我给大卫打个电话。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0c8a53e777c0e260.mp3",
+      "text": "王老师",
+      "phonemes": "王2ㄌㄠ3ㄕ十1"
+    },
+    {
+      "path": "audio/kokoro/c02e246411f8abf8.mp3",
+      "text": "找",
+      "phonemes": "ㄓㄠ3"
+    },
+    {
+      "path": "audio/kokoro/fee9135078c1fa99.mp3",
+      "text": "回来再打吧。找大卫有什么事情吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5a1cfb820201f0d1.mp3",
+      "text": "事情",
+      "phonemes": "ㄕ十4ㄑ应2"
+    },
+    {
+      "path": "audio/kokoro/7ac60acfde39ec7f.mp3",
+      "text": "病",
+      "phonemes": "ㄅ应4"
+    },
+    {
+      "path": "audio/kokoro/1590fc5c544732be.mp3",
+      "text": "听说大卫病了，我想找时间去看看他。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/908167a27e18ed8e.mp3",
+      "text": "看看",
+      "phonemes": "ㄎㄢ4ㄎㄢ4"
+    },
+    {
+      "path": "audio/kokoro/21716c94ffb9891c.mp3",
+      "text": "服务员",
+      "phonemes": "ㄈㄨ2ㄨ4元2"
+    },
+    {
+      "path": "audio/kokoro/a0f4f7210bb75fda.mp3",
+      "text": "服务员，我房间的门打不开了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5f59c3baf8319600.mp3",
+      "text": "门",
+      "phonemes": "ㄇㄣ2"
+    },
+    {
+      "path": "audio/kokoro/821c6aa94ef890d6.mp3",
+      "text": "打不开",
+      "phonemes": "ㄉㄚ3ㄅㄨ4ㄎㄞ1"
+    },
+    {
+      "path": "audio/kokoro/321be021ff809537.mp3",
+      "text": "您",
+      "phonemes": "ㄋ阴2"
+    },
+    {
+      "path": "audio/kokoro/7dae38230867e802.mp3",
+      "text": "您住哪个房间？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/43a7650a0a79ee1d.mp3",
+      "text": "住",
+      "phonemes": "ㄓㄨ4"
+    },
+    {
+      "path": "audio/kokoro/2342602a933cd81a.mp3",
+      "text": "人",
+      "phonemes": "ㄖㄣ2"
+    },
+    {
+      "path": "audio/kokoro/22425a40facfeecc.mp3",
+      "text": "好的，我叫人去看看。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/698a789e57d7aa61.mp3",
+      "text": "白",
+      "phonemes": "ㄅㄞ2"
+    },
+    {
+      "path": "audio/kokoro/d92e5e4e5ebc0c6e.mp3",
+      "text": "这件白的有点儿长，那件黑的有点儿贵。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/071471d2f78b0234.mp3",
+      "text": "长",
+      "phonemes": "ㄔㄤ2"
+    },
+    {
+      "path": "audio/kokoro/9a6456dbde5361a1.mp3",
+      "text": "黑",
+      "phonemes": "ㄏㄟ1"
+    },
+    {
+      "path": "audio/kokoro/3544b85c57882a5e.mp3",
+      "text": "贵",
+      "phonemes": "ㄍ为4"
+    },
+    {
+      "path": "audio/kokoro/f944268130e18efd.mp3",
+      "text": "红",
+      "phonemes": "ㄏ中2"
+    },
+    {
+      "path": "audio/kokoro/1aacf037442bcd54.mp3",
+      "text": "这件红的呢？这是今天新来的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d482a97e8ed49ffe.mp3",
+      "text": "你好",
+      "phonemes": "ㄋㄧ2ㄏㄠ3"
+    },
+    {
+      "path": "audio/kokoro/8151210c0808c6a6.mp3",
+      "text": "你好！请问张欢在吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/119223a10b7833aa.mp3",
+      "text": "请问",
+      "phonemes": "ㄑ应3文4"
+    },
+    {
+      "path": "audio/kokoro/bbfb05684e94aeec.mp3",
+      "text": "张欢",
+      "phonemes": "ㄓㄤ1ㄏ万1"
+    },
+    {
+      "path": "audio/kokoro/786abac5c84ec30d.mp3",
+      "text": "打错",
+      "phonemes": "ㄉㄚ3ㄘ我4"
+    },
+    {
+      "path": "audio/kokoro/22a99bf25f39937e.mp3",
+      "text": "你打错了，我们这儿没有叫张欢的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/590b86040dfbb691.mp3",
+      "text": "对不起",
+      "phonemes": "ㄉ为4ㄅㄨ4ㄑㄧ3"
+    },
+    {
+      "path": "audio/kokoro/d12ea8bf0740dfe1.mp3",
+      "text": "对不起。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/632e2afc686753ec.mp3",
+      "text": "从",
+      "phonemes": "ㄘ中2"
+    },
+    {
+      "path": "audio/kokoro/a5ffe8077a94716e.mp3",
+      "text": "您从几岁开始学习跳舞？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8f37b1179e2feb3d.mp3",
+      "text": "几岁",
+      "phonemes": "ㄐㄧ3ㄙ为4"
+    },
+    {
+      "path": "audio/kokoro/b37097db3a607257.mp3",
+      "text": "跳舞",
+      "phonemes": "ㄊ要4ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/6518fb4914768467.mp3",
+      "text": "第一",
+      "phonemes": "ㄉㄧ4ㄧ1"
+    },
+    {
+      "path": "audio/kokoro/77046468acfd2b59.mp3",
+      "text": "我第一次跳舞是在七岁的时候。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4a2a70e4c93716cf.mp3",
+      "text": "次",
+      "phonemes": "ㄘㄭ4"
+    },
+    {
+      "path": "audio/kokoro/a5696885de79c471.mp3",
+      "text": "七岁",
+      "phonemes": "ㄑㄧ1ㄙ为4"
+    },
+    {
+      "path": "audio/kokoro/a1169cb67aa5a241.mp3",
+      "text": "希望",
+      "phonemes": "ㄒㄧ1王4"
+    },
+    {
+      "path": "audio/kokoro/d47b40f8ea19eda4.mp3",
+      "text": "我女儿今年也七岁了。我希望她能跟您学跳舞，可以吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/89590e1bcfa00307.mp3",
+      "text": "她",
+      "phonemes": "ㄊㄚ1"
+    },
+    {
+      "path": "audio/kokoro/5632186c3c8de73d.mp3",
+      "text": "跟",
+      "phonemes": "ㄍㄣ1"
+    },
+    {
+      "path": "audio/kokoro/d382a2da73099bff.mp3",
+      "text": "学",
+      "phonemes": "ㄒ月2"
+    },
+    {
+      "path": "audio/kokoro/7a76fb2b3120ee1d.mp3",
+      "text": "问题",
+      "phonemes": "文4ㄊㄧ2"
+    },
+    {
+      "path": "audio/kokoro/3c02edb7cb2b5c4a.mp3",
+      "text": "没问题，非常欢迎。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/bb320f42867115fb.mp3",
+      "text": "欢迎",
+      "phonemes": "ㄏ万1应2"
+    },
+    {
+      "path": "audio/kokoro/8dd5ed25f90d269a.mp3",
+      "text": "找到",
+      "phonemes": "ㄓㄠ3ㄉㄠ4"
+    },
+    {
+      "path": "audio/kokoro/fb9dbfa2ae6c7fd9.mp3",
+      "text": "你知道吗？大卫找到工作了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/947a43bcfa950c74.mp3",
+      "text": "太好了",
+      "phonemes": "ㄊㄞ4ㄏㄠ3ㄌㄜ5"
+    },
+    {
+      "path": "audio/kokoro/4742cf4b9337adeb.mp3",
+      "text": "太好了！他从什么时候开始上班？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7aeadb067b216bbb.mp3",
+      "text": "上班",
+      "phonemes": "ㄕㄤ4ㄅㄢ1"
+    },
+    {
+      "path": "audio/kokoro/25b34bcb0f711d9f.mp3",
+      "text": "第一",
+      "phonemes": "ㄉㄧ4ㄧ2"
+    },
+    {
+      "path": "audio/kokoro/1178d3b3ed26b050.mp3",
+      "text": "这是他的第一个工作，希望他能喜欢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/01664601c85e0739.mp3",
+      "text": "听懂",
+      "phonemes": "ㄊ应1ㄉ中3"
+    },
+    {
+      "path": "audio/kokoro/d9902990122d682d.mp3",
+      "text": "昨天的考试怎么样？你都听懂了吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f111501bad1a3110.mp3",
+      "text": "完",
+      "phonemes": "万2"
+    },
+    {
+      "path": "audio/kokoro/3aa14c5325ce60ef.mp3",
+      "text": "你都做完了没有？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7996efd0f09c34c2.mp3",
+      "text": "题",
+      "phonemes": "ㄊㄧ2"
+    },
+    {
+      "path": "audio/kokoro/e00c47593275a96c.mp3",
+      "text": "题太多，我没做完。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0214609313f79d31.mp3",
+      "text": "不要",
+      "phonemes": "ㄅㄨ2要4"
+    },
+    {
+      "path": "audio/kokoro/864e4d33c28d020d.mp3",
+      "text": "不要看电视了，明天上午还有汉语课呢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d2276a17d1ef37a1.mp3",
+      "text": "看电视",
+      "phonemes": "ㄎㄢ4ㄉ言4ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/0a1cb872bfde6b41.mp3",
+      "text": "上午",
+      "phonemes": "ㄕㄤ4ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/8330ac43c7ec67a3.mp3",
+      "text": "汉语",
+      "phonemes": "ㄏㄢ4ㄩ3"
+    },
+    {
+      "path": "audio/kokoro/04270e2dbd214b9a.mp3",
+      "text": "课",
+      "phonemes": "ㄎㄜ4"
+    },
+    {
+      "path": "audio/kokoro/40443b981f069396.mp3",
+      "text": "帮助",
+      "phonemes": "ㄅㄤ1ㄓㄨ4"
+    },
+    {
+      "path": "audio/kokoro/61654dc687be3423.mp3",
+      "text": "看电视对学汉语有帮助。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3914e3c4d8abf2aa.mp3",
+      "text": "别",
+      "phonemes": "ㄅㄝ2"
+    },
+    {
+      "path": "audio/kokoro/c517df08f5a0b85f.mp3",
+      "text": "别看报纸了，医生说你要多休息。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a814b5219a3d06d6.mp3",
+      "text": "茶",
+      "phonemes": "ㄔㄚ2"
+    },
+    {
+      "path": "audio/kokoro/cb051196dacaa611.mp3",
+      "text": "好，不看了。给我一杯茶吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/320b7ec36be123be.mp3",
+      "text": "后",
+      "phonemes": "ㄏㄡ4"
+    },
+    {
+      "path": "audio/kokoro/dbda67c440c5d880.mp3",
+      "text": "医生说吃药后两个小时不要喝茶。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ca363b51fa8465cf.mp3",
+      "text": "喝茶",
+      "phonemes": "ㄏㄜ1ㄔㄚ2"
+    },
+    {
+      "path": "audio/kokoro/b7a124d694f69daf.mp3",
+      "text": "东西",
+      "phonemes": "ㄉ中1ㄒㄧ1"
+    },
+    {
+      "path": "audio/kokoro/2b3dd87dd223677b.mp3",
+      "text": "你怎么买了这么多东西啊？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d638bbb1cf7fc5ae.mp3",
+      "text": "哥哥",
+      "phonemes": "ㄍㄜ1ㄍㄜ5"
+    },
+    {
+      "path": "audio/kokoro/d48d91eb277b40d3.mp3",
+      "text": "哥哥今天中午回来吃饭。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5f4a4cb4d289e551.mp3",
+      "text": "中午",
+      "phonemes": "ㄓ中1ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/eefff7ede95110bb.mp3",
+      "text": "鸡蛋",
+      "phonemes": "ㄐㄧ1ㄉㄢ4"
+    },
+    {
+      "path": "audio/kokoro/ec59d405fabcf137.mp3",
+      "text": "我看看买什么了。羊肉、鸡蛋、面条、西瓜……真不少！妈妈呢？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/170405c6c1a867fc.mp3",
+      "text": "西瓜",
+      "phonemes": "ㄒㄧ1ㄍ穵1"
+    },
+    {
+      "path": "audio/kokoro/0837f6218b7918b3.mp3",
+      "text": "不少",
+      "phonemes": "ㄅㄨ4ㄕㄠ3"
+    },
+    {
+      "path": "audio/kokoro/761269aac603eabf.mp3",
+      "text": "妈妈",
+      "phonemes": "ㄇㄚ1ㄇㄚ5"
+    },
+    {
+      "path": "audio/kokoro/f61d368d9fabd00f.mp3",
+      "text": "正在",
+      "phonemes": "ㄓㄥ4ㄗㄞ4"
+    },
+    {
+      "path": "audio/kokoro/5156b50a13b36aa0.mp3",
+      "text": "正在准备午饭呢！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e4fcbf8206b8b114.mp3",
+      "text": "午饭",
+      "phonemes": "ㄨ3ㄈㄢ4"
+    },
+    {
+      "path": "audio/kokoro/1082732460619f25.mp3",
+      "text": "手机",
+      "phonemes": "ㄕㄡ3ㄐㄧ1"
+    },
+    {
+      "path": "audio/kokoro/50bd5c559dcd740b.mp3",
+      "text": "你看见我的手机了吗？白色的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/14bf1c0fc5aa328c.mp3",
+      "text": "白色",
+      "phonemes": "ㄅㄞ2ㄙㄜ4"
+    },
+    {
+      "path": "audio/kokoro/f54d3d72bd102a14.mp3",
+      "text": "上",
+      "phonemes": "ㄕㄤ4"
+    },
+    {
+      "path": "audio/kokoro/016334aac266ef0e.mp3",
+      "text": "别找了，手机在桌子上呢，电脑旁边。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c6a39ca2df71aa3f.mp3",
+      "text": "电脑",
+      "phonemes": "ㄉ言4ㄋㄠ3"
+    },
+    {
+      "path": "audio/kokoro/848ab676690a1550.mp3",
+      "text": "洗",
+      "phonemes": "ㄒㄧ3"
+    },
+    {
+      "path": "audio/kokoro/b16bcd4deab25c4b.mp3",
+      "text": "那件衣服我帮你洗了，在外边呢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4bd33d87ac1db333.mp3",
+      "text": "王方",
+      "phonemes": "王2ㄈㄤ1"
+    },
+    {
+      "path": "audio/kokoro/2d39710c9daa9974.mp3",
+      "text": "王方，昨天和你一起唱歌的人是谁？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/654aceeb1a799f58.mp3",
+      "text": "唱歌",
+      "phonemes": "ㄔㄤ4ㄍㄜ1"
+    },
+    {
+      "path": "audio/kokoro/4f9c1288a1b1220f.mp3",
+      "text": "朋友",
+      "phonemes": "ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/kokoro/94ddf00abc27ef8a.mp3",
+      "text": "一个朋友。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a911472120fe7a5d.mp3",
+      "text": "男朋友",
+      "phonemes": "ㄋㄢ2ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/kokoro/a0e687081e1dd5f8.mp3",
+      "text": "什么朋友？是不是男朋友？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8d78dd3c42a0c862.mp3",
+      "text": "不是",
+      "phonemes": "ㄅㄨ5ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/fda805bf88aef632.mp3",
+      "text": "不是不是，我同学介绍的，昨天第一次见。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8aef05de8d468c64.mp3",
+      "text": "见",
+      "phonemes": "ㄐ言4"
+    },
+    {
+      "path": "audio/kokoro/3bd65fa031d91b5d.mp3",
+      "text": "女孩子",
+      "phonemes": "ㄋㄩ3ㄏㄞ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/9db784c218b4ffe6.mp3",
+      "text": "左边这个看报纸的女孩子是你姐姐吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8ec7385d3c0ad2d8.mp3",
+      "text": "右边",
+      "phonemes": "又4ㄅ言1"
+    },
+    {
+      "path": "audio/kokoro/0125077c5ae633dc.mp3",
+      "text": "是，右边写字的那个人是我哥哥。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5456d47c4a5d603a.mp3",
+      "text": "写字",
+      "phonemes": "ㄒㄝ3ㄗㄭ4"
+    },
+    {
+      "path": "audio/kokoro/84da5d003114b06f.mp3",
+      "text": "比",
+      "phonemes": "ㄅㄧ3"
+    },
+    {
+      "path": "audio/kokoro/e870836b4bf6ecda.mp3",
+      "text": "25岁，他比我大三岁。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0b9f630a0fe97ff6.mp3",
+      "text": "卖",
+      "phonemes": "ㄇㄞ4"
+    },
+    {
+      "path": "audio/kokoro/ef01c1848e8588a8.mp3",
+      "text": "今天的西瓜怎么卖？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2c862fb03d268b43.mp3",
+      "text": "五",
+      "phonemes": "ㄨ3"
+    },
+    {
+      "path": "audio/kokoro/50f88c6c67383fbd.mp3",
+      "text": "三块五一斤。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/46eac20c59b9f6d4.mp3",
+      "text": "一",
+      "phonemes": "ㄧ1"
+    },
+    {
+      "path": "audio/kokoro/94571feedc655b82.mp3",
+      "text": "斤",
+      "phonemes": "ㄐ阴1"
+    },
+    {
+      "path": "audio/kokoro/a78a947c9c64023e.mp3",
+      "text": "便宜",
+      "phonemes": "ㄆ言2ㄧ5"
+    },
+    {
+      "path": "audio/kokoro/1eb24272d7ed4bca.mp3",
+      "text": "比昨天便宜。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/423ca915c02445a7.mp3",
+      "text": "苹果",
+      "phonemes": "ㄆ应2ㄍ我3"
+    },
+    {
+      "path": "audio/kokoro/a3b438d1876d54ff.mp3",
+      "text": "是，苹果也比昨天便宜一些。您来点儿吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6915704bf1009898.mp3",
+      "text": "一些",
+      "phonemes": "ㄧ4ㄒㄝ1"
+    },
+    {
+      "path": "audio/kokoro/88daf5d483f2f7a1.mp3",
+      "text": "点儿",
+      "phonemes": "ㄉ言R3"
+    },
+    {
+      "path": "audio/kokoro/75ad7d73b3b62cfe.mp3",
+      "text": "前边",
+      "phonemes": "ㄑ言2ㄅ言1"
+    },
+    {
+      "path": "audio/kokoro/135e92a61123b26c.mp3",
+      "text": "前边说话的那个人就是我的汉语老师。你可能不认识她。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/37e68631bb4723aa.mp3",
+      "text": "说话",
+      "phonemes": "ㄕ我1ㄏ穵4"
+    },
+    {
+      "path": "audio/kokoro/1ffbc9300d043c5f.mp3",
+      "text": "老师",
+      "phonemes": "ㄌㄠ3ㄕ十1"
+    },
+    {
+      "path": "audio/kokoro/1f83d6d87103d0ff.mp3",
+      "text": "可能",
+      "phonemes": "ㄎㄜ3ㄋㄥ2"
+    },
+    {
+      "path": "audio/kokoro/38c9d29963e900e8.mp3",
+      "text": "去年",
+      "phonemes": "ㄑㄩ4ㄋ言2"
+    },
+    {
+      "path": "audio/kokoro/7d1b57704fea8ac2.mp3",
+      "text": "是去年来的，她姓王，28岁。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/de8c59f5530cade4.mp3",
+      "text": "姓",
+      "phonemes": "ㄒ应4"
+    },
+    {
+      "path": "audio/kokoro/0f718271f8e8eaec.mp3",
+      "text": "王",
+      "phonemes": "王2"
+    },
+    {
+      "path": "audio/kokoro/ef28177041e1bda5.mp3",
+      "text": "早起",
+      "phonemes": "ㄗㄠ2ㄑㄧ3"
+    },
+    {
+      "path": "audio/kokoro/b95fe75939c185df.mp3",
+      "text": "你比我早起一个小时。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f0e4089df6752768.mp3",
+      "text": "睡",
+      "phonemes": "ㄕ为4"
+    },
+    {
+      "path": "audio/kokoro/ce2da40472a5752c.mp3",
+      "text": "我睡得也早，我每天晚上十点就睡觉。早睡早起身体好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/36632999e4c735ac.mp3",
+      "text": "得",
+      "phonemes": "ㄉㄜ5"
+    },
+    {
+      "path": "audio/kokoro/88de96d303078a99.mp3",
+      "text": "早",
+      "phonemes": "ㄗㄠ3"
+    },
+    {
+      "path": "audio/kokoro/bfe925299d07b3be.mp3",
+      "text": "睡觉",
+      "phonemes": "ㄕ为4ㄐ要4"
+    },
+    {
+      "path": "audio/kokoro/af846d0d09971f2f.mp3",
+      "text": "早睡早起",
+      "phonemes": "ㄗㄠ3ㄕ为4ㄗㄠ2ㄑㄧ3"
+    },
+    {
+      "path": "audio/kokoro/8e1c14fb663bfed9.mp3",
+      "text": "米饭",
+      "phonemes": "ㄇㄧ3ㄈㄢ4"
+    },
+    {
+      "path": "audio/kokoro/208d5f6421375e4e.mp3",
+      "text": "再来点儿米饭吧，你吃得太少了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/02d83cbff41cd93e.mp3",
+      "text": "太少",
+      "phonemes": "ㄊㄞ4ㄕㄠ3"
+    },
+    {
+      "path": "audio/kokoro/32564565fb614a93.mp3",
+      "text": "做饭",
+      "phonemes": "ㄗ我4ㄈㄢ4"
+    },
+    {
+      "path": "audio/kokoro/cb97238c83c3feb5.mp3",
+      "text": "你做饭做得怎么样？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3e69df6d95bc71c3.mp3",
+      "text": "不怎么样",
+      "phonemes": "ㄅㄨ4ㄗㄣ3ㄇㄜ5阳4"
+    },
+    {
+      "path": "audio/kokoro/b2e2b2701e289f4f.mp3",
+      "text": "不怎么样，我妻子比我做得好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c87b67e4f0f4c200.mp3",
+      "text": "妻子",
+      "phonemes": "ㄑㄧ1ㄗㄭ3"
+    },
+    {
+      "path": "audio/kokoro/85d5ed5569af6d79.mp3",
+      "text": "下雪",
+      "phonemes": "ㄒ压4ㄒ月3"
+    },
+    {
+      "path": "audio/kokoro/f674d05e25db4397.mp3",
+      "text": "下雪了，今天真冷。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/20556ba476fae09b.mp3",
+      "text": "零下",
+      "phonemes": "ㄌ应2ㄒ压4"
+    },
+    {
+      "path": "audio/kokoro/a758e0c20718ca1a.mp3",
+      "text": "有零下10度吧？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2871f09d680fedf5.mp3",
+      "text": "度",
+      "phonemes": "ㄉㄨ4"
+    },
+    {
+      "path": "audio/kokoro/e14f40bd9e583c31.mp3",
+      "text": "穿",
+      "phonemes": "ㄔ万1"
+    },
+    {
+      "path": "audio/kokoro/99dcd1c0684bb93d.mp3",
+      "text": "是啊，你穿得太少了，我们进房间吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/755dc02982278084.mp3",
+      "text": "进",
+      "phonemes": "ㄐ阴4"
+    },
+    {
+      "path": "audio/kokoro/7726b0de98623ec6.mp3",
+      "text": "弟弟",
+      "phonemes": "ㄉㄧ4ㄉㄧ5"
+    },
+    {
+      "path": "audio/kokoro/c365cf75852931e7.mp3",
+      "text": "我弟弟让我帮他找个房子，现在他家离公司有点儿远。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/74f15c272bf0d605.mp3",
+      "text": "房子",
+      "phonemes": "ㄈㄤ2ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/ddf810cdcd7d87a0.mp3",
+      "text": "真的",
+      "phonemes": "ㄓㄣ1ㄉㄜ5"
+    },
+    {
+      "path": "audio/kokoro/bc24a6183dd49c7d.mp3",
+      "text": "住得远真的很累！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2b128cf3ba150733.mp3",
+      "text": "近",
+      "phonemes": "ㄐ阴4"
+    },
+    {
+      "path": "audio/kokoro/075fe8303a3b649b.mp3",
+      "text": "是啊，他也希望能住得近一点儿。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/013b053451b021f3.mp3",
+      "text": "开",
+      "phonemes": "ㄎㄞ1"
+    },
+    {
+      "path": "audio/kokoro/158217af7bc738be.mp3",
+      "text": "门开着呢，请进。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/93688ad57335526c.mp3",
+      "text": "着",
+      "phonemes": "ㄓㄜ5"
+    },
+    {
+      "path": "audio/kokoro/29f38012468d61a8.mp3",
+      "text": "请",
+      "phonemes": "ㄑ应3"
+    },
+    {
+      "path": "audio/kokoro/0898ab547d284cc9.mp3",
+      "text": "张",
+      "phonemes": "ㄓㄤ1"
+    },
+    {
+      "path": "audio/kokoro/4a77591828a4489a.mp3",
+      "text": "请问，张先生在吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/489c358750bbf260.mp3",
+      "text": "先生",
+      "phonemes": "ㄒ言1ㄕㄥ1"
+    },
+    {
+      "path": "audio/kokoro/db6948d34c575001.mp3",
+      "text": "再来",
+      "phonemes": "ㄗㄞ4ㄌㄞ2"
+    },
+    {
+      "path": "audio/kokoro/9d203b1a02f756d5.mp3",
+      "text": "他出去了。你下午再来吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/705784221b449dfa.mp3",
+      "text": "女孩儿",
+      "phonemes": "ㄋㄩ3ㄏㄞR2"
+    },
+    {
+      "path": "audio/kokoro/dc163c355f60d2e8.mp3",
+      "text": "那个正在说话的女孩儿是谁？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/179f1d05f5376bdb.mp3",
+      "text": "名字",
+      "phonemes": "ㄇ应2ㄗㄭ5"
+    },
+    {
+      "path": "audio/kokoro/8d60ad771a1ee11b.mp3",
+      "text": "我知道她的名字，她姓杨，叫杨笑笑，她姐姐是我同学。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f94dacf9553a325d.mp3",
+      "text": "杨",
+      "phonemes": "阳2"
+    },
+    {
+      "path": "audio/kokoro/da9d69e091ab2bf2.mp3",
+      "text": "笑笑",
+      "phonemes": "ㄒ要4ㄒ要4"
+    },
+    {
+      "path": "audio/kokoro/9b387fe6956ee74c.mp3",
+      "text": "手里",
+      "phonemes": "ㄕㄡ2ㄌㄧ3"
+    },
+    {
+      "path": "audio/kokoro/d8c927cfd3279381.mp3",
+      "text": "那个手里拿着铅笔的呢？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c6cfeec9a1fb6a49.mp3",
+      "text": "拿",
+      "phonemes": "ㄋㄚ2"
+    },
+    {
+      "path": "audio/kokoro/5537c0063bb83673.mp3",
+      "text": "铅笔",
+      "phonemes": "ㄑ言1ㄅㄧ3"
+    },
+    {
+      "path": "audio/kokoro/1adf75d878db5cfc.mp3",
+      "text": "女朋友",
+      "phonemes": "ㄋㄩ3ㄆㄥ2又5"
+    },
+    {
+      "path": "audio/kokoro/0ada520707d498a2.mp3",
+      "text": "听说你有女朋友了？我认识她吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/caa3d803097a3fb2.mp3",
+      "text": "班",
+      "phonemes": "ㄅㄢ1"
+    },
+    {
+      "path": "audio/kokoro/df843116ab8395e1.mp3",
+      "text": "就是我们班那个长着两个大眼睛，非常爱笑的女孩儿。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d692e86a03505ae5.mp3",
+      "text": "长着",
+      "phonemes": "ㄓㄤ3ㄓㄜ5"
+    },
+    {
+      "path": "audio/kokoro/73ac745614f62921.mp3",
+      "text": "爱笑",
+      "phonemes": "ㄞ4ㄒ要4"
+    },
+    {
+      "path": "audio/kokoro/6b77d4deffc45133.mp3",
+      "text": "前男友",
+      "phonemes": "ㄑ言2ㄋㄢ2又3"
+    },
+    {
+      "path": "audio/kokoro/bd1c9f33963431ec.mp3",
+      "text": "那个已经是她的前男友了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b8ca4e399d4e8fa3.mp3",
+      "text": "新京",
+      "phonemes": "ㄒ阴1ㄐ应1"
+    },
+    {
+      "path": "audio/kokoro/7066c915607ad672.mp3",
+      "text": "请问，这儿离新京宾馆远吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/18ab3e7becca7a98.mp3",
+      "text": "宾馆",
+      "phonemes": "ㄅ阴1ㄍ万3"
+    },
+    {
+      "path": "audio/kokoro/227a569c41ae85f6.mp3",
+      "text": "走路",
+      "phonemes": "ㄗㄡ3ㄌㄨ4"
+    },
+    {
+      "path": "audio/kokoro/eb2c344ea6291835.mp3",
+      "text": "不远，走路二十分钟就到。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1664c7e1cfed2ba5.mp3",
+      "text": "一直",
+      "phonemes": "ㄧ4ㄓ十2"
+    },
+    {
+      "path": "audio/kokoro/78133a66eeee003d.mp3",
+      "text": "从这儿一直往前走，到了前面的路口再往右走。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/71d81eb79d356013.mp3",
+      "text": "往前",
+      "phonemes": "王3ㄑ言2"
+    },
+    {
+      "path": "audio/kokoro/916355c504946762.mp3",
+      "text": "前面",
+      "phonemes": "ㄑ言2ㄇ言4"
+    },
+    {
+      "path": "audio/kokoro/b89bcb4a89e96e19.mp3",
+      "text": "路口",
+      "phonemes": "ㄌㄨ4ㄎㄡ3"
+    },
+    {
+      "path": "audio/kokoro/c9c441969e3158b7.mp3",
+      "text": "往",
+      "phonemes": "王3"
+    },
+    {
+      "path": "audio/kokoro/d7bcbd88d9606161.mp3",
+      "text": "右",
+      "phonemes": "又4"
+    },
+    {
+      "path": "audio/kokoro/f779c9466ed46a25.mp3",
+      "text": "有意思",
+      "phonemes": "又3ㄧ4ㄙㄭ5"
+    },
+    {
+      "path": "audio/kokoro/be815bec4b75aeaf.mp3",
+      "text": "没看过，听说很有意思。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2b5fc030d3e5c1c5.mp3",
+      "text": "但是",
+      "phonemes": "ㄉㄢ4ㄕ十4"
+    },
+    {
+      "path": "audio/kokoro/ce504d532d81c486.mp3",
+      "text": "可以，但是我女朋友也想去。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/850a5ef973e770ce.mp3",
+      "text": "虽然",
+      "phonemes": "ㄙ为1ㄖㄢ2"
+    },
+    {
+      "path": "audio/kokoro/15292b60d8429ed7.mp3",
+      "text": "我虽然去过好几次，但是还想再去玩儿玩儿。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0efe0dfa7422b844.mp3",
+      "text": "几次",
+      "phonemes": "ㄐㄧ3ㄘㄭ4"
+    },
+    {
+      "path": "audio/kokoro/3d08631684d4ada3.mp3",
+      "text": "玩儿",
+      "phonemes": "万R2"
+    },
+    {
+      "path": "audio/kokoro/18a63f52293c38cb.mp3",
+      "text": "到时候",
+      "phonemes": "ㄉㄠ4ㄕ十2ㄏㄡ5"
+    },
+    {
+      "path": "audio/kokoro/3a051811cfad042c.mp3",
+      "text": "好啊，到时候我给你打电话。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6294fde23a97ba3e.mp3",
+      "text": "打电话",
+      "phonemes": "ㄉㄚ3ㄉ言4ㄏ穵4"
+    },
+    {
+      "path": "audio/kokoro/770369b8cb592667.mp3",
+      "text": "晴天",
+      "phonemes": "ㄑ应2ㄊ言1"
+    },
+    {
+      "path": "audio/kokoro/c66c24257a6673e3.mp3",
+      "text": "虽然是晴天，但是很冷。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e03425ae5e34ed3b.mp3",
+      "text": "自己",
+      "phonemes": "ㄗㄭ4ㄐㄧ3"
+    },
+    {
+      "path": "audio/kokoro/6fd6bd7cc0499840.mp3",
+      "text": "可以，但是你自己去吧，我还有很多事情要做。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1ea67507113106ab.mp3",
+      "text": "事情",
+      "phonemes": "ㄕ十4ㄑ应5"
+    },
+    {
+      "path": "audio/kokoro/ea9deed4d09084d7.mp3",
+      "text": "商店",
+      "phonemes": "ㄕㄤ1ㄉ言4"
+    },
+    {
+      "path": "audio/kokoro/eff3530a7bd60339.mp3",
+      "text": "你在这个商店买过东西没有？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b6cbdd4d2f203423.mp3",
+      "text": "一次",
+      "phonemes": "ㄧ2ㄘㄭ4"
+    },
+    {
+      "path": "audio/kokoro/a40a1a0d983a3502.mp3",
+      "text": "买过一次，这儿的东西还可以，就是不便宜。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5fe4cb2f3bd6b802.mp3",
+      "text": "便宜",
+      "phonemes": "ㄅ言4ㄧ2"
+    },
+    {
+      "path": "audio/kokoro/28f5edaa262823dc.mp3",
+      "text": "两百",
+      "phonemes": "ㄌ阳2ㄅㄞ3"
+    },
+    {
+      "path": "audio/kokoro/ef935a953e316ed3.mp3",
+      "text": "两百块还可以，喜欢就买吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/53fc68246919f3a7.mp3",
+      "text": "日",
+      "phonemes": "ㄖ十4"
+    },
+    {
+      "path": "audio/kokoro/ee9b7aa64934fa74.mp3",
+      "text": "今天是12月20日，新年就要到了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4127e82191970d58.mp3",
+      "text": "新年",
+      "phonemes": "ㄒ阴1ㄋ言2"
+    },
+    {
+      "path": "audio/kokoro/e079ed0fa43b2a65.mp3",
+      "text": "就要",
+      "phonemes": "ㄐ又4要4"
+    },
+    {
+      "path": "audio/kokoro/d3e136b3ac485de9.mp3",
+      "text": "买票",
+      "phonemes": "ㄇㄞ3ㄆ要4"
+    },
+    {
+      "path": "audio/kokoro/d17c71b9acb958cb.mp3",
+      "text": "你买票了吗？",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ce0751d6994c6b3d.mp3",
+      "text": "火车站",
+      "phonemes": "ㄏ我3ㄔㄜ1ㄓㄢ4"
+    },
+    {
+      "path": "audio/kokoro/3729887b36873645.mp3",
+      "text": "还没有呢，明天就去火车站买票。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/628991a08632edc7.mp3",
+      "text": "过得",
+      "phonemes": "ㄍ我4ㄉㄜ5"
+    },
+    {
+      "path": "audio/kokoro/a62358151d74b158.mp3",
+      "text": "时间过得真快，新的一年快要到了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/54a367fe3444f059.mp3",
+      "text": "快要",
+      "phonemes": "ㄎ外4要4"
+    },
+    {
+      "path": "audio/kokoro/245b30617732981d.mp3",
+      "text": "大家",
+      "phonemes": "ㄉㄚ4ㄐ压1"
+    },
+    {
+      "path": "audio/kokoro/583b2cc8df94676e.mp3",
+      "text": "是啊，谢谢大家这一年对我的帮助！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/af113dfbc4e70408.mp3",
+      "text": "明年",
+      "phonemes": "ㄇ应2ㄋ言2"
+    },
+    {
+      "path": "audio/kokoro/1b33c033797108cf.mp3",
+      "text": "希望我们的公司明年更好！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/d0d6ba7ad68f5318.mp3",
+      "text": "更",
+      "phonemes": "ㄍㄥ4"
+    },
+    {
+      "path": "audio/kokoro/3ec33fb8c6a550da.mp3",
+      "text": "妹妹",
+      "phonemes": "ㄇㄟ4ㄇㄟ5"
+    },
+    {
+      "path": "audio/kokoro/6df47ce649251d56.mp3",
+      "text": "你妹妹怎么还没来？都八点四十了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6482df7e6aafa771.mp3",
+      "text": "四十",
+      "phonemes": "ㄙㄭ4ㄕ十2"
+    },
+    {
+      "path": "audio/kokoro/78b676852059436d.mp3",
+      "text": "等",
+      "phonemes": "ㄉㄥ3"
+    },
+    {
+      "path": "audio/kokoro/3778e3ccf23b48c4.mp3",
+      "text": "我们再等她几分钟吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e62d39c0299f9f6a.mp3",
+      "text": "半",
+      "phonemes": "ㄅㄢ4"
+    },
+    {
+      "path": "audio/kokoro/96a7a0a3feaf3106.mp3",
+      "text": "都等她半个小时了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f45322d708c01fe9.mp3",
+      "text": "听见",
+      "phonemes": "ㄊ应1ㄐ言4"
+    },
+    {
+      "path": "audio/kokoro/ca383d4c222094d6.mp3",
+      "text": "她来了，我听见她说话了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/527376ea6575c8c1.mp3",
+      "text": "阴",
+      "phonemes": "阴1"
+    },
+    {
+      "path": "audio/kokoro/973282d666b510da.mp3",
+      "text": "天阴了，我要回去了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/513ed0c20aa4678b.mp3",
+      "text": "回去",
+      "phonemes": "ㄏ为2ㄑㄩ4"
+    },
+    {
+      "path": "audio/kokoro/ddac28b3f22bc472.mp3",
+      "text": "慢点儿",
+      "phonemes": "ㄇㄢ4ㄉ言R3"
+    },
+    {
+      "path": "audio/kokoro/4c28b6bbd959c1e0.mp3",
+      "text": "好的。快要下雨了，你路上慢点儿。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c58c1abdb4daed27.mp3",
+      "text": "没关系",
+      "phonemes": "ㄇㄟ2ㄍ万1ㄒㄧ5"
+    },
+    {
+      "path": "audio/kokoro/b37c7b13f326c6a7.mp3",
+      "text": "没关系，我坐公共汽车。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6a8e13b46c6d329a.mp3",
+      "text": "再见",
+      "phonemes": "ㄗㄞ4ㄐ言4"
+    },
+    {
+      "path": "audio/kokoro/0fbc83ac0d8c8681.mp3",
+      "text": "好的。再见。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/264231dbf08920bf.mp3",
+      "text": "我要去北京旅游，你觉得什么时候去最好？ 九月去北京旅游最好。 为什么？ 九月的北京天气不冷也不热。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/00d7ba745b074356.mp3",
+      "text": "你喜欢什么运动？ 我最喜欢踢足球。 下午我们一起去踢足球吧。 好啊！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8e3cad0dd254b296.mp3",
+      "text": "我们要不要买几个新的椅子？ 好啊。什么时候去买？ 明天下午怎么样？你明天几点能回来？ 三点多。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5836ee64cee45154.mp3",
+      "text": "桌子下面有个猫。 那是我的猫，它叫花花。 它很漂亮。 是啊，我觉得它的眼睛最漂亮。 它多大了？ 六个多月。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7fc2bf8f2f44d395.mp3",
+      "text": "你很少生病，是不是喜欢运动？ 是啊，我每天早上都要出去跑步。 你每天几点起床？ 我每天六点起床。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f1f6802eaa94c0ef.mp3",
+      "text": "吃药了吗？现在身体怎么样？ 吃了。现在好多了。 什么时候能出院？ 医生说下个星期。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2745b8f991605450.mp3",
+      "text": "大卫今年多大？ 二十多岁。 他多高？ 一米八几。 你怎么知道这么多啊？ 他是我同学。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5ccaa3befa7fd6ac.mp3",
+      "text": "张老师星期六也不休息啊？ 是啊，他这几天很忙，没有时间休息。 那会很累吧？ 他每天回来都很累。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e7700350f8730fe9.mp3",
+      "text": "这块手表是你的吗？ 不是我的。是我爸爸的。 多少钱买的？ 三千多块。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/294f923f7766639a.mp3",
+      "text": "这是今天早上的报纸吗？ 不是，是昨天的。 你听，是不是送报纸的来了？ 我看一下。不是，是送牛奶的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9e57136dda21019a.mp3",
+      "text": "这是谁的房间？ 这是我和我丈夫的，旁边那个小的房间是我女儿的。 你女儿的房间真漂亮！都是粉色的。 是啊，粉色是我女儿最喜欢的颜色。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/0bf727830c147593.mp3",
+      "text": "你看见我的杯子了吗？ 这里有几个杯子，哪个是你的？ 左边那个红色的是我的。 给你。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e95cbc5552152e0f.mp3",
+      "text": "生日快乐！这是送给你的！ 是什么？是一本书吗？ 对，这本书是我写的。 太谢谢你了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/b7d76b4c168e341b.mp3",
+      "text": "早上有你一个电话。 电话是谁打的？ 不知道，是儿子接的。 好，晚上我问一下儿子。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/875c66b28d435ca2.mp3",
+      "text": "你喜欢踢足球吗？ 非常喜欢。 你是什么时候开始踢足球的？ 我十一岁的时候开始踢足球，已经踢了十年了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3176fd0ca6314f2d.mp3",
+      "text": "你在这儿工作多长时间了？ 已经两年多了，我是2011年来的。 你认识谢先生吗？ 认识，我们是大学同学，这个工作是他帮我介绍的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/dcaef4b4fa9a7523.mp3",
+      "text": "晚上我们去饭馆吃饭，怎么样？ 我不想去外面吃，我想在家吃。 那你准备做什么呢？ 就做你爱吃的鱼吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/a1571f31d0f6569a.mp3",
+      "text": "帮我看一下这件衣服怎么样。 颜色还可以，就是有点儿大。 这件小的怎么样？ 这件不错，就买这件吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8a5ad60b6252a60d.mp3",
+      "text": "今天去不去打球？ 这两天有点儿累，不去打球了。 你在做什么呢？是在想昨天的考试吗？ 是啊，我觉得听和说还可以，读和写不好，很多字我都不知道是什么意思。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/532ded68339dda2b.mp3",
+      "text": "休息一下吧，喝咖啡吗？ 不喝了，我已经喝两杯了。 是啊，咖啡喝多了对身体不好。 以后我少喝一点儿，每天喝一杯。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/78700e58436afca3.mp3",
+      "text": "你知道小王今天什么时候来学校吗？ 他已经来了。 你怎么知道他来了？ 我在门外看见他的自行车了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/91c9e3dd279ae35b.mp3",
+      "text": "今天的羊肉很好吃，你怎么不吃了？ 这个星期天天都吃羊肉，不想吃了。 那你还想吃什么？ 来一点儿面条吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9740cd14799e08d3.mp3",
+      "text": "昨天你们怎么都没去打篮球？ 因为昨天下雨，所以我们都没去。我去游泳了。 你经常游泳吗？ 这个月我天天游泳，我现在七十公斤了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/89b2922ddda356ad.mp3",
+      "text": "这两天怎么没看见小张？ 他去北京了。 去北京了？是去旅游吗？ 不是，听说是去看他姐姐。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8871be1d25ba2d95.mp3",
+      "text": "大卫回来了吗？ 没有，他还在教室学习呢。 已经9点多了，他怎么还在学习？ 明天有考试，他说今天要好好准备。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/58d5f2e1aa6f008f.mp3",
+      "text": "你现在在哪儿呢？ 在去机场的路上。你已经到了吗？ 我下飞机了。你还有多长时间能到这儿？ 二十分钟就到。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/240564c5f1e7faae.mp3",
+      "text": "你家离公司远吗？ 很远，坐公共汽车要一个多小时呢！ 坐公共汽车太慢了，你怎么不开车？ 开车也不快，路上车太多了！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/5922c545a6c84898.mp3",
+      "text": "今天晚上我们一起吃饭吧，给你过生日。 今天？离我的生日还有一个多星期呢！ 下个星期我要去北京，今天过吧。 好吧，离这儿不远有一个中国饭馆，走几分钟就到了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1ebba72ef199d016.mp3",
+      "text": "我们下午去看电影，好吗？ 今天下午我没有时间，明天下午再去吧。 你想看什么电影？ 让我想想再告诉你。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e4b576b265e57dd2.mp3",
+      "text": "外边天气很好，我们出去运动运动吧！ 你等等我，好吗？王老师让我给大卫打个电话。 回来再打吧。找大卫有什么事情吗？ 听说大卫病了，我想找时间去看看他。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/7460de58ee9a0659.mp3",
+      "text": "服务员，我房间的门打不开了。 您住哪个房间？ 317。 好的，我叫人去看看。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/1ff606fc43280f20.mp3",
+      "text": "你看看这几件衣服怎么样。 这件白的有点儿长，那件黑的有点儿贵。 这件红的呢？这是今天新来的。 让我再看看。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/19a9ff68cd3a5da3.mp3",
+      "text": "你好！请问张欢在吗？ 你打错了，我们这儿没有叫张欢的。 对不起。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/ffe7f3c941eb766e.mp3",
+      "text": "您从几岁开始学习跳舞？ 我第一次跳舞是在七岁的时候。 我女儿今年也七岁了。我希望她能跟您学跳舞，可以吗？ 没问题，非常欢迎。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/350a9bf14f9dce7b.mp3",
+      "text": "你知道吗？大卫找到工作了。 太好了！他从什么时候开始上班？ 从下个星期一开始。 这是他的第一个工作，希望他能喜欢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9d01d470c4041d67.mp3",
+      "text": "昨天的考试怎么样？你都听懂了吗？ 听懂了。 你都做完了没有？ 题太多，我没做完。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c9791d909200c7dc.mp3",
+      "text": "不要看电视了，明天上午还有汉语课呢。 看电视对学汉语有帮助。 明天的课你都准备好了吗？ 都准备好了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/285f8589cc3f49cc.mp3",
+      "text": "别看报纸了，医生说你要多休息。 好，不看了。给我一杯茶吧。 医生说吃药后两个小时不要喝茶。 医生还说什么了？ 医生让你听我的。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/26e1e0303eb5a4de.mp3",
+      "text": "你怎么买了这么多东西啊？ 哥哥今天中午回来吃饭。 我看看买什么了。羊肉、鸡蛋、面条、西瓜……真不少！妈妈呢？ 正在准备午饭呢！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/6124d51c5ea22fd0.mp3",
+      "text": "你在找什么？ 你看见我的手机了吗？白色的。 别找了，手机在桌子上呢，电脑旁边。 你看见我的衣服了吗？红色的那件。 那件衣服我帮你洗了，在外边呢。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/450d2ab3303cc4e8.mp3",
+      "text": "王方，昨天和你一起唱歌的人是谁？ 一个朋友。 什么朋友？是不是男朋友？ 不是不是，我同学介绍的，昨天第一次见。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/9ee6384d2316e1a0.mp3",
+      "text": "左边这个看报纸的女孩子是你姐姐吗？ 是，右边写字的那个人是我哥哥。 你哥哥多大？ 25岁，他比我大三岁。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/c7bf1b27bf6c8d0c.mp3",
+      "text": "今天的西瓜怎么卖？ 三块五一斤。 比昨天便宜。 是，苹果也比昨天便宜一些。您来点儿吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/3fce7ac90861a3fe.mp3",
+      "text": "前边说话的那个人就是我的汉语老师。你可能不认识她。 是新来的汉语老师吗？ 是去年来的，她姓王，28岁。 她比我们老师小两岁。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/2a3263dd08fc33f8.mp3",
+      "text": "你每天早上几点起床？ 六点多。 你比我早起一个小时。 我睡得也早，我每天晚上十点就睡觉。早睡早起身体好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/e22ae43c33c71e11.mp3",
+      "text": "再来点儿米饭吧，你吃得太少了。 不少了，今天吃得很好，太谢谢你了。 你做饭做得怎么样？ 不怎么样，我妻子比我做得好。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/aa7641bf6138ba90.mp3",
+      "text": "下雪了，今天真冷。 有零下10度吧？ 是啊，你穿得太少了，我们进房间吧。 好吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/25b6342a095aa56a.mp3",
+      "text": "你在忙什么呢？ 我弟弟让我帮他找个房子，现在他家离公司有点儿远。 住得远真的很累！ 是啊，他也希望能住得近一点儿。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/8a0dce80d20b4703.mp3",
+      "text": "门开着呢，请进。 请问，张先生在吗？ 他出去了。你下午再来吧。 好的，谢谢！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/af93f94a67269c41.mp3",
+      "text": "那个正在说话的女孩儿是谁？ 我知道她的名字，她姓杨，叫杨笑笑，她姐姐是我同学。 那个手里拿着铅笔的呢？ 我不认识。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/08dac90f300fddeb.mp3",
+      "text": "听说你有女朋友了？我认识她吗？ 就是我们班那个长着两个大眼睛，非常爱笑的女孩儿。 她不是有男朋友吗？ 那个已经是她的前男友了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/826bace6612a8855.mp3",
+      "text": "请问，这儿离新京宾馆远吗？ 不远，走路二十分钟就到。 你能告诉我怎么走吗？ 从这儿一直往前走，到了前面的路口再往右走。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/fb6c6e3d6b35a419.mp3",
+      "text": "你看过那个电影没有？ 没看过，听说很有意思。 那我们下个星期一起去看吧？ 可以，但是我女朋友也想去。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/721cbf534ff2ca75.mp3",
+      "text": "听说你去过中国，还想去吗？ 我虽然去过好几次，但是还想再去玩儿玩儿。 那我们一起去吧。 好啊，到时候我给你打电话。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/86b5035c88a32fa1.mp3",
+      "text": "明天天气怎么样？ 虽然是晴天，但是很冷。 那还能去跑步吗？ 可以，但是你自己去吧，我还有很多事情要做。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f049337d591c7581.mp3",
+      "text": "你在这个商店买过东西没有？ 买过一次，这儿的东西还可以，就是不便宜。 我喜欢这件衣服，但是觉得有点儿贵。 两百块还可以，喜欢就买吧。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/02576e5922047cdc.mp3",
+      "text": "今天是12月20日，新年就要到了。 新年你准备做什么？ 我想去北京旅游，北京很不错，我去过一次。 你买票了吗？ 还没有呢，明天就去火车站买票。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/86263bbb609b2830.mp3",
+      "text": "时间过得真快，新的一年快要到了！ 是啊，谢谢大家这一年对我的帮助！ 希望我们的公司明年更好！",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/4c8a8ecf29869303.mp3",
+      "text": "你妹妹怎么还没来？都八点四十了！ 我们再等她几分钟吧。 都等她半个小时了！ 她来了，我听见她说话了。",
+      "phonemes": null
+    },
+    {
+      "path": "audio/kokoro/f533ef5008092a2c.mp3",
+      "text": "天阴了，我要回去了。 好的。快要下雨了，你路上慢点儿。 没关系，我坐公共汽车。 好的。再见。",
+      "phonemes": null
+    }
+  ]
+}

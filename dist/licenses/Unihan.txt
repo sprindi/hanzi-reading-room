@@ -1,0 +1,2 @@
+Stroke counts from the Unicode Unihan database, kTotalStrokes. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip
+Unicode License v3: https://www.unicode.org/license.txt
