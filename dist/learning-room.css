@@ -31,3 +31,8 @@ body:has(#workspace:not([hidden])[data-stage=read]) main,body:has(#workspace:not
 #workspace,#practice-studio{scroll-margin-top:105px}@media(max-width:700px){#workspace,#practice-studio{scroll-margin-top:145px}}
 
 .audio-actions #play-word.replay-word{min-width:230px;padding:17px 26px;font-size:18px;border-radius:12px;background:var(--white);border-color:var(--line);color:var(--ink)}@media(max-width:700px){.audio-actions #play-word.replay-word{min-width:0;padding:13px}}
+
+/* Constrain the drawer itself so every lesson remains reachable. */
+#lesson-library[hidden]{display:none!important}
+.layout>#lesson-library{top:var(--library-top,82px);height:calc(100vh - var(--library-top,82px));height:calc(100dvh - var(--library-top,82px));max-height:calc(100dvh - var(--library-top,82px));align-self:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+@media print{.layout>#lesson-library{display:none!important}}
